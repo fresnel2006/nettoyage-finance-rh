@@ -1,6 +1,4 @@
 import pandas as pd
-from pandas import to_datetime
-from pandas.core.dtypes import astype
 from tabulate import tabulate
 import numpy as np
 
@@ -15,7 +13,7 @@ depense_finance["service_demandeur"]=depense_finance["service_demandeur"].str.lo
 depense_finance["montant"]=np.where(depense_finance["montant"].str.contains("[a-zA-Z]+",regex=True),pd.NA,depense_finance["montant"])
 depense_finance["montant"]=depense_finance["montant"].astype(float)
 
-depense_finance["devise"]=depense_finance["devise"].str.lower().str.replace("\s+",'',regex=True)
+depense_finance["devise"]=depense_finance["devise"].str.lower().str.replace(r"\s+",'',regex=True)
 
 depense_finance["mode_paiement"]=depense_finance["mode_paiement"].str.lower().str.strip()
 
