@@ -1,0 +1,1201 @@
+﻿id_employe,prenom_nom,departement,poste,ville,genre,age,niveau_etude,statut_contrat,date_embauche,anciennete_annees,salaire_mensuel_fcfa,heures_supplementaires_mois,jours_absence_annee,note_performance_sur5,satisfaction_sur5,teletravail
+EMP00922,Nathalie Peron,Informatik,Administrateur Système,sanpedro,Homme,50,bac,freelance,29/05/2023,3.3,574000,3.4,18,,1.5,OUI
+EMP01063,Catherine Charles,MARKETING ,Responsable Marketing,Man,H,52,Bac +2,CDI,09-07-2024,2.2,651000,1.9,19,3.9,2.6,non
+EMP00349,Sébastien-Raymond Denis, Informatique,Data Analyst,Daloa,F,33,MASTER,stage,07-03-2015,11.5,658000,6.6,10,2.7,1.6,non
+EMP00305,Jean Collin,PRODUCTION,Responsable Production,Abidjan,H,42,Bac,CDD,07/29/2019,7.1,772000,2.0,13,2.6,,oui
+EMP00132,Alfred Gimenez,Ressource Humaine,Chargé de Recrutement,Daloa,H,27,doctorat,cdi,2022-05-23,4.3,371000,3.0,7,4.3,3.0,Oui
+EMP00003,  Léon-Bernard Hebert   ,R.H.,Chargé de Recrutement,Bouake,F,56,Bac,CDI ,02 Dec 2020,5.8,428000,,12,3.5,4.1,non
+EMP01096,Jacqueline Delannoy, Informatique,Développeur Backend,yamoussoukro,femme,23,MASTER,Stage,2018-12-02,7.8,510000,11.0,19,1.8,3.7,non
+EMP01065,Joséphine Pinto,Prod,Technicien,Bouake,F,48,MASTER,freelance,2020-11-21,5.8,353000,,0,4.8,3.8,oui
+EMP00750,Céline Goncalves,ventes,Commercial Junior,abidjan,M,56,,stage,12/28/2019,6.7,319000,8.2,3,3.6,2.6,Oui
+EMP00973,Franck Barre,Ventes,Commercial Senior,man,Homme,31,BAC,cdd,2023-05-24,3.3,413000,17.7,7,3.7,4.1,oui
+EMP00571,Anaïs Giraud de la Joly, Informatique,DevOps,man,homme,54,Master,cdi,2014-10-08,11.9,,0,0,3.4,3.3,OUI
+EMP00435,Élodie Clerc-Albert,Vente,Key Account Manager,Abidjann,M,49,Licence,CDD,04-12-2024,1.8,577000,10.4,12,3.6,2.3,Non
+EMP00954,Hélène Costa,Logistique,Agent Logistique,San-Pédro,femme,23,licence,freelance,30 Aug 2025,1.0,222000,5.4,2,4.4,3.8,No
+EMP00351,Pauline Barre-Clément,PRODUCTION,Technicien,Bouaké,femme,22,,cdi,2023-09-12,3.0,289000,10.7,13,3.2,3.8,Oui
+EMP00537,Margaux de la Jacquet,Fiance,Auditeur Interne,Abidjann,Homme,55,licence,freelance,02/19/2018,8.6,,10.1,11,4.3,3.7,OUI
+EMP00349,Sébastien-Raymond Denis, Informatique,Data Analyst,Daloa,F,33,MASTER,stage,07-03-2015,11.5,658000,6.6,10,2.7,1.6,non
+EMP00002,Chantal de la Richard,Informatique,Administrateur Système,abidjan,femme,61,master,CDI ,01/03/2019,7.7,590000,7.2,16,3.5,3.5,OUI
+EMP00021,William-Gilbert Duhamel,Ventes,Commercial Senior,Abidjan,Femme,,doctorat,Cdi,11/15/2023,2.8,409000,,8,2.3,3.0,OUI
+EMP00019,Julie Le Goff,Ventes,Commercial Senior,Man,Homme,62,Doctorat,Cdi,27 Apr 2014,12.4,553000,0.6,2,4.3,3.7,OUI
+EMP00892,Adélaïde du Collin,R.H.,Gestionnaire Paie,Bouaké,F,28,Bac,cdi,04/07/2016,10.4,403000,4.1,2,3.2,4.4,No
+EMP01071,Grégoire Lefèvre,Ressources Humaines,Responsable RH,bouaké,femme,42,,CDD,07 Sep 2025,1.0,665000,,2,4.6,2.6,OUI
+EMP00362,Nathalie de Nicolas,ventes,Key Account Manager,Abidjan,homme,28,master,Stage,29-05-2020,6.3,720000,3.0,7,2.8,3.8,Oui
+EMP00218,Christiane de la Martinez,Finances,Comptable,,femme,27,bac,CDD,2024-09-02,2.0,403000,15.3,10,3.2,3.2,Oui
+EMP01059,Paul Barbe,Logistique,Responsable Logistique,San-Pédro,Homme,62,bac,Stage,04/03/2015,11.4,599000,5.8,4,2.8,3.4,OUI
+EMP01137,Jean Legendre,Prod,Responsable Production,,Homme,53,BAC+2,Cdi,26/11/2016,9.8,845000,4.5,0,2.5,5.0,non
+EMP01142,Patricia Gautier,PRODUCTION,Responsable Production,korhogo,Homme,24,Bac,cdi,30-09-2014,11.9,872000,7.7,5,2.3,3.9,Yes
+EMP00640,Frédéric Martel,PRODUCTION,Chef d'Équipe,sanpedro,H,49,licence,stage,27/04/2023,3.4,495000,11.9,1,3.4,2.7,OUI
+EMP01026,Josette Lemaire Le Jacquet,MARKETING ,Chef de Produit,Bouake,Homme,57,,Stage,2014-04-07,12.4,751000,6.5,5,3.3,3.0,Yes
+EMP00470,Laurent Gaillard,ventes,Key Account Manager,San Pedro,M,51,Licence,cdi,20-02-2014,12.6,788000,5.7,4,3.9,,oui
+EMP00281,Franck Devaux de la Maurice,Logistic,Magasinier,Abidjann,H,35,bac+2,CDI ,12/10/2018,7.9,283000,2.4,12,3.6,5.0,Oui
+EMP00240,Robert-Arthur Rossi,Markting,Chargé de Communication,,F,42,doctorat,Freelance,06/04/2026,0.3,300000,6.3,15,2.5,3.9,Oui
+EMP00100,  Rémy Marie   ,ventes,Commercial Senior,Yamoussoukro,femme,50,Master,CDD,29/06/2021,5.2,447000,6.2,10,4.1,1.8,Yes
+EMP00219,Auguste Bouchet,ventes,Commercial Senior,Bouaké,H,59,,Cdi,10/24/2019,6.9,540000,0.5,7,4.1,3.6,OUI
+EMP00340,Luc Munoz,Ressource Humaine,Chargé de Recrutement,ABIDJAN,femme,40,,Stage,2014-10-15,11.9,479000,9.4,0,2.1,4.0,Yes
+EMP01119,  Vincent Mary de Jacquot   ,VENTES,Commercial Junior,Man,Femme,,Bac,Freelance,21 Apr 2024,2.4,274000,6.8,7,,2.7,Non
+EMP00987,Michelle Leleu,finance,Contrôleur de Gestion,daloa ,Femme,,licence,Cdi,12 May 2014,12.3,734000,9.8,15,3.3,2.1,non
+EMP00724,Marc-Emmanuel Martinez,Prod,Technicien,yamoussoukro,H,50,doctorat,stage,25/10/2019,6.9,315000,7.7,16,2.9,4.4,oui
+EMP01036,Gilles-Benoît Hoareau,ventes,Responsable Commercial,daloa ,M,38,BAC,Cdi,22 Oct 2015,10.9,834000,0,5,,,Yes
+EMP00484,Célina Marques,Logistic,Magasinier,Abidjan,femme,63,BAC+2,Stage,2019-09-20,7.0,232000,7.3,2,2.8,1.9,OUI
+EMP01088,Patrick Blanchard,Info,Administrateur Système,ABIDJAN,H,42,master,CDI ,2019-02-17,7.6,591000,7.1,3,3.6,4.3,Oui
+EMP00862,Alfred Leblanc,Logistic,Agent Logistique,,H,29,Bac +2,cdd,14 Feb 2020,6.6,277000,5.6,6,3.8,5.0,oui
+EMP00763,Brigitte Traore,VENTES,Commercial Senior,daloa ,M,,licence,CDD,21/01/2023,3.6,415000,8.1,13,3.9,2.7,Non
+EMP00522,Marcel Chauveau,Markting,Responsable Marketing,San Pedro,femme,35,Bac +2,freelance,08 Feb 2014,12.6,970000,0,4,4.1,3.6,oui
+EMP01023,  Richard Bourgeois   ,Ventes,Responsable Commercial,sanpedro,,62,bac+2,Stage,18 Nov 2021,4.8,671000,5.2,2,2.6,3.3,No
+EMP00245,Xavier Pottier-Gros,informatique,Chef de Projet IT,bouaké,homme,39,doctorat,CDI ,2023-11-07,2.8,742000,9.6,2,2.5,4.4,oui
+EMP00249,William Berthelot,finance,Contrôleur de Gestion,San Pedro,Homme,46,Licence,Cdi,06-03-2019,7.5,714000,11.0,0,3.5,3.8,Non
+EMP01134,Anne Dijoux Le Girard,Ressource Humaine,Assistant RH,man,homme,23,bac,cdi,18/07/2026,0.1,269000,8.4,19,4.8,4.3,Oui
+EMP00399,Franck Blondel du Courtois,Finances,Contrôleur de Gestion,Bouake,M,47,BAC,freelance,03 Jul 2014,12.2,731000,9.8,5,4.1,2.8,OUI
+EMP00222,Martine Evrard de la Fernandez,marketing,Chef de Produit,Bouaké,F,38,,cdd,15-09-2024,2.0,566000,3.7,17,2.4,4.4,oui
+EMP01017,Renée de la Bègue,Informatik,DevOps,San-Pédro,,60,,stage,29 Mar 2015,11.4,679000,5.6,12,3.6,3.4,Yes
+EMP00290,Élise Ferreira,marketing,Responsable Marketing,Abidjan,homme,29,Bac,CDD,2023-10-18,2.9,764000,5.1,15,4.7,3.5,No
+EMP00691,Claire Marin-Germain,FINANCE,Contrôleur de Gestion,,,58,Bac +2,CDD,01/26/2025,1.6,519000,3.0,10,4.1,3.6,No
+EMP00298,Mathilde Cohen,Production,Ingénieur Qualité,sanpedro,Femme,55,MASTER,cdi,09-12-2015,10.8,586000,6.6,19,3.5,5.0,Oui
+EMP00306,David Hardy-Henry,Finance,Comptable,ABIDJAN,Homme,55,bac+2,cdi,03-07-2015,11.2,475000,9.5,19,2.6,4.2,Yes
+EMP00417,Pauline Hoarau,ventes,Commercial Junior,Man,homme,25,BAC,CDI,01/01/2020,6.7,317000,7.7,15,3.4,1.7,Non
+EMP00975,Maurice de la Pierre,FINANCE,Comptable,korhogo,femme,26,,stage,2018-06-13,8.2,511000,4.9,1,2.9,3.7,non
+EMP00791,Jeannine Vidal,ressources humaines,Responsable RH,Yamoussoukro,F,62,Master,cdd,02 Feb 2025,1.6,613000,0,1,2.4,3.5,oui
+EMP00596,Guy Maillard,Vente,Key Account Manager,bouaké,,51,bac,freelance,2025-10-14,0.9,580000,7.3,0,3.2,2.6,oui
+EMP00396,Margot Besson,Informatik,Développeur Frontend,sanpedro,homme,43,Licence,cdd,01/07/2020,6.7,474000,3.7,1,4.0,3.7,non
+EMP00761,Élodie Fernandez,VENTES,Commercial Senior,bouaké,femme,35,master,stage,10/24/2018,7.9,458000,2.3,11,4.0,5.0,Yes
+EMP00662,Nath Reynaud-Meunier,PRODUCTION,Chef d'Équipe,yamoussoukro,F,24,BAC+2,CDI ,13 Feb 2022,4.6,434000,0.1,0,4.3,1.9,Yes
+EMP01074,Thomas Lucas,MARKETING ,Responsable Marketing,Korhogo,Femme,27,Bac,CDD,02/03/2018,8.5,768000,0,4,4.6,5.0,No
+EMP00332,Joseph Lemaître de la Letellier,Vente,Commercial Junior,Man,H,42,licence,Cdi,12/15/2016,9.7,306000,10.6,0,3.9,,oui
+EMP00204,Adèle Giraud,Ressource Humaine,Responsable RH,man,H,58,Doctorat,cdd,03/27/2017,9.5,877000,9.6,1,4.2,3.6,non
+EMP00485,Hugues Roux de Meyer,Prod,Responsable Production,Bouaké,H,53,,Stage,04/22/2014,12.4,765000,7.5,1,3.2,5.0,OUI
+EMP00774,Alice Le Laroche,Prod,Technicien,Korhogo,femme,43,master,stage,20-01-2026,0.6,324000,2.7,9,2.5,4.4,OUI
+EMP00147,Michelle Durand,LOGISTIQUE,Magasinier,Abidjann,F,39,Doctorat,Freelance,17/05/2015,11.3,271000,7.2,1,4.6,4.1,oui
+EMP00815,Alain Godard-Hoareau,Fiance,Analyste Financier,Bouake,F,23,Master,CDI ,29/07/2026,0.1,557000,12.6,10,2.8,4.8,Oui
+EMP00173,Clémence Lemonnier,Informatique,Développeur Frontend,Korhogo,H,,bac,CDI,2017-11-22,8.8,607000,11.0,0,3.2,,non
+EMP00066,Eugène-Étienne Hernandez,R.H.,Responsable RH,Korhogo,Homme,41,Bac +2,CDD,2018-03-23,8.5,773000,6.8,10,3.6,,Oui
+EMP00984,Éléonore Blondel,Production,Chef d'Équipe,San-Pédro,femme,57,BAC,Stage,07 Jun 2024,2.2,409000,1.0,10,3.0,4.3,No
+EMP00354,Gilbert Legendre-Baron, Informatique,Administrateur Système,Bouaké,,53,Master,CDD,29-10-2018,7.9,556000,1.1,5,3.5,2.3,non
+EMP00380,Alfred Vidal de Normand,MARKETING ,Responsable Marketing,Abidjann,H,57,Master,Freelance,01/04/2020,6.7,851000,4.0,17,4.7,3.2,OUI
+EMP01115,Jérôme-Adrien Pierre,finance,Comptable,bouaké,H,39,Licence,Freelance,12/12/2020,5.7,478000,2.3,3,1.9,3.7,oui
+EMP00624,Paul Dias,Logistique,Agent Logistique,San-Pédro,M,52,Master,freelance,21-08-2025,1.0,239000,12.6,16,,4.2,OUI
+EMP00587,François Breton,marketing,Chef de Produit,San-Pédro,homme,51,,cdi,25-08-2015,11.0,762000,5.6,6,2.3,,Non
+EMP00847,Théodore Philippe,Finance,Auditeur Interne,korhogo,,46,BAC+2,Freelance,09 Apr 2023,3.4,652000,5.2,19,3.3,2.7,Yes
+EMP00601,Henri de Leclerc,LOGISTIQUE,Responsable Logistique,ABIDJAN,femme,28,Bac,stage,18/05/2022,4.3,556000,,4,3.8,3.7,non
+EMP01000,Marianne Bernard Le Andre,Fiance,Analyste Financier,Daloa,homme,21,,cdi,31-12-2015,10.7,645000,4.8,12,3.3,2.6,OUI
+EMP00598,Noémi Guillaume,FINANCE,Contrôleur de Gestion,sanpedro,femme,,bac,cdd,11/20/2014,11.8,841000,7.1,1,3.7,4.6,Yes
+EMP00321,Arnaude-Anastasie Marques,finance,Auditeur Interne,San Pedro,,54,,CDI,27/01/2017,9.6,631000,6.8,15,3.1,1.9,No
+EMP00032,Martine du Ferrand,finance,Contrôleur de Gestion,Bouaké,F,33,Licence,Stage,09/08/2021,5.0,725000,6.4,10,3.0,3.4,OUI
+EMP01118,William Besnard,Prod,Ingénieur Qualité,Man,,63,,Freelance,13-12-2020,5.7,609000,,15,3.2,3.4,non
+EMP00826,Aimé Dumas,Fiance,Contrôleur de Gestion,korhogo,homme,36,BAC+2,Cdi,07-07-2019,7.2,673000,2.0,2,3.9,2.6,oui
+EMP01069,Lucas Hoarau,marketing,Responsable Marketing,Bouaké,,36,,Stage,12/02/2020,6.6,895000,10.0,14,3.3,1.6,OUI
+EMP00578,Eugène du Martineau,production,Responsable Production,Abidjan,Femme,25,BAC,cdd,09/12/2020,5.7,692000,0.3,1,3.7,4.0,OUI
+EMP00042,Frédérique Legros,Informatique,Administrateur Système,sanpedro,H,54,bac,CDI ,03/07/2017,9.5,682000,0,12,5.0,3.4,oui
+EMP00811,Céline Perez Le Evrard,Info,Data Analyst,ABIDJAN,homme,57,Master,freelance,09 Aug 2020,6.1,610000,6.0,4,2.4,3.7,oui
+EMP00930,Hugues-Jacques Pruvost,marketing,Chef de Produit,daloa ,M,61,Doctorat,stage,2024-01-26,2.6,602000,,3,3.5,4.2,OUI
+EMP00452,Alexandria Arnaud-Fournier,LOGISTIQUE,Magasinier,San Pedro,M,,,cdi,31/01/2024,2.6,231000,6.9,13,4.0,3.9,Yes
+EMP01014,Suzanne de Maréchal,Fiance,Contrôleur de Gestion,abidjan,,59,bac+2,Cdi,2026-06-21,0.2,558000,3.3,2,,3.3,Oui
+EMP00768,Gilles-Christophe Antoine,logistique,Magasinier,San-Pédro,,32,Bac +2,CDD,26-06-2023,3.2,225000,0,0,4.0,3.4,Non
+EMP00560,Marie-Lucy Auger,Logistic,Magasinier,daloa ,M,23,bac+2,freelance,02/11/2025,1.6,190000,1.2,3,4.0,3.7,Oui
+EMP01114,Eugène Ledoux,Logistic,Magasinier,Bouake,femme,26,bac,freelance,03/20/2021,5.5,243000,0.7,16,2.3,,Non
+EMP00787,Françoise Lopez,ressources humaines,Assistant RH,Daloa,Homme,44,Bac,cdd,01/10/2019,7.7,328000,11.1,3,2.4,2.8,OUI
+EMP00939,Aurélie Letellier,Ressource Humaine,Chargé de Recrutement,sanpedro,F,,BAC,cdd,06/18/2018,8.2,487000,9.0,1,4.6,1.4,non
+EMP00680,Jérôme du De Sousa,R.H.,Assistant RH,Bouake,F,52,licence,CDI ,15/02/2014,12.6,349000,2.1,2,4.0,3.5,Yes
+EMP00719,Constance Diallo,Ventes,Key Account Manager,Daloa,F,60,Doctorat,cdd,21-05-2016,10.3,720000,,17,2.7,3.5,Non
+EMP00620,Matthieu Le Gall,Info,Administrateur Système,Abidjann,M,43,licence,freelance,29 Nov 2016,9.8,690000,10.2,17,2.9,5.0,non
+EMP01009,Michèle Charpentier,Finances,Auditeur Interne,man,homme,54,doctorat,Stage,30-12-2024,1.7,533000,1.3,18,4.7,3.4,oui
+EMP00524,Sylvie-Marguerite Barre,Marketing,Chargé de Communication,yamoussoukro,homme,41,MASTER,Freelance,23 Dec 2022,3.7,378000,1.3,15,3.2,3.9,Non
+EMP00824,Marine Delmas,PRODUCTION,Responsable Production,Yamoussoukro,Homme,45,Licence,CDI ,03 Jun 2015,11.3,835000,,11,4.9,2.3,oui
+EMP00999,Sébastien Turpin,informatique,Chef de Projet IT,Man,homme,38,Licence,cdd,2024-11-18,1.8,683000,0,13,4.6,3.4,OUI
+EMP00581,Dominique Bègue,Ressources Humaines,Gestionnaire Paie,Korhogo,H,22,master,cdi,12-10-2022,3.9,380000,6.0,5,3.2,4.0,No
+EMP00104,Martin Hervé,production,Chef d'Équipe,San Pedro,M,50,Bac +2,cdi,14-10-2016,9.9,583000,6.2,12,2.7,4.4,oui
+EMP00566,Tristan Gallet,PRODUCTION,Chef d'Équipe,yamoussoukro,M,35,licence,CDI,20 May 2017,9.3,474000,5.2,12,3.2,5.0,non
+EMP00694,Suzanne-Emmanuelle Wagner,production,Responsable Production,San Pedro,Homme,55,Doctorat,cdd,01/29/2015,11.6,850000,15.5,1,3.5,3.3,Yes
+EMP01010,Pierre Martinez, Informatique,DevOps,sanpedro,M,37,bac+2,cdi,20/02/2015,11.6,676000,4.2,3,3.8,1.3,Non
+EMP00425,Dorothée-Lucy Allard,Ressource Humaine,Assistant RH,Bouake,Homme,30,Doctorat,CDI ,2020-03-23,6.5,332000,10.5,2,3.9,1.8,Yes
+EMP00174,Marine Brunel,INFORMATIQUE,Data Analyst,bouaké,M,36,licence,cdd,04/06/2026,0.3,497000,3.0,0,2.9,3.8,No
+EMP00986,Roland Maillot de Lecoq,Ventes,Commercial Junior,Man,femme,42,Doctorat,stage,06/06/2023,3.3,295000,7.7,10,3.5,3.4,Oui
+EMP00400,Suzanne-Alix Roussel,Vente,Key Account Manager,abidjan,F,46,,cdd,28-07-2020,6.1,-50000,,5,3.3,2.9,OUI
+EMP01046,Théophile Jourdan,MARKETING ,Chef de Produit,man,homme,60,Bac,freelance,02/19/2016,10.6,,2.4,7,4.1,4.9,oui
+EMP00106,Benjamin du Gros,Prod,Chef d'Équipe,man,M,57,BAC+2,Freelance,04/08/2016,10.4,540000,1.2,7,3.6,2.2,Non
+EMP01011,Audrey Barbier du Becker,production,Responsable Production,Bouaké,M,51,Bac,freelance,12/29/2018,7.7,815000,1.5,11,2.5,4.1,No
+EMP00326,Benjamin-Étienne Maurice,marketing,Chef de Produit,daloa ,M,44,doctorat,Stage,26 Apr 2022,4.4,580000,6.5,2,3.3,4.1,Oui
+EMP00426,Colette Mary,LOGISTIQUE,Agent Logistique,Abidjann,Femme,62,Master,stage,10 Nov 2014,11.8,284000,6.7,12,3.4,2.7,oui
+EMP00706,Luc Hervé-Weber,INFORMATIQUE,Administrateur Système,abidjan,,26,BAC,Cdi,13 Mar 2022,4.5,606000,20.0,14,4.0,2.5,Oui
+EMP00855,Alain Leconte,informatique,Développeur Frontend,abidjan,H,42,licence,Stage,09 Oct 2025,0.9,442000,8.0,4,3.4,4.6,No
+EMP00431,André Joseph,LOGISTIQUE,Responsable Logistique,man,Homme,63,BAC+2,Freelance,09/26/2018,8.0,635000,,7,5.0,4.3,Oui
+EMP00670,Geneviève Barbe,Finances,Comptable,Man,femme,63,master,CDD,11-05-2015,11.3,553000,3.7,0,3.1,3.1,Yes
+EMP00236,Anaïs Marie,FINANCE,Analyste Financier,Daloa,H,36,Bac,freelance,26-09-2019,7.0,641000,7.7,5,3.3,3.0,No
+EMP00271,Marguerite Fouquet Le Lefèvre,ressources humaines,Chargé de Recrutement,Man,Femme,33,BAC,stage,03/29/2017,9.4,423000,,10,1.7,3.2,oui
+EMP00738,Amélie Gallet du Rivière,Finances,Comptable,man,femme,43,Licence,stage,26-09-2021,4.9,432000,6.5,16,3.9,4.7,Non
+EMP01107,Marcel de la Lemonnier,Informatik,Administrateur Système,ABIDJAN,M,23,,stage,07/14/2022,4.2,583000,3.4,19,3.2,3.1,non
+EMP00367,Xavier Lemaître-Letellier,informatique,Développeur Frontend,Abidjann,H,33,,stage,11/01/2022,4.7,470000,8.4,6,2.8,4.9,Oui
+EMP00678,Audrey Chauveau de la Ruiz,Info,Chef de Projet IT,Daloa,homme,39,bac+2,CDI,01/11/2016,10.7,788000,2.4,1,3.4,1.5,oui
+EMP00561,Charles Moreau,Marketing,Chargé de Communication,sanpedro,M,49,licence,freelance,07-11-2017,8.8,392000,10.7,5,2.9,1.3,Yes
+EMP00345,  Frédéric Klein   ,Logistic,Responsable Logistique,sanpedro,H,40,Licence,stage,16/03/2022,4.5,496000,5.8,11,3.5,2.3,No
+EMP00871,Émilie Pires,marketing,Community Manager,bouaké,homme,,,freelance,2019-08-05,7.1,384000,8.8,1,3.5,3.6,oui
+EMP00565,Matthieu Giraud,Marketing,Community Manager,daloa ,H,27,,CDD,18/08/2016,10.1,371000,3.1,2,,3.9,oui
+EMP00525,Adèle Guillon,Fiance,Analyste Financier,korhogo,Homme,48,Bac,freelance,16/11/2018,7.8,609000,9.0,19,3.9,3.7,No
+EMP00494,Marianne Gonzalez,production,Chef d'Équipe,yamoussoukro,femme,22,bac,Freelance,15 Apr 2017,9.4,515000,6.3,4,4.2,3.5,Oui
+EMP00830,Alexandria Seguin,logistique,Responsable Logistique,ABIDJAN,Homme,62,doctorat,stage,12/24/2024,1.7,,,0,2.6,,oui
+EMP00636,André Diaz,Ressources Humaines,Gestionnaire Paie,,femme,48,doctorat,cdd,13 Feb 2016,10.6,450000,6.5,2,3.5,4.5,No
+EMP00266,Claudine Bertrand,Ressource Humaine,Assistant RH,bouaké,Homme,36,MASTER,CDI,26-01-2026,0.6,253000,9.2,3,3.7,3.0,oui
+EMP00398,Guy Mallet,LOGISTIQUE,Magasinier,Man,H,33,BAC+2,Freelance,16 Dec 2025,0.7,221000,8.6,8,4.8,,oui
+EMP00765,Vincent Vallet,Ressource Humaine,Assistant RH,Bouake,femme,29,bac,Cdi,2015-03-24,11.5,367000,7.7,2,2.7,3.1,oui
+EMP00651,Aimé Raymond,INFORMATIQUE,DevOps,korhogo,H,25,,cdi,24 Dec 2025,0.7,627000,8.2,14,4.1,2.5,Oui
+EMP00743,Antoinette Maillot,informatique,Développeur Backend,daloa ,F,49,licence,Freelance,04/18/2014,12.4,601000,3.2,6,4.4,4.3,No
+EMP00058,Sébastien Fernandes Le Fernandes,R.H.,Gestionnaire Paie,Korhogo,H,23,,Stage,27-06-2024,2.2,391000,4.2,0,3.4,3.7,Oui
+EMP00720,Édouard Peron,ressources humaines,Chargé de Recrutement,Man,Femme,43,Master,CDD,02/16/2021,5.6,455000,11.2,0,2.9,3.5,oui
+EMP00962,Marcelle-Patricia Guyot,R.H.,Chargé de Recrutement,Man,Femme,52,licence,Stage,01/19/2023,3.6,421000,10.3,0,1.8,3.9,oui
+EMP00102,Christine Hamel,Logistic,Responsable Logistique,Abidjann,homme,38,MASTER,cdi,10/03/2023,2.9,475000,9.4,0,3.8,2.8,No
+EMP01040,Pierre Lelièvre,Production,Ingénieur Qualité,yamoussoukro,Homme,24,doctorat,CDI,2019-03-22,7.5,573000,8.0,11,4.0,3.5,non
+EMP00456,Éléonore Rocher de la Gaillard,Finances,Comptable,Abidjan,H,58,Licence,cdd,06/28/2022,4.2,429000,10.6,7,2.8,3.2,Oui
+EMP00887,Zacharie Lombard-Maillot,RH,Gestionnaire Paie,man,Homme,34,Doctorat,CDD,19/06/2015,11.2,461000,,12,,3.7,No
+EMP00217,Josette Lacroix,RH,Responsable RH,abidjan,,51,doctorat,cdd,14/10/2019,6.9,770000,4.1,8,2.4,1.4,OUI
+EMP00812,Paul Letellier,MARKETING ,Community Manager,,homme,42,Bac,Stage,09 Jun 2024,2.2,333000,,5,4.5,4.6,oui
+EMP01041,Léon-Thibault Leduc,production,Responsable Production,Daloa,Femme,35,Master,stage,16 Apr 2014,12.4,857000,,19,3.2,3.3,non
+EMP00016,Émilie Dias,finance,Comptable,bouaké,M,35,bac+2,CDD,16-04-2016,10.4,509000,11.5,0,3.2,3.4,Yes
+EMP00617,Élise Colin,marketing,Community Manager,Bouake,M,32,Bac,Cdi,2025-11-07,0.8,263000,7.6,6,2.9,1.6,No
+EMP00448,Andrée Ruiz,informatique,Chef de Projet IT,Yamoussoukro,M,21,Licence,Freelance,11/09/2022,3.8,654000,8.5,0,4.6,2.8,oui
+EMP00231,Tristan Millet,ressources humaines,Assistant RH,yamoussoukro,,46,master,Stage,06/10/2015,11.2,307000,0.3,18,3.7,3.3,No
+EMP00429,Françoise-Christelle Dias,Informatique,Développeur Frontend,Abidjann,femme,42,licence,Freelance,26 Jul 2016,10.1,599000,5.9,0,3.9,2.5,No
+EMP00324,Roger Le Tanguy,Markting,Chargé de Communication,yamoussoukro,F,32,MASTER,CDD,2022-07-27,4.1,360000,9.0,15,2.3,3.3,Yes
+EMP00810,Laurent Moreau Le Fabre,VENTES,Key Account Manager,man,Femme,48,bac+2,Stage,2022-03-15,4.5,711000,,4,3.1,3.8,Non
+EMP00886,Henriette Pons,LOGISTIQUE,Magasinier,San-Pédro,H,31,BAC,cdi,05/08/2022,4.3,229000,16.2,18,2.8,2.8,Oui
+EMP01108,Gilles-Alain Bègue,Marketing,Chef de Produit,Bouaké,Femme,63,Doctorat,CDI ,08 Jul 2014,12.2,789000,,11,3.3,3.3,No
+EMP00208,Benoît Lamy-Fournier,R.H.,Chargé de Recrutement,korhogo,F,33,MASTER,CDI ,20/02/2016,10.6,488000,3.9,14,4.1,4.1,No
+EMP00570,Pauline Colas-Imbert,Info,Développeur Backend,Abidjann,femme,35,BAC+2,CDD,05-08-2017,9.1,522000,7.4,4,3.5,3.7,non
+EMP00649,Maurice Besnard,Prod,Technicien,Bouake,Femme,22,Licence,cdd,15 Jul 2016,10.2,390000,,13,3.4,3.7,oui
+EMP00395,Noël Garnier,Ressource Humaine,Chargé de Recrutement,Abidjan,femme,29,Doctorat,Cdi,23/10/2023,2.9,397000,5.8,12,3.6,4.9,No
+EMP00381,Emmanuel Buisson-Grondin,Info,Développeur Frontend,man,M,42,bac,Stage,04-05-2020,6.3,546000,10.0,18,3.1,2.7,Non
+EMP00440,Denise De Oliveira,Informatique,Développeur Backend,bouaké,,25,master,cdd,07 Aug 2023,3.1,526000,4.7,0,3.2,4.6,Non
+EMP01101,Alfred Pereira,Ressource Humaine,Chargé de Recrutement,man,H,37,master,CDD,25/01/2014,12.6,521000,1.2,0,3.3,1.0,oui
+EMP00735,Patrick Pinto,R.H.,Chargé de Recrutement,,M,54,,cdd,30/01/2020,6.6,424000,8.7,13,2.2,3.9,Oui
+EMP00424,Roger Valette,Prod,Chef d'Équipe,Daloa,F,0,Licence,stage,23-02-2016,10.5,498000,9.3,7,3.1,4.0,oui
+EMP00639,Martin du Lagarde,MARKETING ,Community Manager,man,H,40,Doctorat,freelance,01-07-2019,7.2,385000,10.7,18,3.9,3.1,Non
+EMP00963,François Le Gall,Ressource Humaine,Assistant RH,San-Pédro,H,32,Bac,Stage,2017-07-26,9.1,337000,7.7,6,,2.9,oui
+EMP00759,Luc-Roland Sauvage,Prod,Responsable Production,Yamoussoukro,Homme,23,Master,CDI ,15-11-2025,0.8,590000,10.8,13,3.1,3.0,oui
+EMP00419,  Alphonse Chartier   ,finance,Comptable,yamoussoukro,F,59,Master,CDI,16/11/2023,2.8,454000,3.1,0,3.3,2.3,Yes
+EMP00938,Odette Couturier,MARKETING ,Chargé de Communication,sanpedro,M,57,Bac,freelance,04/01/2018,8.7,435000,10.9,4,3.0,3.3,non
+EMP00971,Xavier Bonnin,VENTES,Commercial Senior,man,M,37,,CDI ,24-07-2014,12.1,,6.2,1,,2.5,No
+EMP01150,Célina Cohen-Robin,Informatik,DevOps,man,femme,54,doctorat,Cdi,07 Sep 2017,9.0,inconnu,0,14,3.1,3.3,No
+EMP00190,Gilbert Bernier,production,Responsable Production,Abidjan,femme,29,BAC,stage,03/10/2015,10.9,884000,5.3,10,2.9,4.1,No
+EMP00011,Chantal Rolland,Informatik,Chef de Projet IT,Bouaké,Homme,vingt-cinq,Master,cdi,07-03-2015,11.5,994000,5.0,2,3.2,3.9,Non
+EMP00397,Tristan Julien,logistique,Agent Logistique,Korhogo,,28,Bac,CDD,06 Nov 2019,6.8,239000,7.0,16,4.0,2.7,non
+EMP00054,Monique Rivière Le Guyot,marketing,Chef de Produit,San-Pédro,femme,47,BAC,CDI,08/28/2014,12.0,709000,10.3,0,3.1,,oui
+EMP00459,Laure Bouvet,LOGISTIQUE,Magasinier,man,M,,MASTER,CDI ,2014-08-27,12.0,311000,2.8,10,2.8,4.2,non
+EMP00341,Lucas Sanchez, Informatique,Chef de Projet IT,,Homme,54,bac+2,Cdi,11-01-2017,9.7,927000,,2,2.8,3.6,Non
+EMP00549,Xavier de la Dupuy,VENTES,Commercial Senior,sanpedro,H,,bac,Stage,08/11/2022,3.8,471000,5.0,2,3.8,1.8,non
+EMP00621,Henri Durand,RH,Gestionnaire Paie,bouaké,homme,28,bac+2,CDI ,14 Mar 2021,5.5,338000,7.6,18,4.0,5.0,OUI
+EMP00037,Margot Coulon,ventes,Commercial Junior,Bouaké,Homme,22,MASTER,Stage,11/29/2015,10.8,377000,9.1,0,2.9,2.5,Oui
+EMP00285,Océane Lacroix,Logistic,Responsable Logistique,daloa ,femme,25,master,Cdi,08/25/2019,7.0,549000,4.4,10,4.8,3.2,oui
+EMP00997,Gabriel de Benoit,Finances,Analyste Financier,Daloa,homme,49,bac,Stage,04 Jul 2023,3.2,626000,4.3,4,4.3,3.8,oui
+EMP00081,Arthur Bailly,Informatique,Administrateur Système,Man,Femme,49,master,cdi,26 Jan 2022,4.6,526000,4.2,13,2.1,3.2,OUI
+EMP00992,Caroline Bazin,ressources humaines,Assistant RH,San-Pédro,femme,24,,Freelance,2019-03-09,7.5,313000,7.4,3,4.3,4.1,Oui
+EMP00295,Richard Nguyen-Alexandre,R.H.,Chargé de Recrutement,Bouaké,Homme,37,licence,CDI,13/04/2023,3.4,393000,,16,4.5,4.1,Oui
+EMP00937,  Adrien Jacquot   ,Marketing,Responsable Marketing,,Femme,52,Licence,cdi,29/07/2023,3.1,,4.0,7,4.4,3.4,Yes
+EMP00418,Édith Humbert du Moulin,Finances,Analyste Financier,sanpedro,H,29,Bac,cdi,02-08-2014,12.1,617000,5.8,12,3.1,3.2,Yes
+EMP01039,Camille Marty,ventes,Key Account Manager,Yamoussoukro,F,56,BAC+2,Stage,04/26/2019,7.4,772000,3.4,12,2.9,4.5,oui
+EMP00365,Henri Poirier,INFORMATIQUE,Data Analyst,man,homme,27,Master,cdi,2016-09-26,10.0,711000,12.1,0,4.2,4.1,Non
+EMP00027,Matthieu-Philippe De Oliveira,Ventes,Commercial Junior,yamoussoukro,Homme,,Bac +2,CDI,16-02-2019,7.6,346000,12.1,15,3.9,4.9,No
+EMP00044,David Aubry, Informatique,Développeur Frontend,sanpedro,H,,Bac,stage,07-04-2014,12.4,575000,7.1,18,3.4,3.2,No
+EMP00254,Henriette Berger de Dupont,Ventes,Responsable Commercial,Bouake,femme,63,bac+2,Cdi,05/28/2022,4.3,722000,6.3,10,4.0,3.5,No
+EMP00289,Jeannine Maillet,LOGISTIQUE,Responsable Logistique,yamoussoukro,Femme,27,Master,stage,17 Nov 2016,9.8,555000,6.8,17,3.4,3.2,Yes
+EMP00056,Guillaume Besson,RH,Assistant RH,daloa ,Homme,39,master,Cdi,12/12/2019,6.7,338000,0,0,3.4,3.7,non
+EMP00865,Thérèse Hoareau-Charpentier,Info,DevOps,yamoussoukro,femme,46,bac,CDI ,28-11-2025,0.8,609000,5.1,18,2.3,3.4,Yes
+EMP00125,Claudine du Pasquier,Production,Technicien,ABIDJAN,femme,21,Licence,cdd,12 May 2015,11.3,,0.1,15,2.0,4.3,non
+EMP00626,Olivier Gautier,VENTES,Commercial Senior,man,Femme,54,BAC+2,cdd,10 Mar 2025,1.5,428000,8.0,3,2.5,4.2,Oui
+EMP01093,Aimé Adam,VENTES,Key Account Manager,,homme,62,BAC+2,stage,05/02/2024,2.3,609000,8.6,2,3.3,3.5,No
+EMP00302,Audrey Clément,Finance,Contrôleur de Gestion,San Pedro,Homme,55,BAC+2,freelance,02/04/2023,3.4,680000,9.1,14,2.1,3.1,No
+EMP01048,Françoise Garnier,finance,Auditeur Interne,Yamoussoukro,M,47,Master,cdi,14 Jun 2023,3.2,601000,2.9,3,2.8,2.5,oui
+EMP00897,William Thomas,production,Chef d'Équipe,abidjan,M,37,doctorat,CDD,2024-06-16,2.2,422000,4.1,1,2.2,4.7,Non
+EMP00491,Charlotte Jacquet,Prod,Responsable Production,man,Homme,47,BAC,cdd,2015-10-03,10.9,902000,10.8,6,2.5,2.6,No
+EMP00226,Timothée Boucher,Ressources Humaines,Assistant RH,man,femme,35,bac,freelance,06-01-2018,8.7,323000,8.8,6,3.5,4.0,Oui
+EMP00715,Gilbert Rocher Le Boutin, Informatique,Data Analyst,man,Femme,49,Bac,CDI ,09/26/2015,11.0,746000,3.3,13,2.3,3.2,Yes
+EMP01125,  Valentine Leconte   ,ressources humaines,Responsable RH,bouaké,H,24,licence,Freelance,2024-06-06,2.3,652000,4.0,18,,1.7,oui
+EMP00915,Luc Loiseau du Thibault,finance,Comptable,ABIDJAN,homme,53,,CDI,2025-09-24,1.0,373000,2.3,19,4.8,4.1,OUI
+EMP00355,Laurent Baron Le Chauvin,ventes,Responsable Commercial,Daloa,Femme,34,BAC,cdi,05 Jun 2023,3.3,721000,0,1,,3.6,No
+EMP00394,  Honoré Duval   ,PRODUCTION,Technicien,bouaké,H,52,Bac,Freelance,07/04/2025,1.4,304000,4.6,9,,3.6,Non
+EMP01003,Marcelle Lefèvre, Informatique,Développeur Frontend,,Femme,-5,BAC,freelance,10/23/2014,11.9,561000,2.5,6,3.2,3.1,oui
+EMP01100,Odette Gautier,Vente,Responsable Commercial,abidjan,femme,24,,CDI,29-04-2018,8.4,719000,8.1,4,3.8,4.6,Oui
+EMP01019,Lucas Maillot,logistique,Responsable Logistique,San Pedro,F,39,Licence,stage,06/25/2015,11.2,559000,4.5,2,2.9,4.4,Oui
+EMP00592,Claire Barbe,Logistique,Agent Logistique,San-Pédro,,45,master,Stage,15 Oct 2018,7.9,281000,11.7,3,3.3,2.1,Oui
+EMP00172,Jacques Robin du Gérard,Finances,Auditeur Interne,Yamoussoukro,Homme,52,MASTER,stage,08/27/2019,7.0,,2.4,4,3.5,3.0,Yes
+EMP00045,Christophe Loiseau,Logistic,Agent Logistique,San-Pédro,F,24,MASTER,Cdi,2016-04-13,10.4,278000,10.8,1,3.3,3.7,OUI
+EMP00911,Jean Parent,Ressources Humaines,Responsable RH,man,homme,48,,CDD,06 Jul 2026,0.2,609000,5.1,11,4.0,2.2,OUI
+EMP00200,Benoît Baron,ventes,Commercial Senior,sanpedro,homme,26,doctorat,CDI ,28/08/2024,2.0,388000,6.3,0,3.3,4.4,non
+EMP01061,Patrick Barthelemy,Logistique,Responsable Logistique,man,Homme,43,,CDI,02/01/2023,3.6,469000,4.3,1,4.0,,Yes
+EMP00318,Édith Duhamel,Ressource Humaine,Chargé de Recrutement,sanpedro,Homme,31,licence,CDD,25/07/2014,12.1,437000,0.5,13,4.5,4.8,Yes
+EMP00015,Gérard Guyon,LOGISTIQUE,Agent Logistique,daloa ,,33,bac+2,CDI,01-02-2019,7.6,310000,1.6,2,3.6,4.4,non
+EMP00709,Nathalie Muller-Masson,Markting,Chargé de Communication,Bouaké,F,39,Licence,freelance,12-05-2020,6.3,368000,8.5,0,4.8,3.7,No
+EMP00254,Henriette Berger de Dupont,Ventes,Responsable Commercial,Bouake,femme,63,bac+2,Cdi,05/28/2022,4.3,722000,6.3,10,4.0,3.5,No
+EMP00756,Pierre Laporte,ressources humaines,Gestionnaire Paie,Abidjan,H,49,licence,Freelance,26 Feb 2022,4.5,375000,0,0,2.5,3.7,oui
+EMP00783,Camille Descamps,Logistic,Responsable Logistique,Bouaké,M,59,master,stage,12/17/2025,0.7,452000,0.8,11,2.7,3.6,Yes
+EMP00352,Jacques Allain,Ressource Humaine,Responsable RH,ABIDJAN,femme,45,,stage,07/16/2017,9.1,726000,4.9,13,4.5,4.3,oui
+EMP00083,  Lucas Dumas   ,Production,Responsable Production,San-Pédro,homme,35,master,stage,2014-10-04,11.9,818000,6.9,6,3.3,3.4,non
+EMP00225,Sabine Samson,ventes,Commercial Senior,Man,homme,23,master,CDD,05/06/2014,12.3,572000,0,0,3.0,3.9,OUI
+EMP00772,Patrick-Thibault Blanchet,MARKETING ,Chargé de Communication,,H,43,master,stage,15 Aug 2025,1.1,349000,0,7,4.5,4.3,Non
+EMP00312,Manon-Alice Boyer,Ressources Humaines,Responsable RH,Abidjann,M,49,Bac,Freelance,07/08/2024,2.1,663000,1.9,6,3.7,3.5,oui
+EMP00101,Margot Blanchard de la Baudry,R.H.,Responsable RH,Yamoussoukro,homme,43,bac+2,CDD,17/09/2025,1.0,596000,2.4,1,5.0,4.2,Yes
+EMP00834,Isabelle-Henriette Martinez,ressources humaines,Chargé de Recrutement,ABIDJAN,femme,43,Bac,Cdi,15-05-2016,10.3,514000,3.1,7,,4.8,Yes
+EMP00180,Nathalie Boutin de Chevallier,ressources humaines,Chargé de Recrutement,,Homme,47,BAC+2,stage,18/11/2021,4.8,396000,4.3,0,3.1,3.1,non
+EMP00713,Isabelle Poulain,ressources humaines,Chargé de Recrutement,San-Pédro,Homme,,,CDI ,10/12/2017,8.9,430000,6.4,18,2.6,4.0,OUI
+EMP00375,Alphonse Thierry,Production,Ingénieur Qualité,San-Pédro,F,30,BAC,CDI ,15-01-2015,11.6,742000,4.3,1,2.3,4.6,Yes
+EMP00379,Nicolas-Hugues Joubert,PRODUCTION,Technicien,daloa ,M,62,,freelance,16/03/2019,7.5,391000,4.9,11,3.8,2.7,non
+EMP01030,Emmanuel Regnier,Finances,Auditeur Interne,abidjan,F,33,master,freelance,2016-10-16,9.9,708000,8.3,18,3.1,5.0,non
+EMP00741,Lorraine Poirier,Vente,Responsable Commercial,abidjan,F,28,Licence,Stage,27/04/2025,1.4,712000,2.7,5,4.3,3.2,non
+EMP01004,Stéphane Guillou du Moreau,R.H.,Gestionnaire Paie,Abidjan,F,59,Bac,cdi,2018-12-15,7.7,411000,5.2,2,2.7,3.6,Yes
+EMP00292,Denis Henry de la Millet,Informatik,Développeur Backend,Daloa,M,33,master,CDI ,2016-10-31,9.9,660000,2.5,13,4.9,1.7,non
+EMP00140,Antoinette Renard,VENTES,Commercial Senior,korhogo,M,38,BAC+2,Cdi,05/08/2017,9.3,464000,3.0,14,3.6,3.2,OUI
+EMP00477,Gabriel de la Faure,Fiance,Comptable,Yamoussoukro,M,44,Bac +2,Cdi,04/06/2020,6.4,461000,11.7,18,4.0,,OUI
+EMP01055,Margaud Fouquet Le Godard,Informatik,Chef de Projet IT,sanpedro,M,27,BAC,cdd,03/29/2022,4.4,800000,9.8,3,3.5,3.6,OUI
+EMP00369,Océane Colin,Marketing,Responsable Marketing,,M,63,bac,CDI,23 Jul 2021,5.1,846000,5.2,1,,4.2,Non
+EMP01126,Adélaïde Dos Santos,Production,Responsable Production,Abidjann,homme,60,,CDI,12/12/2019,6.7,671000,7.1,2,3.8,4.2,oui
+EMP00094,Thibault Bernier,Informatique,Développeur Frontend,San Pedro,H,39,Licence,cdd,07-08-2018,8.1,473000,5.9,12,2.4,4.2,OUI
+EMP00980,Benoît Marchal,RH,Gestionnaire Paie,Yamoussoukro,homme,57,bac,stage,03-05-2021,5.3,357000,0,14,,3.5,Oui
+EMP00472,Augustin Cordier,FINANCE,Auditeur Interne,Abidjan,F,,licence,stage,17/10/2018,7.9,696000,4.1,0,3.4,2.2,Yes
+EMP00130,Susanne Simon,Fiance,Comptable,Abidjan,H,34,doctorat,stage,06/08/2024,2.2,411000,12.2,14,2.3,4.4,oui
+EMP01116,Daniel Le Hamon,Markting,Community Manager,sanpedro,M,48,bac+2,freelance,05 Mar 2014,12.5,408000,5.5,2,2.8,2.2,No
+EMP00867,Henri Blanchet de Royer,INFORMATIQUE,Chef de Projet IT,Daloa,Homme,28,licence,Freelance,25-05-2025,1.3,718000,3.4,6,4.7,4.9,Oui
+EMP00875,Émile Thierry,ressources humaines,Responsable RH,bouaké,Homme,37,bac,CDI ,10/07/2020,6.2,799000,7.4,15,2.1,3.7,oui
+EMP00722,Nicolas Vaillant,ressources humaines,Assistant RH,Abidjan,H,30,bac+2,CDI ,11/30/2017,8.8,321000,0,0,3.9,3.2,non
+EMP00235,Hugues Martinez,Prod,Chef d'Équipe,Yamoussoukro,femme,,master,Stage,18/12/2024,1.7,433000,3.1,8,3.6,3.2,Oui
+EMP00387,Nicole-Sophie Marques,FINANCE,Analyste Financier,Bouake,homme,30,bac,Cdi,03/11/2026,0.5,471000,4.0,3,3.5,2.5,non
+EMP00187,Honoré Le Cordier,ventes,Key Account Manager,Korhogo,M,,,CDD,2017-06-22,9.2,652000,9.7,2,3.2,,Oui
+EMP00885,Yves Wagner,FINANCE,Contrôleur de Gestion,Bouake,H,22,Bac,CDI ,08/09/2020,6.1,,4.7,0,3.5,3.6,Oui
+EMP00006,Gabrielle Laurent,VENTES,Key Account Manager,daloa ,H,26,Doctorat,cdi,07/18/2015,11.1,671000,4.3,19,3.0,2.3,No
+EMP00891,  Philippe Fernandes   ,PRODUCTION,Technicien,Bouake,H,33,Bac,CDI ,15/07/2018,8.2,385000,4.8,2,4.0,5.0,No
+EMP00836,  François Becker   ,ventes,Responsable Commercial,Abidjann,Femme,63,Master,Freelance,05 Jan 2014,12.7,851000,6.5,19,2.9,2.0,oui
+EMP00637,Guillaume Gros,ressources humaines,Chargé de Recrutement,daloa ,Femme,34,Doctorat,freelance,20/07/2025,1.1,374000,10.7,2,3.3,2.5,Oui
+EMP00442,Nicole de la Prévost,Fiance,Contrôleur de Gestion,Yamoussoukro,Femme,38,Licence,Freelance,05/07/2025,1.2,549000,8.2,2,2.9,2.4,non
+EMP00918,Frédéric Bazin-Lucas,Informatique,DevOps,,femme,25,,freelance,07-05-2014,12.3,717000,8.3,16,2.9,2.8,oui
+EMP00276,Pierre Courtois,Ventes,Responsable Commercial,Abidjan,F,49,BAC,freelance,29/10/2019,6.9,801000,2.6,18,4.1,3.2,OUI
+EMP00928,Aurélie Pelletier,FINANCE,Comptable,Man,Femme,36,doctorat,Cdi,26/02/2014,12.5,513000,3.7,0,2.5,2.6,No
+EMP01007,Raymond Da Costa,informatique,Développeur Backend,,F,63,bac,cdi,03/16/2020,6.5,571000,11.9,14,2.7,2.1,OUI
+EMP01062,Laurent Leconte-Gilbert,Logistique,Magasinier,daloa ,Homme,48,Master,Stage,09 Oct 2023,2.9,240000,6.9,2,2.7,3.5,No
+EMP00370,Frédéric Jacob,Logistique,Magasinier,bouaké,femme,47,master,stage,13/02/2022,4.6,246000,0,18,4.2,4.7,non
+EMP00343,Joseph Léger de la Rossi,production,Chef d'Équipe,Man,Homme,52,bac+2,CDD,06-05-2018,8.3,453000,5.4,12,2.1,2.9,No
+EMP00410,Matthieu Maillot,Info,Chef de Projet IT,ABIDJAN,Homme,21,,cdi,07-10-2018,7.9,761000,10.1,5,3.2,3.5,Yes
+EMP00441,Marc Jacquet,Finances,Analyste Financier,Man,femme,61,Bac,cdi,01-03-2020,6.5,657000,6.1,0,2.9,3.9,non
+EMP00480,Claudine Thierry,LOGISTIQUE,Magasinier,Abidjan,Femme,21,master,freelance,11 Nov 2015,10.8,284000,2.1,6,3.1,2.6,Non
+EMP00071,Étienne Blanchet, Informatique,Chef de Projet IT,Korhogo,femme,46,BAC+2,CDI,04/06/2018,8.3,819000,7.6,0,3.6,4.2,non
+EMP00020,Aurélie Lamy du Delattre,Finances,Analyste Financier,sanpedro,Homme,29,,Freelance,26/05/2023,3.3,586000,7.9,15,4.2,2.5,non
+EMP00518,Colette Petit-Blin,Prod,Technicien,Bouaké,femme,42,,Freelance,2021-10-17,4.9,326000,7.4,3,,2.7,non
+EMP00327,  Frédéric Valentin   ,R.H.,Assistant RH,daloa ,Homme,62,master,Freelance,2023-06-10,3.2,,4.3,12,2.8,2.9,Non
+EMP00942,Alice Guilbert,PRODUCTION,Chef d'Équipe,abidjan,H,50,Licence,Freelance,08/01/2020,6.7,518000,3.5,3,2.7,4.4,OUI
+EMP00175,Sylvie Bègue,Ressources Humaines,Gestionnaire Paie,Bouaké,Femme,38,Master,Freelance,28 May 2018,8.3,406000,3.2,4,3.5,3.3,oui
+EMP00881,Camille Leduc,Markting,Chef de Produit,Daloa,Homme,,,CDI ,04/09/2020,6.4,615000,7.8,1,3.4,5.0,Non
+EMP01038,Clémence Alexandre,ventes,Commercial Senior,San-Pédro,Homme,24,bac+2,Stage,25 Jul 2017,9.1,,,18,2.9,3.8,No
+EMP01123,Catherine Toussaint,Vente,Responsable Commercial,yamoussoukro,M,62,,CDI,25/10/2018,7.9,847000,11.5,4,3.8,4.3,oui
+EMP01103,Anne Richard,RH,Chargé de Recrutement,sanpedro,homme,62,Master,CDI,2016-02-18,10.6,457000,8.7,10,4.7,,Yes
+EMP00386,Xavier Pelletier-Schmitt,VENTES,Commercial Senior,Abidjan,,63,BAC,stage,03/03/2022,4.5,479000,4.6,12,4.1,3.1,non
+EMP01064,Théodore Julien du Poirier,ventes,Responsable Commercial,Man,femme,22,master,CDI,11/05/2025,0.8,,0.9,4,3.2,3.3,oui
+EMP00122,Bertrand Merle,LOGISTIQUE,Responsable Logistique,Korhogo,Homme,25,master,CDI ,2024-01-06,2.7,559000,4.7,14,3.3,3.1,non
+EMP00478,Alexandre-Théodore Léger,Logistique,Magasinier,yamoussoukro,H,40,Master,CDD,11-04-2018,8.4,265000,8.9,2,,4.0,No
+EMP00057,Anne Raymond,marketing,Chargé de Communication,korhogo,homme,59,BAC,CDI,13-07-2014,12.2,414000,8.0,3,2.4,5.0,Oui
+EMP00730,Eugène Rousset,ventes,Commercial Junior,abidjan,Femme,51,bac+2,cdi,11 Sep 2022,4.0,265000,7.0,17,,3.3,Oui
+EMP00243,Théodore Clerc,VENTES,Key Account Manager,Yamoussoukro,H,40,,stage,02/24/2015,11.5,814000,3.6,2,3.7,3.8,Oui
+EMP00858,Robert Andre-Georges,Ressources Humaines,Gestionnaire Paie,Bouaké,M,54,Doctorat,CDI,06-06-2023,3.3,359000,0,5,2.7,4.3,oui
+EMP00512,Guy Rolland-Imbert,FINANCE,Analyste Financier,abidjan,F,35,Bac,CDI ,12/12/2015,10.7,658000,0.8,3,2.6,2.9,OUI
+EMP00711,Juliette Normand-Dias,logistique,Agent Logistique,San-Pédro,,46,,cdi,02/19/2016,10.6,284000,,14,3.0,,No
+EMP01076,Paul Weber de la Girard,Ressource Humaine,Gestionnaire Paie,Abidjan,M,53,bac+2,CDI ,12-07-2026,0.2,331000,6.5,0,,4.3,OUI
+EMP00579,Inès-Laure Marion,LOGISTIQUE,Agent Logistique,Man,,28,Bac +2,CDI,25 Apr 2016,10.4,282000,2.3,6,2.9,4.4,Yes
+EMP00303,Adrien Jacques,Finances,Comptable,San Pedro,Homme,27,Licence,Stage,14/08/2017,9.1,480000,3.6,1,1.6,4.8,non
+EMP00648,Emmanuelle Gosselin,production,Ingénieur Qualité,Man,Homme,29,BAC+2,cdi,07/10/2025,1.2,545000,4.2,18,2.4,3.9,non
+EMP00203,Zacharie Ferrand, Informatique,Développeur Backend,bouaké,H,37,Doctorat,Freelance,10/06/2019,7.2,495000,5.7,14,4.2,4.7,Non
+EMP00144,Vincent Rousset,Informatik,Développeur Backend,bouaké,homme,38,bac,CDI ,2025-02-10,1.6,503000,4.2,3,3.8,3.1,Oui
+EMP00828,Alix Hubert,VENTES,Commercial Senior,sanpedro,H,21,,cdi,17 Feb 2018,8.6,573000,12.2,17,3.5,4.3,non
+EMP00945,Gilbert Joubert,ressources humaines,Gestionnaire Paie,Korhogo,F,35,doctorat,CDI ,20/01/2016,10.6,434000,6.6,4,4.5,3.2,oui
+EMP00278,Adrien Le Laroche,MARKETING ,Responsable Marketing,Bouake,F,43,Doctorat,Cdi,22/07/2021,5.1,774000,0.1,17,2.4,3.3,oui
+EMP00740,Marcelle Fischer,RH,Chargé de Recrutement,Bouaké,M,57,bac,cdi,30/12/2018,7.7,477000,2.3,3,3.1,2.5,No
+EMP00899,Emmanuelle Breton,Ventes,Responsable Commercial,Daloa,femme,34,BAC,CDD,26-09-2017,9.0,747000,2.3,2,2.3,2.1,OUI
+EMP00373,Marthe Albert,Logistique,Agent Logistique,korhogo,Homme,38,licence,cdd,11-06-2022,4.2,228000,7.2,0,2.8,3.4,No
+EMP00404,Cécile Duval,Finance,Analyste Financier,Bouake,Homme,,,CDI,2019-07-04,7.2,612000,8.4,4,4.2,4.9,Oui
+EMP01085,Gilbert Auger,finance,Contrôleur de Gestion,Abidjan,,52,Bac +2,CDI,05/01/2018,8.4,750000,6.0,18,2.2,2.9,No
+EMP00821,  Henriette Perrier   ,Finance,Auditeur Interne,Bouaké,H,45,master,Freelance,2025-08-01,1.1,519000,1.4,3,3.2,2.5,Non
+EMP00115,Jules Bailly,Prod,Ingénieur Qualité,korhogo,M,44,MASTER,cdi,12-06-2024,2.2,484000,10.4,0,2.8,2.6,Oui
+EMP00841,Élisabeth du Mercier,ventes,Responsable Commercial,man,femme,45,,Cdi,13 Aug 2017,9.1,745000,0,16,2.6,5.0,Yes
+EMP00568,Julien Guilbert-Valentin,FINANCE,Analyste Financier,ABIDJAN,M,41,BAC+2,stage,27/02/2015,11.5,648000,9.9,16,3.5,4.8,Oui
+EMP00534,Audrey Bertin,Fiance,Contrôleur de Gestion,korhogo,H,,BAC+2,CDI,26 Mar 2023,3.5,651000,8.3,1,4.7,,Non
+EMP00411,Denis Jourdan,ventes,Responsable Commercial,daloa ,,53,Bac,Stage,31 Mar 2016,10.4,766000,5.3,4,2.9,,No
+EMP01080,Alix Rodrigues, Informatique,Administrateur Système,San Pedro,homme,54,Licence,CDI ,01/06/2021,5.7,592000,2.4,3,3.2,2.8,OUI
+EMP00541,Suzanne Meyer Le Morel,Ressource Humaine,Responsable RH,bouaké,H,34,Master,cdd,2021-04-19,5.4,663000,,18,4.8,4.3,Yes
+EMP00790,Pierre Perret,Fiance,Auditeur Interne,,Homme,42,licence,freelance,23 Nov 2018,7.8,662000,0.9,6,4.1,2.8,Non
+EMP00805,Lorraine Sauvage,Marketing,Community Manager,Korhogo,Homme,48,bac,CDI,12 Jun 2021,5.2,334000,5.7,0,3.5,3.6,OUI
+EMP00294,  Anastasie Martin   ,Informatik,Data Analyst,abidjan,femme,61,BAC+2,cdi,11/01/2019,7.7,694000,6.1,6,4.1,,Non
+EMP00164,Adrien-Sébastien Laine,PRODUCTION,Ingénieur Qualité,sanpedro,Homme,43,licence,CDI,31 May 2024,2.3,549000,4.2,4,2.9,,Non
+EMP00385,Thomas Rocher,Ressources Humaines,Gestionnaire Paie,Man,H,28,bac+2,stage,21-09-2018,8.0,397000,4.6,15,3.3,4.6,Non
+EMP01013,Capucine Martins de la Tessier,MARKETING ,Community Manager,Bouake,Femme,27,doctorat,Cdi,2025-07-21,1.1,277000,8.0,12,4.6,2.3,Yes
+EMP00548,Jeanne Le Jacob,INFORMATIQUE,Développeur Backend,abidjan,M,28,,cdi,22 Feb 2026,0.5,,4.0,12,3.1,3.1,No
+EMP00924,Margot Barre,Production,Responsable Production,sanpedro,homme,63,BAC,freelance,22-06-2018,8.2,697000,9.5,5,2.6,2.8,Yes
+EMP00398,Guy Mallet,LOGISTIQUE,Magasinier,Man,H,33,BAC+2,Freelance,16 Dec 2025,0.7,221000,8.6,8,4.8,,oui
+EMP00268,Denis Munoz,Info,Développeur Frontend,Abidjann,femme,43,Master,freelance,2019-08-17,7.1,543000,10.4,2,3.4,4.6,Non
+EMP00563,Suzanne Lacombe,marketing,Chargé de Communication,Bouaké,femme,23,Master,CDI ,02-07-2021,5.2,,,4,,3.1,Non
+EMP00014,Aimé Martineau,ventes,Responsable Commercial,,Femme,,doctorat,freelance,23/12/2021,4.7,673000,7.2,19,2.6,5.0,No
+EMP00150,Thibaut Barbier-François,ventes,Commercial Senior,Daloa,Femme,63,Doctorat,stage,21 Apr 2017,9.4,483000,,4,3.6,1.6,Non
+EMP00887,Zacharie Lombard-Maillot,RH,Gestionnaire Paie,man,Homme,34,Doctorat,CDD,19/06/2015,11.2,461000,,12,,3.7,No
+EMP00092,Valentine Louis, Informatique,Développeur Frontend,abidjan,,25,Bac,CDI ,2014-12-16,11.7,619000,9.1,7,3.2,5.0,Yes
+EMP00509,Margaux de la Lévêque,Fiance,Comptable,ABIDJAN,H,25,BAC+2,cdi,2018-03-08,8.5,527000,4.9,2,2.8,4.2,OUI
+EMP00796,Grégoire Valentin-Legros,RH,Responsable RH,sanpedro,homme,,Bac,Cdi,02/05/2023,3.4,738000,4.3,6,2.7,2.8,No
+EMP01044,Alexandre Letellier,Markting,Chef de Produit,abidjan,,35,Doctorat,CDD,12/04/2018,7.8,,5.1,0,3.5,3.7,OUI
+EMP00458,Emmanuel Carlier du Julien,Production,Responsable Production,,H,,Licence,cdi,23/08/2024,2.0,619000,6.4,3,3.2,2.3,non
+EMP00647,Cécile-Monique Lemaître,Fiance,Contrôleur de Gestion,daloa ,F,50,BAC,CDD,26/07/2025,1.1,589000,7.9,4,2.9,4.5,oui
+EMP01077,Michèle Lemoine,ventes,Commercial Senior,sanpedro,femme,36,Bac,CDI ,2017-08-24,9.0,567000,0.5,19,3.5,2.2,non
+EMP00339,Nathalie Martin,Prod,Ingénieur Qualité,,F,49,master,CDI,31 Dec 2025,0.7,454000,7.6,3,2.4,4.9,Oui
+EMP00737,Marcel Hubert,Marketing,Community Manager,San-Pédro,homme,43,Licence,stage,11-09-2018,8.0,376000,10.5,1,4.4,4.2,Yes
+EMP00043,Roger Masson,Marketing,Responsable Marketing,Daloa,M,21,Licence,cdd,07/27/2017,9.1,895000,8.0,1,2.8,5.0,OUI
+EMP00114,  Philippine Faivre   ,MARKETING ,Chargé de Communication,daloa ,femme,30,BAC+2,Freelance,06/23/2024,2.2,321000,0.7,1,4.0,2.6,OUI
+EMP00884,Yves Germain,PRODUCTION,Ingénieur Qualité,Bouake,femme,55,doctorat,CDI ,15 Feb 2026,0.6,557000,6.0,2,2.9,4.8,Oui
+EMP00629,Guy Vidal,Vente,Commercial Senior,abidjan,femme,25,doctorat,cdi,26/10/2025,0.9,429000,2.6,1,3.2,3.8,OUI
+EMP00883,Dorothée Leclercq,Logistique,Responsable Logistique,Yamoussoukro,H,62,BAC,CDI,10/07/2019,6.9,588000,7.4,9,5.0,3.2,No
+EMP00166,Stéphane Brunel du Roussel,logistique,Responsable Logistique,San Pedro,H,62,,freelance,24/06/2016,10.2,659000,3.9,3,3.9,3.8,non
+EMP00493,Stéphane Torres,production,Technicien,Daloa,M,54,,cdd,10/05/2014,12.3,371000,7.7,3,5.0,3.4,Oui
+EMP00359,Eugène Michaud,Fiance,Contrôleur de Gestion,daloa ,F,49,licence,cdd,10/04/2024,1.9,592000,11.1,1,3.7,3.6,oui
+EMP00409,Célina Philippe,Marketing,Chargé de Communication,Bouake,homme,50,doctorat,CDI ,07/13/2022,4.2,400000,4.8,14,2.7,5.0,Oui
+EMP00638,Joséphine Leroux,Ressource Humaine,Chargé de Recrutement,Man,Homme,,BAC,CDI,05/06/2025,1.3,389000,8.3,3,4.1,4.0,OUI
+EMP00346,Margot de Potier,Logistique,Magasinier,San-Pédro,F,30,Bac +2,freelance,05-11-2017,8.8,269000,0.4,1,2.3,4.7,non
+EMP00353,Bernard Paris-Benard,ventes,Commercial Junior,Bouake,F,56,bac,CDI,24 Jun 2022,4.2,317000,3.9,16,2.3,3.8,OUI
+EMP01132,Virginie Fernandes,Production,Technicien,,Femme,60,Master,Freelance,2014-07-01,12.2,435000,5.7,9,4.7,4.3,OUI
+EMP00583,Antoinette Guillou,Informatique,Développeur Backend,Abidjann,M,60,master,CDI ,01/07/2026,0.2,445000,0,17,,4.8,Yes
+EMP00474,Augustin Boulay de Delattre,PRODUCTION,Responsable Production,Man,femme,36,Master,stage,11/08/2017,8.8,745000,0,13,2.2,5.0,Oui
+EMP00506,Lorraine Giraud,Vente,Commercial Senior,yamoussoukro,femme,58,licence,Cdi,18/09/2019,7.0,471000,5.2,9,3.2,2.9,non
+EMP00619,Marc Langlois, Informatique,Chef de Projet IT,Bouaké,,56,BAC+2,cdi,24-03-2022,4.5,670000,3.6,13,3.4,3.3,Oui
+EMP00247,Bertrand Mahe de la Renard,logistique,Agent Logistique,Daloa,Homme,0,Bac,CDD,08/22/2018,8.0,299000,4.7,11,4.1,,OUI
+EMP00213,Marianne Reynaud-Dubois,Markting,Chef de Produit,bouaké,Homme,62,BAC+2,CDI,04/04/2025,1.4,,5.0,15,3.2,3.2,non
+EMP00061,Valérie Guillon-Albert,Vente,Responsable Commercial,abidjan,Femme,42,Bac +2,Stage,2020-02-09,6.6,813000,12.1,9,3.1,,No
+EMP01128,Tristan Camus,INFORMATIQUE,Administrateur Système,ABIDJAN,F,46,,freelance,2023-04-08,3.4,548000,6.1,12,3.1,2.1,Oui
+EMP00372,Laetitia Chevalier,LOGISTIQUE,Agent Logistique,ABIDJAN,M,30,,stage,16 Jan 2015,11.6,334000,2.4,18,3.0,3.0,Oui
+EMP00439,Benoît Devaux,ventes,Commercial Junior,yamoussoukro,M,47,master,CDD,30 Jun 2020,6.2,290000,4.9,19,4.3,4.4,non
+EMP00444,Claude Baudry,R.H.,Assistant RH,Korhogo,,23,Licence,stage,05/31/2023,3.3,261000,3.4,19,4.0,2.5,OUI
+EMP00299,Colette Dias,FINANCE,Analyste Financier,San Pedro,M,30,doctorat,CDD,08/19/2020,6.1,533000,,12,3.7,3.7,non
+EMP00008,Adrienne Chauveau,Ressource Humaine,Assistant RH,korhogo,homme,38,,freelance,29/04/2026,0.4,245000,2.8,16,4.3,3.9,oui
+EMP00822,Marcel Lesage,Ressource Humaine,Chargé de Recrutement,bouaké,Femme,23,bac+2,stage,20-03-2015,11.5,495000,3.8,17,2.3,3.7,Yes
+EMP00198,Michelle du De Sousa,production,Technicien,daloa ,H,63,BAC+2,freelance,27 Nov 2025,0.8,291000,0.0,13,3.3,3.1,non
+EMP00229,  Jeannine Bourdon   ,Marketing,Chef de Produit,yamoussoukro,,59,Doctorat,CDI ,2019-05-13,7.3,726000,5.6,11,4.7,4.4,Oui
+EMP00588,Susanne-Élisabeth Le Goff,Markting,Chargé de Communication,,femme,25,bac,Freelance,31-05-2025,1.3,,4.5,10,3.1,5.0,non
+EMP00674,Laetitia Adam Le Lebreton,Logistique,Responsable Logistique,Yamoussoukro,Homme,29,Master,cdd,02/27/2017,9.5,596000,6.7,0,2.3,4.6,Oui
+EMP00650,Gabriel Mendès,ventes,Commercial Senior,yamoussoukro,femme,37,,Freelance,2016-01-17,10.6,606000,4.6,19,,4.4,OUI
+EMP00160,Valentine-Alexandria Durand,Fiance,Contrôleur de Gestion,man,M,21,master,cdi,26-04-2016,10.4,739000,11.1,4,2.2,3.2,No
+EMP00116,Josette Roussel,LOGISTIQUE,Agent Logistique,,Homme,30,Doctorat,stage,14 Nov 2024,1.8,245000,1.8,4,1.9,5.0,Non
+EMP01058,Gabrielle Le Barbe,PRODUCTION,Responsable Production,Abidjan,H,26,Bac +2,stage,07/02/2024,2.2,642000,0.3,3,2.8,3.7,No
+EMP00184,Antoine Chauvin,Production,Ingénieur Qualité,Man,femme,48,,Cdi,15-08-2018,8.1,610000,9.7,15,,5.0,non
+EMP00993,Robert Grenier de Bertin,marketing,Community Manager,daloa ,,59,,Freelance,15 Jan 2022,4.6,317000,6.1,2,3.2,2.5,oui
+EMP00818,Danielle Labbé,Marketing,Community Manager,korhogo,femme,44,bac,CDI,2015-06-16,11.2,383000,4.3,1,3.8,2.9,oui
+EMP00873,Xavier-Thierry Boulanger,Info,Chef de Projet IT,San-Pédro,,60,doctorat,stage,22-06-2018,8.2,839000,3.3,4,2.7,3.9,oui
+EMP00134,  Théodore-Jean Brun   ,Ressources Humaines,Assistant RH,man,Homme,24,bac+2,Freelance,08/14/2014,12.1,348000,10.8,16,3.6,1.9,Yes
+EMP00609,Maurice Regnier,Info,DevOps,daloa ,femme,,master,cdi,23 Nov 2017,8.8,749000,5.0,11,4.0,2.8,Non
+EMP00433,Hortense-Manon Klein,Prod,Technicien,San Pedro,M,45,Master,CDI ,29 Jun 2014,12.2,366000,6.5,0,3.6,3.7,Oui
+EMP00255,Maggie Lebreton,FINANCE,Contrôleur de Gestion,Abidjann,homme,27,bac,Freelance,10-02-2016,10.6,701000,5.1,2,2.8,2.5,non
+EMP00616,Inès Verdier,ventes,Responsable Commercial,,M,33,BAC+2,CDI ,14 Nov 2020,5.8,653000,5.7,9,3.6,3.4,No
+EMP00919,Louise Philippe,Vente,Commercial Senior,sanpedro,femme,47,Bac,Freelance,04/12/2014,12.4,603000,3.7,8,4.0,4.5,No
+EMP00287,Luc Blanchet-Regnier,Production,Technicien,korhogo,homme,43,BAC,freelance,29/05/2015,11.3,362000,7.9,10,3.1,3.4,OUI
+EMP00633,Geneviève Barre de Breton,LOGISTIQUE,Magasinier,Bouake,H,39,MASTER,cdi,30-04-2020,6.4,247000,6.5,12,3.9,5.0,Oui
+EMP00350,Bernard Boulay de la Bouchet,Production,Responsable Production,Daloa,M,25,Licence,CDI,2025-08-18,1.1,694000,4.6,4,3.7,3.0,OUI
+EMP00468,Stéphanie Hamon,PRODUCTION,Responsable Production,Bouaké,femme,44,,stage,04-12-2025,0.8,563000,3.1,1,4.3,3.9,Non
+EMP00138,Anouk Dumas de Delahaye,marketing,Chef de Produit,bouaké,femme,50,doctorat,CDI,14/04/2014,12.4,709000,6.8,10,4.0,,OUI
+EMP00604,Joseph Deschamps,Production,Responsable Production,Bouaké,F,34,Master,Stage,01/09/2015,11.0,730000,11.2,13,3.0,5.0,Yes
+EMP00121,Tristan de la Bernard,FINANCE,Contrôleur de Gestion,korhogo,,40,BAC,Stage,2019-10-15,6.9,601000,3.9,17,2.6,3.3,Non
+EMP00135,Sophie Joseph-Benard,Informatique,DevOps,Yamoussoukro,Femme,41,MASTER,cdi,08/10/2019,6.9,756000,2.5,5,3.1,3.0,oui
+EMP00969,Virginie Le Carre,Prod,Technicien,daloa ,H,52,bac,CDD,14-08-2017,9.1,354000,1.4,19,2.5,2.2,No
+EMP00684,Audrey Guillou Le Becker,Logistic,Responsable Logistique,ABIDJAN,,39,Doctorat,CDI ,24-01-2014,12.6,604000,3.6,15,3.3,3.2,Non
+EMP00228,Jacques Maillet,Prod,Ingénieur Qualité,korhogo,femme,42,,cdd,04/23/2026,0.4,486000,4.3,19,4.0,4.4,Non
+EMP00897,William Thomas,production,Chef d'Équipe,abidjan,M,37,doctorat,CDD,2024-06-16,2.2,422000,4.1,1,2.2,4.7,Non
+EMP00137,Louise Blin,INFORMATIQUE,Développeur Frontend,,femme,33,master,CDI ,17/02/2014,12.6,585000,2.3,4,2.9,4.2,Non
+EMP00286,Arnaude Rivière,RH,Responsable RH,Daloa,Homme,54,doctorat,CDD,19-09-2015,11.0,876000,5.7,2,3.8,2.0,No
+EMP00242,Aimée-Françoise Hervé,logistique,Magasinier,Man,homme,42,BAC,Cdi,10-03-2021,5.5,267000,5.5,3,4.0,,OUI
+EMP00030,Diane Guillon,Ressources Humaines,Responsable RH,San-Pédro,,33,Master,CDD,23-01-2018,8.6,734000,3.5,4,3.7,3.5,Oui
+EMP00107,Théodore Langlois-Barbe,Ressource Humaine,Gestionnaire Paie,sanpedro,femme,28,MASTER,CDI,10 Jul 2025,1.2,319000,7.0,0,3.2,2.6,Non
+EMP00926,Michel de Raymond,Markting,Chef de Produit,Abidjan,Femme,27,,cdd,05/23/2018,8.3,635000,9.4,19,3.9,2.7,Non
+EMP01084,Alexandrie Pineau-Didier,R.H.,Responsable RH,abidjan,F,56,bac,freelance,07-09-2017,9.0,848000,3.1,14,2.8,3.4,Non
+EMP01129,Rémy Weiss-Albert, Informatique,Administrateur Système,abidjan,F,35,BAC+2,stage,10 Aug 2014,12.1,657000,3.8,4,3.7,2.9,oui
+EMP00677,Laetitia-Sophie Evrard,Finances,Contrôleur de Gestion,yamoussoukro,F,45,,cdd,11/08/2024,1.8,579000,3.0,3,2.8,2.0,oui
+EMP00817,Manon Carre,logistique,Responsable Logistique,Man,Femme,36,Licence,CDI,02/17/2015,11.6,655000,15.8,1,3.6,1.7,OUI
+EMP00956,Margot Bonnin,Ressources Humaines,Chargé de Recrutement,ABIDJAN,femme,54,Doctorat,cdi,2017-02-23,9.5,421000,6.7,0,3.0,3.6,Yes
+EMP00001,Stéphanie de Salmon,Fiance,Contrôleur de Gestion,man,F,25,Bac,Stage,01/31/2015,11.6,775000,4.5,0,3.8,3.9,Non
+EMP00116,Josette Roussel,LOGISTIQUE,Agent Logistique,,Homme,0,Doctorat,stage,14 Nov 2024,1.8,245000,1.8,4,1.9,5.0,Non
+EMP00307,Renée Le Benoit,logistique,Responsable Logistique,Korhogo,H,37,Licence,Cdi,03/30/2016,10.4,597000,4.2,18,3.4,3.2,OUI
+EMP00776,Thibault Gallet,INFORMATIQUE,Chef de Projet IT,Yamoussoukro,femme,26,MASTER,stage,2025-04-28,1.4,690000,13.1,6,3.8,4.2,Oui
+EMP00898,Frédérique-Anastasie Regnier,VENTES,Commercial Senior,Man,Homme,59,doctorat,cdd,07/29/2023,3.1,,3.1,9,3.7,,Yes
+EMP01144,Isabelle Michaud,FINANCE,Contrôleur de Gestion,bouaké,,58,MASTER,Cdi,17-12-2025,0.7,587000,6.8,7,2.9,3.7,non
+EMP00842,Monique Ribeiro,Logistic,Agent Logistique,sanpedro,Homme,43,Bac +2,CDI,27-10-2019,6.9,255000,7.4,13,4.0,3.0,oui
+EMP00158,Pauline Bègue,Finance,Comptable,sanpedro,Homme,56,licence,CDI,22/07/2017,9.1,498000,7.9,13,3.9,2.8,non
+EMP00060,Christiane Philippe,Info,DevOps,Korhogo,F,61,BAC,stage,2019-07-25,7.1,,14.3,2,4.0,4.3,Yes
+EMP00390,Claudine Traore,Fiance,Comptable,Daloa,Femme,25,BAC+2,Cdi,12/02/2020,5.8,421000,0,0,3.7,4.4,non
+EMP00291,Gabriel Dijoux,marketing,Chargé de Communication,San Pedro,F,25,bac+2,CDI ,12/25/2025,0.7,,7.6,17,2.2,3.6,Oui
+EMP01057,Anne Samson,R.H.,Gestionnaire Paie,yamoussoukro,homme,37,,CDI,22-07-2024,2.1,338000,7.7,3,,1.6,OUI
+EMP00270,Suzanne Mendès de la Bonneau,Logistique,Magasinier,San-Pédro,,45,doctorat,freelance,07/03/2026,0.2,,5.1,0,4.8,2.0,OUI
+EMP00514,Susanne Diaz,Informatique,Chef de Projet IT,Bouaké,H,62,BAC,CDI ,2014-06-01,12.3,814000,7.4,15,3.8,4.2,No
+EMP00145,William Diallo,Production,Ingénieur Qualité,San-Pédro,H,43,,Freelance,18-08-2025,1.1,457000,9.7,1,2.4,3.4,Yes
+EMP00167,Marc Étienne,VENTES,Commercial Senior,Abidjann,femme,24,bac+2,CDI ,03 Feb 2018,8.6,578000,5.1,4,3.3,4.9,No
+EMP00288,Aimé Fouquet Le Morvan,PRODUCTION,Responsable Production,Abidjann,F,50,bac+2,cdi,29-08-2014,12.0,,0.6,6,3.6,4.9,Oui
+EMP00498,Margaret Thibault,Ressource Humaine,Assistant RH,man,,23,,CDD,2017-10-06,8.9,349000,8.0,2,4.1,3.4,Oui
+EMP00752,Céline du Clerc,finance,Auditeur Interne,Yamoussoukro,M,39,Bac +2,cdd,01-09-2018,8.0,662000,0,3,1.8,5.0,Yes
+EMP00282,Édouard-Rémy Allain, Informatique,Data Analyst,Man,H,49,BAC,Freelance,2017-02-10,9.6,,5.2,7,4.6,3.4,Non
+EMP00237,Aimé Bazin,Ventes,Responsable Commercial,abidjan,H,45,Doctorat,cdd,05 Dec 2023,2.8,743000,8.3,2,2.5,2.6,oui
+EMP00309,Maurice Rivière,finance,Analyste Financier,Abidjann,M,30,,CDI,10/01/2015,11.7,673000,1.8,2,2.9,3.3,Oui
+EMP00757,Gabriel Poulain de Bonnin,PRODUCTION,Technicien,bouaké,H,48,,stage,25-05-2025,1.3,287000,8.8,6,2.3,3.3,Yes
+EMP00635,Pierre Parent,finance,Comptable,abidjan,F,27,master,Freelance,28-09-2016,9.9,548000,,15,3.1,3.1,Oui
+EMP00495,Thomas Fouquet,Informatik,Data Analyst,Bouaké,femme,46,licence,Freelance,13-12-2014,11.7,,2.0,16,3.5,4.2,non
+EMP00872,Jeannine Colin-Giraud,RH,Assistant RH,korhogo,H,51,Licence,CDD,19-05-2019,7.3,287000,7.7,0,4.9,3.6,Yes
+EMP00366,Olivier Bertrand,production,Chef d'Équipe,abidjan,Homme,23,,cdi,07/10/2020,5.9,428000,3.1,1,2.9,4.7,Non
+EMP01111,Christiane Ribeiro,MARKETING ,Responsable Marketing,Bouake,,41,BAC+2,Freelance,2014-02-06,12.6,947000,12.7,18,4.1,3.0,No
+EMP00779,Manon Vincent,Info,Administrateur Système,Daloa,H,22,Master,Stage,20-06-2020,6.2,609000,12.5,3,3.1,3.9,Yes
+EMP00846,Claire Ramos du Boyer,Vente,Commercial Senior,abidjan,H,35,bac+2,freelance,06-12-2015,10.8,514000,5.0,14,2.7,3.5,No
+EMP00961,Robert Meyer,R.H.,Assistant RH,yamoussoukro,Femme,,,CDD,03/06/2018,8.3,293000,6.3,8,3.5,4.6,non
+EMP00716,André Perrot,production,Technicien,San-Pédro,femme,63,licence,freelance,19/02/2017,9.6,409000,5.4,4,3.0,3.1,Yes
+EMP00262,Claude Andre,production,Ingénieur Qualité,Man,F,45,,CDI ,07-10-2023,2.9,539000,7.9,19,1.9,3.4,No
+EMP00692,Victoire du Giraud,MARKETING ,Responsable Marketing,korhogo,F,44,Bac +2,Stage,2019-06-29,7.2,893000,7.5,11,2.4,4.0,oui
+EMP00163,Caroline Renaud,Logistic,Agent Logistique,Abidjan,Homme,48,BAC,cdd,01 Aug 2018,8.1,285000,6.2,14,1.8,2.8,non
+EMP00622,Emmanuel Hoareau,Fiance,Contrôleur de Gestion,,homme,29,,CDI,11/16/2019,6.8,621000,7.3,0,4.1,2.8,Oui
+EMP00900,Marc Benard-Cohen,Logistic,Responsable Logistique,San-Pédro,homme,52,doctorat,stage,2021-11-06,4.8,529000,3.5,18,,3.1,Yes
+EMP01106,Laurence Marques-Albert,VENTES,Commercial Senior,yamoussoukro,H,43,,freelance,2022-03-13,4.5,438000,3.8,3,3.8,4.1,OUI
+EMP00831,René Adam,PRODUCTION,Chef d'Équipe,Bouaké,H,21,bac+2,Cdi,2019-09-10,7.0,489000,1.7,3,3.1,3.0,oui
+EMP00545,Adélaïde Chauveau,RH,Assistant RH,Abidjan,Femme,41,Doctorat,freelance,2016-09-13,10.0,,0,9,3.6,3.8,non
+EMP00280,Agnès Mercier,Production,Chef d'Équipe,Korhogo,femme,23,,cdd,2020-05-04,6.3,444000,4.2,9,3.1,2.2,OUI
+EMP00539,Philippine de Mercier,finance,Analyste Financier,Korhogo,M,36,Master,Freelance,2019-04-24,7.4,617000,0,2,2.6,3.9,OUI
+EMP00792,Édouard Payet, Informatique,Développeur Backend,abidjan,Homme,36,bac,Freelance,19/05/2018,8.3,511000,5.2,0,4.2,3.5,Oui
+EMP00434,Adèle-Astrid Robin,Production,Chef d'Équipe,San-Pédro,Homme,62,,Stage,2016-01-22,10.6,567000,1.8,13,2.8,2.6,Oui
+EMP01041,Léon-Thibault Leduc,production,Responsable Production,Daloa,Femme,35,Master,stage,16 Apr 2014,12.4,857000,,19,3.2,3.3,non
+EMP00546,Philippe Garcia,informatique,Développeur Frontend,San Pedro,H,32,Licence,CDI,28-01-2019,7.6,509000,3.6,15,1.8,2.6,oui
+EMP00416,Thibault Guérin-Chartier,VENTES,Commercial Senior,sanpedro,homme,57,licence,Freelance,04 Mar 2021,5.5,483000,6.7,18,4.4,3.8,Oui
+EMP00115,Jules Bailly,Prod,Ingénieur Qualité,korhogo,M,44,MASTER,cdi,12-06-2024,2.2,484000,10.4,0,2.8,2.6,Oui
+EMP00320,Michel Carpentier,logistique,Agent Logistique,yamoussoukro,Femme,30,master,Freelance,2014-01-02,12.7,310000,2.2,2,3.3,3.2,non
+EMP00877,Noël Gallet,Ressource Humaine,Gestionnaire Paie,yamoussoukro,Femme,32,BAC+2,Stage,22 Feb 2020,6.5,423000,6.9,6,3.0,3.1,non
+EMP01019,Lucas Maillot,logistique,Responsable Logistique,San Pedro,F,39,Licence,stage,06/25/2015,11.2,559000,4.5,2,2.9,4.4,Oui
+EMP00907,Benjamin Delaunay,Marketing,Community Manager,,Homme,43,BAC+2,Freelance,14 Aug 2025,1.1,330000,5.2,9,4.3,3.8,No
+EMP00777,Marcelle-Lucie Gosselin,Vente,Key Account Manager,,Femme,36,Bac +2,Cdi,11/18/2021,4.8,688000,4.6,4,3.8,3.7,No
+EMP00733,Georges Hamel,ressources humaines,Assistant RH,daloa ,femme,46,,stage,2025-10-10,0.9,258000,8.9,2,4.6,2.6,Yes
+EMP01148,Franck Seguin,LOGISTIQUE,Agent Logistique,korhogo,F,,,freelance,13-07-2021,5.2,265000,9.3,5,4.3,3.7,Oui
+EMP00091,Alphonse Pruvost de la Étienne,ventes,Responsable Commercial,ABIDJAN,Femme,60,master,Cdi,2022-10-13,3.9,627000,6.3,18,3.7,4.9,OUI
+EMP00852,Joséphine Morvan,logistique,Magasinier,ABIDJAN,Femme,36,Master,cdi,11-04-2021,5.4,242000,0,5,2.6,2.4,OUI
+EMP00026,Claude Cohen,finance,Auditeur Interne,sanpedro,Homme,,BAC,Stage,31-12-2021,4.7,,5.3,3,1.2,3.6,non
+EMP01089,Alfred Tanguy,VENTES,Commercial Senior,bouaké,homme,44,Licence,Stage,07-11-2018,7.8,485000,0.6,8,3.7,2.9,Yes
+EMP00623,Benoît Muller,Ventes,Key Account Manager,yamoussoukro,H,30,licence,CDD,11 Jun 2025,1.2,536000,7.2,13,,3.4,Oui
+EMP00837,David Barbe du Joly,R.H.,Chargé de Recrutement,abidjan,H,,Doctorat,cdi,09/09/2014,12.0,433000,7.0,16,4.5,5.0,Non
+EMP01124,Pénélope Laurent,Logistic,Magasinier,daloa ,H,57,bac,stage,03 Apr 2026,0.4,205000,4.6,19,4.5,2.6,Non
+EMP01147,Odette Legros,Ressource Humaine,Assistant RH,ABIDJAN,Homme,32,master,CDI,09/09/2025,1.0,247000,5.0,0,4.7,3.9,Oui
+EMP00024,Aurélie Blin,Ressources Humaines,Assistant RH,ABIDJAN,H,49,MASTER,CDD,20/10/2022,3.9,281000,6.8,1,3.1,4.2,No
+EMP00382,Matthieu Duhamel,marketing,Chef de Produit,bouaké,Femme,33,Bac +2,cdd,30/01/2022,4.6,715000,6.4,0,2.7,5.0,Oui
+EMP00795,Roger Imbert-De Oliveira,Finance,Comptable,yamoussoukro,M,54,bac,CDI,2017-09-13,9.0,461000,0,13,2.6,4.4,non
+EMP00788,Céline de la Guilbert,finance,Comptable,Man,Homme,41,Bac +2,CDI ,31 Oct 2018,7.9,496000,7.4,2,2.3,3.2,No
+EMP01020,Gabriel Blondel,Prod,Responsable Production,bouaké,Femme,50,Bac,CDI ,2016-11-26,9.8,854000,1.9,19,3.1,,OUI
+EMP00096,Jeannine Lecomte,ventes,Responsable Commercial,bouaké,Femme,21,Bac +2,CDI,10/13/2023,2.9,588000,1.4,14,3.3,3.6,oui
+EMP00447,Christelle Delattre,Informatik,Développeur Frontend,San Pedro,M,34,,cdi,21-11-2025,0.8,443000,10.0,19,3.9,2.7,No
+EMP01092,Honoré Caron-Grenier,ressources humaines,Chargé de Recrutement,Abidjann,Femme,35,,Freelance,03/30/2014,12.4,528000,8.1,4,4.9,4.1,Yes
+EMP00749,Charlotte Payet,production,Chef d'Équipe,Daloa,,28,BAC+2,CDD,2019-12-13,6.7,485000,12.1,13,3.7,4.1,Yes
+EMP00127,Christophe de la Dupuis,FINANCE,Analyste Financier,San Pedro,femme,60,,CDI ,05/12/2015,11.3,724000,6.2,15,3.8,1.8,non
+EMP00258,Adrien Guillon,ventes,Commercial Junior,Abidjann,H,59,BAC,CDD,08/22/2015,11.0,351000,3.4,3,3.0,2.0,No
+EMP00952,Sébastien Fournier de Nicolas,Finances,Contrôleur de Gestion,ABIDJAN,femme,51,,cdi,09/15/2018,8.0,714000,6.1,16,4.3,4.3,OUI
+EMP00925,Brigitte Meunier,Ventes,Commercial Junior,Yamoussoukro,H,59,BAC+2,CDD,06/04/2023,3.4,310000,6.2,6,3.0,3.6,No
+EMP00562,Roger Julien,ressources humaines,Responsable RH,Abidjan,M,,bac,Cdi,12 Mar 2021,5.5,798000,8.4,3,2.7,3.1,oui
+EMP00832,Benoît Rodriguez,Prod,Chef d'Équipe,Abidjann,H,53,bac+2,Stage,08 Jun 2024,2.2,445000,6.1,4,3.6,3.6,Non
+EMP00450,Alexandre Fischer-Lelièvre,Logistique,Magasinier,Korhogo,homme,56,bac,freelance,18-11-2024,1.8,,4.7,0,3.3,3.9,non
+EMP00328,Nicolas Perret,PRODUCTION,Chef d'Équipe,San-Pédro,femme,28,,freelance,17-04-2022,4.4,480000,1.9,19,4.6,2.4,oui
+EMP00012,Alix Leblanc-Denis,VENTES,Responsable Commercial,daloa ,F,28,licence,Freelance,10/03/2016,9.9,795000,7.6,3,3.8,3.7,OUI
+EMP00902,Tristan Torres de Guillaume,Finance,Analyste Financier,daloa ,homme,33,Doctorat,stage,02-01-2016,10.7,753000,5.2,17,3.4,3.8,Yes
+EMP01070,Isabelle-Agathe Dupont,ressources humaines,Responsable RH,korhogo,H,24,bac+2,cdi,07/07/2020,6.2,779000,3.5,11,3.2,2.8,No
+EMP00152,Zoé Carre,Logistique,Magasinier,sanpedro,homme,54,BAC+2,stage,04/15/2021,5.4,248000,7.9,1,3.3,3.5,OUI
+EMP00998,Jean Hoarau-Rey,informatique,DevOps,Bouake,Homme,26,master,CDI ,12/04/2022,3.8,692000,5.5,4,3.9,3.0,oui
+EMP00682,Emmanuel Berthelot,Vente,Key Account Manager,Abidjan,femme,25,BAC,cdi,2025-11-05,0.8,568000,3.8,2,3.8,,Non
+EMP01109,Stéphane Renaud-Simon, Informatique,Data Analyst,Abidjann,Homme,34,licence,Stage,2014-02-26,12.5,726000,4.9,0,3.9,4.1,OUI
+EMP00062,Théodore Blin,Logistique,Agent Logistique,Korhogo,F,50,doctorat,cdd,28-08-2024,2.0,263000,6.8,6,2.1,3.1,Oui
+EMP00084,Maurice du Durand,Vente,Responsable Commercial,man,H,54,BAC+2,stage,21/05/2016,10.3,821000,3.7,10,3.3,,Non
+EMP00935,Isabelle-Inès Marchal,Finances,Auditeur Interne,San-Pédro,M,,,CDI ,29 Aug 2025,1.0,486000,8.3,19,4.7,3.3,No
+EMP00820,Suzanne Bouvier,Finances,Contrôleur de Gestion,Yamoussoukro,H,21,doctorat,cdi,21 Dec 2023,2.7,661000,10.4,8,3.2,3.3,OUI
+EMP00488,Thibault-Louis Maury,marketing,Responsable Marketing,ABIDJAN,Homme,42,Bac +2,Stage,2015-01-05,11.7,816000,8.9,1,,4.4,No
+EMP00701,Franck Lelièvre,Fiance,Analyste Financier,Daloa,femme,33,MASTER,Freelance,03/04/2024,2.4,495000,7.6,15,3.0,2.3,OUI
+EMP00487,Roger de Lombard,finance,Comptable,bouaké,Homme,36,Doctorat,freelance,23/07/2019,7.1,442000,4.3,4,2.1,3.3,Non
+EMP00933,  Martin Barbier   ,ressources humaines,Responsable RH,San Pedro,,55,Master,Freelance,23-06-2025,1.2,571000,2.5,2,5.0,5.0,No
+EMP00968,  Diane Pinto-Lamy   ,MARKETING ,Responsable Marketing,bouaké,Femme,62,master,CDD,12 Jan 2020,6.7,895000,1.8,14,2.8,3.4,oui
+EMP00269,Sébastien Navarro,VENTES,Responsable Commercial,San-Pédro,H,39,MASTER,stage,2019-12-22,6.7,817000,4.7,11,3.5,1.9,Non
+EMP01066,Valérie Legendre,Info,Administrateur Système,San Pedro,femme,29,,Stage,05/17/2026,0.3,545000,13.7,16,3.0,3.7,non
+EMP00618,Élodie Gomes,Logistic,Magasinier,Korhogo,F,60,Bac +2,Freelance,15/07/2015,11.2,246000,5.4,6,3.3,3.0,No
+EMP00906,  Jean Guillaume   ,Ressources Humaines,Assistant RH,Bouake,Femme,45,BAC,stage,16/01/2024,2.6,250000,7.4,12,3.1,3.1,oui
+EMP00048,Xavier Moreau,ventes,Key Account Manager,Daloa,F,42,Licence,Cdi,28/02/2024,2.5,613000,6.1,8,3.8,4.1,OUI
+EMP00333,Gabriel de Pichon,Marketing,Community Manager,ABIDJAN,F,40,doctorat,Freelance,23 Feb 2019,7.5,317000,4.7,12,3.0,1.9,No
+EMP00848,Chantal Tessier,Production,Technicien,daloa ,F,47,BAC,CDD,10/15/2018,7.9,368000,11.4,8,3.2,4.8,No
+EMP00643,Marianne Deschamps,Production,Chef d'Équipe,Yamoussoukro,homme,31,BAC+2,cdi,2019-02-11,7.6,,,1,,5.0,oui
+EMP01047,Yves Blondel Le Martel,Ventes,Commercial Senior,,Femme,58,MASTER,cdd,16/01/2024,2.6,466000,12.5,12,4.5,1.4,Non
+EMP00374,Corinne Buisson,finance,Analyste Financier,korhogo,Femme,53,,CDI ,05/23/2025,1.3,558000,4.1,10,2.9,2.9,OUI
+EMP00593,Mathilde Carlier,PRODUCTION,Technicien,sanpedro,femme,33,Master,Freelance,14/09/2015,11.0,428000,6.5,2,4.3,2.1,OUI
+EMP00584,Frédéric Lopez,Ressources Humaines,Chargé de Recrutement,daloa ,H,45,Bac,Stage,03/06/2026,0.5,382000,11.3,8,3.7,5.0,oui
+EMP00671,Benjamin-Gilles Potier,Marketing,Responsable Marketing,yamoussoukro,Homme,56,licence,cdd,03/18/2014,12.5,880000,10.7,13,2.7,2.6,non
+EMP01149,Grégoire De Oliveira,Info,DevOps,Yamoussoukro,Femme,56,,freelance,29/06/2016,10.2,701000,6.2,4,2.3,4.4,No
+EMP00119,Corinne Payet,VENTES,Commercial Junior,abidjan,Homme,27,BAC+2,Freelance,26 Sep 2020,5.9,310000,0.1,17,2.7,3.1,non
+EMP01122,Sylvie Laurent,Finances,Contrôleur de Gestion,San-Pédro,,61,bac+2,Stage,19 Jan 2021,5.6,621000,4.1,6,3.7,2.9,Yes
+EMP00903,Caroline Louis-Laroche,FINANCE,Contrôleur de Gestion,Korhogo,H,,Licence,Freelance,22-10-2016,9.9,685000,11.6,2,2.8,3.5,Oui
+EMP00802,Matthieu Pichon-Guillaume,Logistique,Agent Logistique,,F,49,,CDI ,13-07-2018,8.2,309000,6.0,2,2.1,2.7,Non
+EMP01035,François Buisson,VENTES,Commercial Senior,,M,,Licence,cdi,2022-09-27,3.9,489000,0,3,2.0,1.7,oui
+EMP01117,Matthieu Dijoux,PRODUCTION,Ingénieur Qualité,San Pedro,homme,44,Master,CDD,06 Aug 2019,7.1,626000,13.7,0,3.5,4.6,Non
+EMP00707,Marc Peltier,Finance,Comptable,daloa ,F,62,,Cdi,23/02/2017,9.5,513000,5.3,3,3.1,2.5,No
+EMP00176,Jacques Sauvage-Schneider,Ressource Humaine,Responsable RH,,homme,34,,Cdi,28 Apr 2025,1.4,710000,11.4,5,2.7,3.5,OUI
+EMP00477,Gabriel de la Faure,Fiance,Comptable,Yamoussoukro,M,44,Bac +2,Cdi,04/06/2020,6.4,461000,11.7,18,4.0,,OUI
+EMP00338,Léon Nicolas,Ventes,Responsable Commercial,Korhogo,Homme,,Licence,Freelance,05/20/2016,10.3,720000,7.6,5,,2.5,No
+EMP00460,Noël Bonnin,Ressources Humaines,Responsable RH,Bouake,femme,22,doctorat,cdd,25 Jun 2019,7.2,700000,3.9,12,3.6,3.9,non
+EMP00695,Margaux de la Lemoine,R.H.,Chargé de Recrutement,korhogo,femme,56,MASTER,freelance,09/18/2015,11.0,497000,8.3,4,2.6,1.9,non
+EMP00053,Alain Caron,INFORMATIQUE,Développeur Backend,Korhogo,homme,58,Bac +2,CDD,06/10/2025,0.9,507000,6.0,19,4.3,4.8,OUI
+EMP00449,Alice Pichon du Marie,Finance,Contrôleur de Gestion,korhogo,femme,50,master,freelance,2016-03-26,10.5,667000,6.9,0,2.9,5.0,non
+EMP00438,Bernadette-Christine Petit,Marketing,Community Manager,daloa ,homme,44,Bac,CDI,03/06/2022,4.3,287000,0.3,15,3.2,3.5,non
+EMP00744,Adèle Fontaine-Lecomte,Informatik,Administrateur Système,Yamoussoukro,H,62,Licence,cdi,2018-12-27,7.7,679000,5.8,2,,2.5,No
+EMP00660,Thérèse Verdier,ventes,Responsable Commercial,,femme,,Bac +2,stage,17 Dec 2014,11.7,879000,10.9,7,2.8,5.0,Non
+EMP01027,Isaac Gilbert,Informatik,Développeur Frontend,Abidjann,F,62,,Cdi,09-01-2024,2.7,518000,4.8,4,3.6,4.8,oui
+EMP00348,Henri Petit-Riou,logistique,Magasinier,,homme,44,Bac,cdi,20 Aug 2021,5.0,226000,13.0,2,3.1,3.8,Oui
+EMP00851,Sébastien Guyon,Ressource Humaine,Assistant RH,Korhogo,homme,,doctorat,CDI,05-10-2020,5.9,322000,7.5,1,3.6,,No
+EMP01130,Zacharie Gonzalez,Ressource Humaine,Assistant RH,Man,femme,33,,cdd,05/15/2016,10.3,367000,2.9,5,3.8,3.0,No
+EMP00725,Josette Maillet-Daniel,Finance,Comptable,man,femme,,MASTER,cdi,11/23/2024,1.8,408000,3.5,8,4.5,4.3,OUI
+EMP00977,Honoré Thierry,Markting,Community Manager,Bouake,H,62,Licence,stage,30/06/2021,5.2,362000,,14,3.0,3.4,Non
+EMP00206,Louis-Nicolas Raynaud,RH,Responsable RH,sanpedro,homme,34,Doctorat,Freelance,24 Dec 2014,11.7,797000,0,3,3.3,3.9,OUI
+EMP00284,Hugues Le Pelletier,INFORMATIQUE,Administrateur Système,yamoussoukro,Homme,44,Doctorat,cdi,2023-07-05,3.2,550000,2.1,9,2.9,4.1,oui
+EMP00732,Aurore Moulin,RH,Responsable RH,Daloa,femme,42,Master,Freelance,12/15/2022,3.7,618000,3.7,12,4.4,2.9,OUI
+EMP00669,  Cécile Potier   ,marketing,Chargé de Communication,abidjan,Homme,48,MASTER,cdd,24-12-2017,8.7,460000,3.4,19,2.6,4.2,No
+EMP00317,Martine-Paulette Brun,logistique,Responsable Logistique,Daloa,Femme,22,,cdi,02 Feb 2019,7.6,559000,3.3,19,3.7,4.0,No
+EMP00634,Gilbert Huet,Fiance,Analyste Financier,Man,homme,36,BAC,CDI ,29 Jun 2015,11.2,,0.0,1,2.6,3.7,Oui
+EMP00136,Jules du Bouvet,ressources humaines,Chargé de Recrutement,Abidjan,Femme,24,,CDI,2021-11-23,4.8,386000,0,13,3.8,3.4,Non
+EMP00156,Rémy-Gilles Gautier,PRODUCTION,Responsable Production,bouaké,M,,Master,Stage,2018-12-21,7.7,,0.7,6,3.9,3.1,OUI
+EMP00013,Alix de Robert,logistique,Magasinier,Man,homme,22,bac+2,Cdi,31-07-2025,1.1,222000,2.5,3,4.4,4.4,Yes
+EMP00005,Inès Godard-Laroche,Finance,Comptable,,homme,47,bac,Freelance,25-06-2025,1.2,396000,5.6,8,3.7,4.1,No
+EMP00917,Anastasie Barre Le Collet,Ventes,Commercial Junior,,H,29,Doctorat,CDD,19 May 2023,3.3,286000,,4,2.9,3.3,Oui
+EMP00879,Sabine Monnier,Markting,Responsable Marketing,Yamoussoukro,F,56,Licence,Freelance,29 Mar 2022,4.4,,9.1,8,3.6,3.9,OUI
+EMP01049,Céline Roy,RH,Responsable RH,yamoussoukro,H,22,master,cdd,12/14/2024,1.7,575000,6.1,19,2.2,3.9,Oui
+EMP00764,Émile Da Silva, Informatique,Data Analyst,bouaké,homme,47,BAC,CDD,2020-03-01,6.5,557000,3.1,4,4.0,2.6,Yes
+EMP00392,Monique Lejeune,Ressource Humaine,Gestionnaire Paie,ABIDJAN,M,,,Freelance,23 Oct 2019,6.9,348000,6.7,2,2.6,4.4,Oui
+EMP00298,Mathilde Cohen,Production,Ingénieur Qualité,sanpedro,Femme,55,MASTER,cdi,09-12-2015,10.8,586000,6.6,19,3.5,5.0,Oui
+EMP00392,Monique Lejeune,Ressource Humaine,Gestionnaire Paie,ABIDJAN,M,,,Freelance,23 Oct 2019,6.9,348000,6.7,2,2.6,4.4,Oui
+EMP00555,Adrienne Lacombe,Finances,Auditeur Interne,yamoussoukro,homme,47,Licence,stage,08/08/2016,10.1,627000,3.6,1,3.5,4.3,OUI
+EMP00338,Léon Nicolas,Ventes,Responsable Commercial,Korhogo,Homme,,Licence,Freelance,05/20/2016,10.3,720000,7.6,5,,2.5,No
+EMP00530,Isaac Barbier-Antoine,Vente,Responsable Commercial,ABIDJAN,Homme,55,Master,cdd,09/08/2019,7.0,780000,5.0,8,3.8,3.2,Yes
+EMP01054,Patricia Lesage,Logistique,Magasinier,Man,Femme,25,Licence,cdd,12 Jul 2018,8.2,225000,,2,2.8,5.0,Non
+EMP00421,Adélaïde de la Bourgeois,LOGISTIQUE,Responsable Logistique,daloa ,Femme,,BAC,CDI ,06/08/2025,1.2,507000,,4,3.4,4.1,oui
+EMP00655,Augustin de Perrier,Finance,Analyste Financier,korhogo,femme,37,Bac +2,freelance,02 Jul 2024,2.2,553000,7.4,15,4.1,4.4,oui
+EMP00077,Antoine-François Gautier,LOGISTIQUE,Agent Logistique,Bouaké,Homme,27,bac+2,stage,24-12-2022,3.7,242000,1.5,11,3.7,3.3,Oui
+EMP00490,Sabine-Margaret Vaillant,R.H.,Gestionnaire Paie,Daloa,femme,28,doctorat,CDD,10 Apr 2025,1.4,350000,14.2,0,3.5,4.8,No
+EMP01098,Adrienne Fischer-Roger,Prod,Responsable Production,korhogo,Homme,53,bac+2,Freelance,10-03-2025,1.5,682000,6.0,1,2.9,2.5,oui
+EMP00854,Pierre Brun-Riou,Informatique,Développeur Backend,,F,44,Bac,CDD,22/08/2018,8.0,576000,4.9,0,2.1,4.0,Yes
+EMP00068,  Alex Peron   ,Ventes,Responsable Commercial,sanpedro,Femme,61,BAC+2,CDI,16/05/2016,10.3,779000,7.7,2,4.4,4.0,non
+EMP01029,Isabelle de la Arnaud,Logistique,Responsable Logistique,bouaké,M,34,Bac,CDI ,26-01-2024,2.6,524000,7.2,17,1.3,3.4,oui
+EMP00453,Luc Noël,RH,Gestionnaire Paie,bouaké,H,63,bac+2,Freelance,01/21/2025,1.6,342000,8.2,15,4.7,3.7,Oui
+EMP01141,Tristan Nicolas,LOGISTIQUE,Responsable Logistique,San-Pédro,Femme,49,Bac +2,CDD,26-05-2022,4.3,490000,10.2,12,4.1,3.9,Non
+EMP00970,Grégoire Cordier-Buisson,Vente,Commercial Senior,abidjan,homme,40,MASTER,CDI ,2022-08-03,4.1,478000,9.0,8,3.4,3.3,No
+EMP00492,Jeannine-Arnaude Renault,RH,Assistant RH,sanpedro,,34,MASTER,CDI ,11 Oct 2015,10.9,334000,15.6,18,,3.1,Oui
+EMP00866,Olivier Blot,Marketing,Community Manager,bouaké,M,36,bac,Cdi,10/08/2023,2.9,293000,5.8,8,3.2,4.4,No
+EMP00074,Frédéric Lefebvre,production,Chef d'Équipe,bouaké,F,60,,Freelance,27-01-2023,3.6,419000,6.8,7,,4.4,Non
+EMP00739,Marc Chevallier de Faivre,R.H.,Assistant RH,sanpedro,F,54,MASTER,Cdi,14-03-2022,4.5,286000,10.3,14,1.3,4.6,non
+EMP00967,Marthe Paul,Fiance,Auditeur Interne,Bouaké,Homme,40,,CDI ,2018-07-17,8.1,711000,4.9,15,2.3,4.0,Yes
+EMP01081,Marc-Raymond Bouvier,Logistique,Magasinier,Abidjann,F,26,licence,stage,14/05/2014,12.3,310000,3.8,0,4.5,3.4,Yes
+EMP00528,Andrée Delmas Le Lebreton,logistique,Agent Logistique,,femme,44,bac+2,CDI,31-01-2020,6.6,276000,9.4,13,2.5,3.0,No
+EMP00384,Valentine Pottier,Informatique,Data Analyst,Abidjan,Femme,41,Master,stage,16/04/2020,6.4,589000,4.8,1,2.9,2.4,non
+EMP00725,Josette Maillet-Daniel,Finance,Comptable,man,femme,,MASTER,cdi,11/23/2024,1.8,408000,3.5,8,4.5,4.3,OUI
+EMP00932,Anaïs Le Roux,RH,Responsable RH,abidjan,F,53,Master,Stage,12-05-2021,5.3,647000,4.3,0,3.4,3.9,non
+EMP00860,Jérôme Couturier,Informatik,Chef de Projet IT,Bouaké,Homme,49,,CDI,29/10/2017,8.9,795000,10.0,12,3.1,5.0,OUI
+EMP00632,Alexandre Rivière,Vente,Commercial Junior,ABIDJAN,femme,43,Bac,Freelance,12 Apr 2022,4.4,317000,0,3,3.0,2.5,oui
+EMP01012,Véronique Roussel,Informatique,DevOps,,Homme,24,,Freelance,10/22/2021,4.9,646000,,18,2.2,3.3,Oui
+EMP00762,Maurice Le Roux,Informatik,Développeur Frontend,,homme,52,BAC+2,Cdi,09/23/2021,5.0,494000,7.8,13,3.1,4.0,Oui
+EMP00990,Michelle Charles,RH,Gestionnaire Paie,daloa ,Femme,39,Doctorat,cdi,04-11-2025,0.8,348000,4.7,0,2.2,4.3,No
+EMP00293,Véronique Lombard,logistique,Responsable Logistique,Yamoussoukro,femme,62,Doctorat,Freelance,23/12/2022,3.7,536000,6.4,17,3.0,2.5,non
+EMP00023,Bertrand Merle,Vente,Commercial Senior,daloa ,Femme,53,Master,CDD,02/23/2024,2.5,462000,0,2,4.6,4.0,non
+EMP01015,Guy Lucas-Fleury,ventes,Responsable Commercial,Yamoussoukro,M,58,Doctorat,Stage,27-09-2023,2.9,653000,6.4,8,4.0,3.4,Yes
+EMP00526,Olivier Schneider-Noël,Ressources Humaines,Responsable RH,abidjan,H,,,freelance,01-01-2023,3.7,670000,12.2,4,3.9,2.7,Yes
+EMP00689,Brigitte Rossi-Verdier,informatique,Administrateur Système,abidjan,femme,46,doctorat,Freelance,02/10/2022,4.6,549000,11.3,16,4.4,4.3,Yes
+EMP00454,Arthur Parent,Info,Développeur Backend,korhogo,Homme,53,BAC+2,Cdi,03/30/2023,3.4,543000,3.5,3,3.6,3.2,Non
+EMP00869,Charlotte Chartier,INFORMATIQUE,Data Analyst,,F,43,licence,Freelance,2023-04-28,3.4,506000,6.4,0,3.0,3.1,Oui
+EMP00960,Jeanne Navarro du Neveu,Production,Technicien,ABIDJAN,Femme,32,,CDI ,19/02/2017,9.6,390000,7.1,14,3.5,3.7,non
+EMP01072,Victor Texier,Markting,Chargé de Communication,Bouaké,Homme,50,Bac +2,Freelance,17/11/2015,10.8,391000,6.9,2,3.2,4.1,Oui
+EMP00347,Caroline Dubois,Prod,Technicien,Bouaké,F,41,,freelance,11/15/2017,8.8,,8.4,8,4.8,4.5,Non
+EMP00497,Théophile Dumont,RH,Responsable RH,Bouake,M,24,BAC,cdi,12/10/2016,9.9,880000,6.8,12,2.0,3.7,Yes
+EMP00185,Alain Hervé du Gérard,RH,Gestionnaire Paie,abidjan,homme,37,bac,Stage,14/03/2026,0.5,321000,9.1,1,4.2,3.1,Yes
+EMP00391,Jules Boutin-Bertin,Ressource Humaine,Chargé de Recrutement,Bouake,femme,62,,CDI,29/09/2016,9.9,441000,6.3,7,3.6,3.3,Yes
+EMP00179,Nath Tessier,ressources humaines,Chargé de Recrutement,Bouaké,H,35,,stage,22-12-2015,10.7,449000,11.0,14,2.1,3.8,Yes
+EMP00143,Christelle Lebon,Markting,Chargé de Communication,abidjan,M,44,,stage,03 Mar 2018,8.5,383000,5.1,1,,3.6,No
+EMP01018,Denis Laroche,finance,Auditeur Interne,San-Pédro,femme,46,Licence,stage,11/19/2018,7.8,671000,2.0,0,3.3,4.1,OUI
+EMP00465,Nathalie Fernandes,Finances,Analyste Financier,sanpedro,homme,32,,Cdi,05-03-2026,0.5,,0.3,1,3.1,3.5,No
+EMP00510,Christelle Diaz,Production,Technicien,yamoussoukro,Femme,31,,freelance,07 Jul 2014,12.2,,0.5,2,2.3,2.2,Non
+EMP00679,  Auguste Bertrand   ,R.H.,Responsable RH,Bouaké,Femme,41,doctorat,cdd,2021-03-26,5.5,738000,,6,4.3,3.2,No
+EMP00109,Thomas Bonnin,marketing,Chef de Produit,korhogo,femme,63,licence,cdd,12/02/2021,4.8,686000,0.4,6,2.7,3.9,No
+EMP01053,Antoinette Pottier,FINANCE,Analyste Financier,Daloa,Femme,,,cdi,12/18/2019,6.7,591000,0,11,3.2,4.2,non
+EMP00959,Raymond Bonnet,Logistic,Agent Logistique,Yamoussoukro,H,55,BAC,stage,03/04/2026,0.4,233000,6.1,12,3.0,3.0,Non
+EMP00751,Pénélope Louis-Riou,PRODUCTION,Technicien,,Homme,45,doctorat,cdd,24-09-2021,5.0,369000,,6,3.0,4.1,Non
+EMP00624,Paul Dias,Logistique,Agent Logistique,San-Pédro,M,52,Master,freelance,21-08-2025,1.0,239000,12.6,16,,4.2,OUI
+EMP00050,  Maurice Clément Le Albert   ,Production,Chef d'Équipe,Korhogo,M,36,MASTER,Freelance,2020-01-30,6.6,483000,3.2,19,5.0,5.0,oui
+EMP01028,Alice Regnier de la Leroux,Informatique,Data Analyst,sanpedro,Femme,50,Licence,Freelance,29/12/2016,9.7,645000,,2,2.5,3.0,non
+EMP00731,Diane-Anouk Bouchet,VENTES,Commercial Senior,abidjan,F,,bac+2,CDD,11 Jul 2018,8.2,458000,,4,4.4,2.9,Non
+EMP00538,Gérard Chartier,MARKETING ,Responsable Marketing,korhogo,F,60,licence,Cdi,25/01/2017,9.6,948000,5.6,9,3.2,3.9,non
+EMP00252,Christelle Thibault,Ventes,Commercial Junior,San-Pédro,,33,BAC,Cdi,2021-09-21,5.0,283000,3.1,13,3.1,3.7,oui
+EMP00894,Isaac Ferrand,VENTES,Key Account Manager,korhogo,M,32,Bac +2,stage,01/01/2026,0.7,511000,0,4,3.6,2.2,No
+EMP00533,Maggie-Jacqueline Gallet,VENTES,Responsable Commercial,man,Femme,47,master,CDD,08/18/2019,7.1,670000,5.4,16,4.3,,Oui
+EMP00178,Nath Lemoine, Informatique,Data Analyst,Yamoussoukro,F,32,bac+2,CDD,06-12-2015,10.8,705000,10.0,4,2.6,4.2,non
+EMP00782,Jacqueline Gaillard de Martin,ressources humaines,Gestionnaire Paie,San Pedro,homme,55,bac+2,CDI,13 Feb 2024,2.6,394000,7.7,14,3.6,2.2,oui
+EMP00272,Denise Guillou Le Hardy,Ventes,Key Account Manager,sanpedro,femme,52,Doctorat,cdd,14-07-2022,4.2,,8.3,0,,2.6,non
+EMP00710,Bernard Girard du Hardy,Logistique,Responsable Logistique,Abidjann,H,56,,stage,03/22/2021,5.5,545000,9.2,17,3.6,4.2,No
+EMP00047,Marine Schneider,Ressource Humaine,Gestionnaire Paie,San-Pédro,H,42,Bac +2,cdd,22/04/2023,3.4,353000,10.6,11,3.5,3.8,Oui
+EMP00496,Jacques Huet-Chauvet,Informatique,Développeur Frontend,Abidjann,H,62,,freelance,24-04-2024,2.4,465000,8.0,1,2.9,4.5,Oui
+EMP00437,Victoire Fischer-Lebreton,RH,Responsable RH,korhogo,Homme,56,Bac,CDI,2016-10-02,9.9,820000,0,17,2.8,3.4,Non
+EMP00582,Thibaut Bonnin,Informatique,DevOps,ABIDJAN,homme,31,Bac +2,Freelance,23-03-2026,0.5,636000,0.9,1,3.4,4.2,non
+EMP01113,Adrien Gillet,ressources humaines,Responsable RH,Yamoussoukro,,40,master,CDI,12-07-2021,5.2,750000,1.2,13,3.8,3.4,No
+EMP00569,Madeleine Guichard,Ressource Humaine,Gestionnaire Paie,Daloa,H,27,bac+2,freelance,2017-09-30,8.9,403000,8.1,18,3.6,4.7,Non
+EMP00199,Matthieu Petitjean, Informatique,Data Analyst,Man,homme,49,Master,freelance,08/25/2015,11.0,717000,4.0,19,3.4,2.5,Yes
+EMP01091,Élise Peron de Martel,ressources humaines,Chargé de Recrutement,Man,H,33,doctorat,Stage,25/11/2023,2.8,393000,0,12,3.4,4.2,OUI
+EMP00804,Jacqueline Gilbert Le Leconte,R.H.,Responsable RH,Man,femme,39,Master,stage,17-12-2015,10.7,792000,4.4,18,4.1,2.2,Yes
+EMP00668,William Barbier,Markting,Chef de Produit,Daloa,femme,40,master,freelance,2018-04-17,8.4,766000,6.4,18,3.3,3.8,Oui
+EMP00482,  Lucy de Pinto   ,Prod,Chef d'Équipe,Bouake,Femme,52,Doctorat,CDD,01/01/2026,0.7,468000,5.3,3,2.8,3.6,Yes
+EMP00035,Gilles Benoit,Informatique,Chef de Projet IT,abidjan,Femme,46,Licence,CDI,24 Mar 2017,9.5,814000,4.8,18,3.2,3.5,No
+EMP01052,Henriette-Diane Samson,Finance,Contrôleur de Gestion,Bouaké,Homme,51,bac+2,cdd,12 Feb 2015,11.6,732000,,19,2.3,4.0,non
+EMP00451,Cécile Schmitt,ventes,Key Account Manager,San Pedro,femme,57,BAC,freelance,06/30/2020,6.2,648000,8.2,12,3.9,3.5,Yes
+EMP00688,Agathe Benard,Fiance,Contrôleur de Gestion,Abidjann,femme,21,Licence,Stage,19 Jun 2022,4.2,690000,10.1,13,4.2,2.8,OUI
+EMP00545,Adélaïde Chauveau,RH,Assistant RH,Abidjan,Femme,41,Doctorat,freelance,2016-09-13,10.0,,0,9,3.6,3.8,non
+EMP00600,Louis Rey,RH,Gestionnaire Paie,yamoussoukro,homme,50,Bac,cdi,2018-02-07,8.6,430000,1.1,11,4.2,4.0,Non
+EMP00612,Margot Fontaine,Finances,Auditeur Interne,Man,H,56,Bac,freelance,07/30/2014,12.1,,7.0,12,3.1,4.0,No
+EMP00657,Noël Lévy,Informatique,Développeur Backend,ABIDJAN,F,60,master,Freelance,2021-11-11,4.8,572000,6.5,10,3.8,3.6,OUI
+EMP00686,Denis Lenoir,logistique,Responsable Logistique,Abidjan,homme,45,bac+2,freelance,03-12-2025,0.8,450000,6.4,0,2.1,3.0,Non
+EMP00241,Maggie Bigot,Informatik,Développeur Frontend,bouaké,F,,Doctorat,Stage,2024-03-10,2.5,461000,8.1,4,4.4,4.1,non
+EMP00146,Luc-Henri Picard, Informatique,Développeur Frontend,Abidjan,Femme,57,bac+2,freelance,29-04-2022,4.4,539000,7.5,4,3.8,,oui
+EMP00117,Pierre Brunet,Vente,Commercial Senior,yamoussoukro,M,42,Master,CDI,06-10-2023,2.9,481000,13.2,4,3.1,5.0,non
+EMP00525,Adèle Guillon,Fiance,Analyste Financier,korhogo,Homme,48,Bac,freelance,16/11/2018,7.8,609000,9.0,19,3.9,3.7,No
+EMP00148,  Théophile Moreau   ,ressources humaines,Chargé de Recrutement,Abidjan,F,56,BAC,cdi,14 Aug 2019,7.1,480000,5.8,15,,2.8,Yes
+EMP01033,Nicolas-Léon Marion,informatique,Développeur Backend,abidjan,Homme,30,,freelance,01/15/2021,5.6,545000,5.0,2,3.9,2.0,Non
+EMP00432,Nicole Cohen,INFORMATIQUE,Développeur Backend,bouaké,homme,61,licence,Cdi,12/13/2024,1.7,529000,0.8,18,3.7,4.0,oui
+EMP01145,Cécile-Laetitia Boyer,production,Technicien,Man,Femme,40,Doctorat,CDD,29-09-2024,1.9,298000,5.2,3,3.6,3.3,Oui
+EMP00736,Adélaïde-Alexandria Marin,Informatique,Chef de Projet IT,Abidjann,H,52,Bac,CDI ,2022-03-05,4.5,681000,8.0,0,3.3,2.5,Non
+EMP01067,Nicolas Delannoy,Markting,Community Manager,yamoussoukro,Femme,57,,stage,2020-11-23,5.8,341000,10.1,6,2.8,2.5,oui
+EMP00551,Alain de la Lévêque,logistique,Agent Logistique,man,Homme,31,Bac +2,Stage,31-01-2025,1.6,230000,6.3,2,3.4,3.8,oui
+EMP00552,Susanne Lévêque,FINANCE,Analyste Financier,San-Pédro,Femme,22,Doctorat,CDI ,18/04/2017,9.4,656000,8.9,17,3.1,3.5,Non
+EMP01002,Yves Potier,Ventes,Commercial Senior,sanpedro,homme,35,doctorat,CDI,20 Nov 2024,1.8,418000,6.9,3,3.7,4.2,No
+EMP00469,Alix-Denise Techer,marketing,Community Manager,ABIDJAN,M,,Bac,Freelance,12/10/2024,1.9,271000,7.5,6,2.7,4.3,Non
+EMP00105,Guy Lesage de Fontaine,LOGISTIQUE,Responsable Logistique,korhogo,Femme,22,Master,Cdi,17/03/2024,2.5,544000,6.5,15,3.4,4.6,Oui
+EMP00615,Frédéric Carlier,Finance,Auditeur Interne,man,H,43,Bac +2,Cdi,19-10-2018,7.9,612000,7.1,1,3.8,,No
+EMP00589,Alexandrie Blot-Gauthier,FINANCE,Contrôleur de Gestion,sanpedro,H,47,Master,cdi,04-04-2014,12.4,823000,4.6,5,2.9,,non
+EMP00546,Philippe Garcia,informatique,Développeur Frontend,San Pedro,H,32,Licence,CDI,28-01-2019,7.6,509000,3.6,15,1.8,2.6,oui
+EMP00389,Maurice Morvan,Markting,Responsable Marketing,abidjan,homme,23,licence,freelance,2024-09-07,2.0,,8.1,2,4.9,4.2,OUI
+EMP00342,Michèle Robert du Klein,finance,Comptable,ABIDJAN,Homme,56,Bac +2,stage,04/10/2024,2.4,415000,11.2,3,2.7,3.2,Non
+EMP00049,Vincent Lucas,Finances,Analyste Financier,korhogo,femme,22,Licence,stage,14/07/2018,8.2,,9.1,13,3.5,3.1,Non
+EMP00868,Thierry Schmitt-Perez,Logistic,Responsable Logistique,man,F,49,Bac +2,Freelance,14 Dec 2016,9.7,637000,4.1,10,3.3,3.2,Oui
+EMP00850,Robert Girard,logistique,Agent Logistique,,F,57,BAC+2,Freelance,03-10-2018,7.9,295000,5.3,17,2.5,2.3,Yes
+EMP01135,Paulette Alves,Markting,Chargé de Communication,yamoussoukro,homme,50,bac+2,Stage,12-09-2014,12.0,480000,3.9,7,3.5,1.5,Yes
+EMP00916,Simone Chauvet Le Salmon,informatique,Développeur Backend,sanpedro,femme,,,Freelance,12/15/2022,3.7,549000,2.6,0,2.9,5.0,non
+EMP01006,Margot du Bonneau,ressources humaines,Responsable RH,,Homme,48,master,CDD,2026-01-15,0.6,558000,9.4,1,3.2,,OUI
+EMP01138,Aimé de la Breton,LOGISTIQUE,Responsable Logistique,man,Femme,36,,Freelance,09/22/2023,3.0,545000,4.5,0,3.5,2.7,Yes
+EMP00754,François Poirier de la Navarro,Markting,Community Manager,,M,55,master,stage,25/02/2018,8.5,,8.7,7,3.5,4.4,No
+EMP00445,  Édouard Daniel   ,PRODUCTION,Ingénieur Qualité,Man,,150,doctorat,Stage,20/03/2018,8.5,692000,7.6,2,2.1,4.5,Yes
+EMP00263,Hugues Perret,logistique,Agent Logistique,man,,58,BAC+2,Freelance,11-06-2018,8.2,286000,2.6,0,4.7,3.8,Yes
+EMP00110,Julien Gimenez,PRODUCTION,Responsable Production,yamoussoukro,,51,bac+2,CDD,03-03-2018,8.5,801000,4.0,10,3.0,4.4,Oui
+EMP00017,Gilles Loiseau du Marion,Logistique,Magasinier,bouaké,F,45,licence,Cdi,2016-09-09,10.0,,4.7,18,3.2,2.8,Yes
+EMP00823,Xavier Brunel de Toussaint,logistique,Magasinier,Man,homme,47,doctorat,CDI,26 Nov 2017,8.8,231000,10.5,0,4.7,4.7,OUI
+EMP00111,Sophie-Caroline Hebert,Ressource Humaine,Responsable RH,San Pedro,F,26,doctorat,Cdi,13-04-2015,11.4,,10.4,11,2.9,4.8,oui
+EMP00699,Véronique Lopes Le David,VENTES,Responsable Commercial,man,M,40,bac+2,Stage,02/12/2022,3.8,658000,0,0,4.4,3.3,No
+EMP00521,Catherine Leleu,PRODUCTION,Chef d'Équipe,Yamoussoukro,Homme,36,BAC,CDD,10 Jan 2014,12.7,601000,4.3,16,4.0,4.1,oui
+EMP00059,Philippe Fabre,marketing,Chargé de Communication,San-Pédro,F,43,,stage,07/12/2022,4.2,332000,3.5,8,3.3,3.8,Non
+EMP00988,Henriette Collin,Logistic,Magasinier,Korhogo,M,28,MASTER,freelance,20/03/2018,8.5,270000,1.3,7,2.4,2.2,non
+EMP00785,Corinne-Astrid Clerc,Ventes,Key Account Manager,Man,F,51,MASTER,freelance,04/14/2026,0.4,585000,9.5,1,,3.4,Oui
+EMP00085,Anastasie Goncalves,RH,Chargé de Recrutement,ABIDJAN,Homme,49,MASTER,Cdi,08-05-2017,9.3,500000,2.0,2,3.5,5.0,Oui
+EMP00630,Élise Rivière-Marchal,RH,Chargé de Recrutement,man,Homme,26,BAC,cdi,27-08-2024,2.0,376000,,1,2.7,4.9,Yes
+EMP00222,Martine Evrard de la Fernandez,marketing,Chef de Produit,Bouaké,F,38,,cdd,15-09-2024,2.0,566000,3.7,17,2.4,4.4,oui
+EMP00607,Colette-Lucy Turpin,ventes,Commercial Junior,Bouake,homme,23,master,freelance,02/12/2026,0.6,230000,6.3,10,3.8,4.4,non
+EMP00142,Anouk Nguyen,Ressource Humaine,Chargé de Recrutement,abidjan,homme,47,,cdd,28/06/2020,6.2,389000,,7,3.6,2.8,non
+EMP00921,Richard Bonneau,Ressources Humaines,Assistant RH,man,,40,bac,stage,06/07/2021,5.3,327000,13.4,5,3.1,3.9,No
+EMP00256,Pierre de Antoine,Ressource Humaine,Responsable RH,Yamoussoukro,homme,34,Doctorat,freelance,15 Jun 2026,0.2,619000,6.5,18,3.2,3.4,Non
+EMP01023,Richard Bourgeois,Ventes,Responsable Commercial,sanpedro,,62,bac+2,Stage,18 Nov 2021,4.8,671000,5.2,2,2.6,3.3,No
+EMP01102,Adélaïde Bègue,Finances,Comptable,Bouake,Femme,,Licence,Freelance,01/10/2018,8.7,491000,7.4,18,4.2,5.0,Oui
+EMP00758,Marguerite Blin,VENTES,Responsable Commercial,man,M,47,Master,cdi,10-03-2019,7.5,795000,2.3,13,3.4,1.8,oui
+EMP00766,Benjamin Gautier,Vente,Commercial Junior,Abidjann,homme,47,doctorat,stage,21/12/2019,6.7,303000,10.7,1,4.1,5.0,oui
+EMP00955,Jeannine Gosselin,VENTES,Commercial Junior,Man,H,48,doctorat,Stage,2018-03-31,8.4,294000,16.2,10,3.0,3.3,oui
+EMP00500,Georges-Maurice Hubert,finance,Auditeur Interne,San-Pédro,H,37,master,cdi,29 Jul 2023,3.1,,5.1,6,3.6,3.9,oui
+EMP00216,Josette Renault,Ressources Humaines,Chargé de Recrutement,Man,homme,34,doctorat,cdi,03 Jul 2017,9.2,442000,3.6,11,3.7,4.1,No
+EMP00169,  Aimée Roux   ,Ressource Humaine,Gestionnaire Paie,Man,,30,doctorat,freelance,2016-09-22,10.0,385000,7.4,7,3.7,2.6,No
+EMP00882,Nicole-Audrey Berthelot,VENTES,Commercial Senior,Man,Homme,38,bac,cdd,2017-03-22,9.5,549000,15.4,4,2.9,1.0,OUI
+EMP00405,Noël de la Pierre,Finances,Auditeur Interne,Abidjan,H,59,Licence,stage,01 Dec 2022,3.8,,0,0,3.6,2.8,OUI
+EMP00022,Laurent Lagarde,Logistique,Agent Logistique,abidjan,H,33,doctorat,cdi,29-07-2019,7.1,274000,0,17,2.6,2.9,Non
+EMP00554,François Carre Le Torres,Ressources Humaines,Responsable RH,sanpedro,,31,,CDD,04/08/2016,10.1,814000,15.1,19,2.6,3.1,OUI
+EMP00139,Augustin Lamy,Logistique,Responsable Logistique,ABIDJAN,femme,22,licence,Stage,08/21/2022,4.0,494000,8.0,4,3.4,3.6,OUI
+EMP00189,Joséphine Regnier-Philippe, Informatique,DevOps,Abidjann,H,57,MASTER,Freelance,10 Jun 2021,5.2,,6.5,3,2.2,4.6,OUI
+EMP01042,Juliette Lecomte,ressources humaines,Chargé de Recrutement,ABIDJAN,homme,47,,Freelance,25/05/2023,3.3,380000,3.8,17,2.9,4.4,No
+EMP00577,Jean Caron,Marketing,Responsable Marketing,Bouaké,H,28,Master,CDI,23-06-2020,6.2,796000,12.7,6,3.6,3.3,OUI
+EMP00277,Thierry Faure,Informatique,Administrateur Système,Bouake,,28,MASTER,Cdi,05-04-2023,3.4,604000,1.4,14,2.7,4.4,Non
+EMP01133,Arnaude Chauvin,RH,Responsable RH,San Pedro,H,45,BAC,Freelance,2026-06-26,0.2,-50000,2.9,0,2.9,4.2,Non
+EMP00434,Adèle-Astrid Robin,Production,Chef d'Équipe,San-Pédro,Homme,62,,Stage,2016-01-22,10.6,567000,1.8,13,2.8,2.6,Oui
+EMP00659,Olivier Dubois Le Louis,ventes,Commercial Junior,Bouake,H,57,,Freelance,2015-09-04,11.0,329000,2.4,17,4.0,4.2,Yes
+EMP00664,Hortense Simon,Finance,Auditeur Interne,Abidjan,F,35,MASTER,Freelance,05/22/2023,3.3,531000,2.5,13,2.2,2.6,non
+EMP00769,René Renard du Martins,Logistic,Magasinier,daloa ,,24,,Stage,11/16/2017,8.8,254000,,3,4.0,4.7,Oui
+EMP00250,Arthur Costa,Production,Ingénieur Qualité,bouaké,Homme,43,,freelance,2014-11-14,11.8,670000,5.1,13,3.8,4.3,Non
+EMP00378,Vincent-Hugues Martins,finance,Comptable,ABIDJAN,H,60,MASTER,stage,12-08-2017,9.1,500000,8.7,0,,2.7,Non
+EMP00535,Benjamin Perret,logistique,Magasinier,,Femme,22,bac+2,CDI,12/02/2014,12.6,252000,9.0,0,3.4,3.6,Non
+EMP00895,Christiane Deschamps,Finances,Contrôleur de Gestion,Abidjan,M,52,Master,Freelance,2017-01-20,9.6,750000,3.8,1,3.7,2.7,No
+EMP00920,Josette Mahe,logistique,Agent Logistique,Abidjan,M,36,MASTER,Freelance,2021-04-09,5.4,248000,4.4,2,3.2,4.7,non
+EMP01050,Lucie Guérin,Ventes,Responsable Commercial,daloa ,F,29,,CDI,2019-02-17,7.6,677000,7.7,2,2.8,3.1,oui
+EMP00230,Zacharie Lacroix,MARKETING ,Community Manager,Daloa,H,63,master,CDI,04/24/2026,0.4,289000,3.3,3,2.4,,non
+EMP00978,Noémi Valette-Guilbert,Finance,Comptable,korhogo,M,42,MASTER,CDI ,07 Aug 2023,3.1,420000,2.8,3,2.8,2.3,oui
+EMP00239,Marine Le Gomez,Informatik,Administrateur Système,korhogo,,50,Licence,Freelance,17/05/2024,2.3,484000,7.6,1,4.0,4.1,No
+EMP00641,Lorraine Rossi du Legros,informatique,Développeur Backend,daloa ,homme,42,licence,Cdi,06/02/2021,5.6,567000,3.6,3,3.1,3.4,Oui
+EMP00098,Alexandrie Diaz,Prod,Responsable Production,,M,46,Licence,CDI,02/19/2016,10.6,785000,4.6,8,3.3,4.4,oui
+EMP00697,Virginie Alves-Evrard,VENTES,Commercial Senior,ABIDJAN,H,25,MASTER,Stage,2020-06-25,6.2,469000,4.0,0,3.2,3.1,non
+EMP01005,Adélaïde Marion-Chevalier,INFORMATIQUE,Data Analyst,Bouaké,femme,43,master,Cdi,2020-11-22,5.8,644000,11.3,1,2.5,4.4,non
+EMP00414,Christine Leroux de la Boutin,informatique,Data Analyst,abidjan,femme,46,licence,freelance,12/03/2021,5.5,593000,6.8,10,2.8,4.0,Yes
+EMP00041,Alice Marin,marketing,Chargé de Communication,Abidjan,M,26,Bac +2,Freelance,28/12/2020,5.7,344000,5.5,19,1.1,4.0,Non
+EMP00943,Pauline Carpentier de la Hebert,production,Technicien,Abidjann,femme,34,Master,cdi,18/04/2016,10.4,339000,8.8,12,3.0,3.2,OUI
+EMP00357,Guillaume-Martin Roche,MARKETING ,Chargé de Communication,man,F,25,MASTER,stage,09/12/2015,10.8,396000,7.4,19,2.4,2.3,OUI
+EMP00508,  Astrid Schmitt   ,Fiance,Contrôleur de Gestion,sanpedro,homme,29,Doctorat,Freelance,03 Feb 2020,6.6,677000,4.2,10,3.1,3.2,Yes
+EMP00780,Philippine Lambert-Cousin,PRODUCTION,Chef d'Équipe,sanpedro,F,34,Master,CDI,2021-01-21,5.6,514000,0,1,3.7,2.3,Non
+EMP00157,Eugène Lacombe,RH,Responsable RH,Korhogo,Femme,53,master,stage,27/03/2018,8.5,680000,12.4,2,2.6,3.2,non
+EMP00368,William-Georges Chrétien,RH,Gestionnaire Paie,abidjan,femme,61,licence,freelance,2021-11-15,4.8,386000,11.8,8,3.4,2.6,non
+EMP00036,Marie Marques,MARKETING ,Community Manager,,femme,39,BAC,freelance,09 May 2017,9.3,378000,5.3,1,2.4,1.9,non
+EMP00863,Michelle Durand,Markting,Responsable Marketing,Abidjan,Homme,56,MASTER,freelance,12 Sep 2017,9.0,849000,14.4,7,3.9,3.0,Non
+EMP00753,Emmanuel Lesage,Fiance,Contrôleur de Gestion,Man,M,63,Doctorat,freelance,07/30/2014,12.1,826000,5.5,17,2.9,3.2,non
+EMP00816,Océane Coulon,Ventes,Commercial Junior,Abidjan,H,42,,Cdi,11/15/2021,4.8,264000,1.7,0,3.4,3.5,Yes
+EMP00462,Victor Leconte,Finance,Auditeur Interne,Abidjan,F,31,Licence,freelance,27/09/2016,9.9,722000,5.9,0,4.1,2.7,Non
+EMP00808,Louis Vaillant,Fiance,Auditeur Interne,San Pedro,M,63,licence,stage,2023-01-17,3.6,551000,3.9,2,3.8,2.6,non
+EMP00797,Charlotte Foucher Le Lagarde,Informatique,DevOps,Korhogo,H,28,,freelance,25 Mar 2019,7.5,640000,12.3,5,2.1,4.4,non
+EMP00793,Amélie-Manon Costa,Informatik,Administrateur Système,yamoussoukro,M,57,bac+2,Cdi,2021-12-01,4.8,566000,1.0,3,3.1,3.3,OUI
+EMP00760,Roger Dupuis,Markting,Chargé de Communication,Bouaké,homme,58,Licence,CDI ,01 Apr 2022,4.4,,3.9,2,3.6,5.0,Oui
+EMP00078,Denis Texier-Gaillard,Logistique,Magasinier,Bouaké,M,,BAC,cdi,21-03-2015,11.5,309000,5.2,2,3.2,1.9,Non
+EMP00516,Victoire Louis de Pinto,Marketing,Community Manager,Daloa,Femme,42,,cdi,14 Nov 2025,0.8,313000,0,8,3.9,3.1,Oui
+EMP00255,Maggie Lebreton,FINANCE,Contrôleur de Gestion,Abidjann,homme,27,bac,Freelance,10-02-2016,10.6,701000,5.1,2,2.8,2.5,non
+EMP00335,Émile de la Menard,Ventes,Responsable Commercial,Abidjan,femme,35,BAC+2,freelance,11-09-2014,12.0,794000,1.3,9,2.7,3.7,oui
+EMP01075,Aimé Carlier-Gay,VENTES,Commercial Senior,Abidjan,femme,32,BAC,cdi,10/09/2025,0.9,373000,4.8,13,3.2,3.0,Non
+EMP00536,Paul Chevallier du Thibault,informatique,Développeur Frontend,,Femme,49,bac+2,stage,20/03/2016,10.5,541000,3.6,4,3.7,3.6,Yes
+EMP01127,Frédérique Samson,Production,Responsable Production,Abidjann,H,28,doctorat,Freelance,06/09/2020,6.2,765000,4.7,4,4.0,3.4,No
+EMP00839,Simone Perez,R.H.,Assistant RH,Abidjann,M,56,Licence,Freelance,09/07/2014,12.2,311000,17.8,16,3.8,5.0,Non
+EMP00304,Charles Muller,marketing,Chargé de Communication,Abidjan,F,39,Doctorat,cdd,22/11/2018,7.8,398000,13.2,9,3.7,5.0,non
+EMP00909,Laurent Loiseau,logistique,Agent Logistique,yamoussoukro,Femme,50,Bac,cdi,2019-10-04,6.9,267000,7.8,9,3.2,2.9,Yes
+EMP00729,Renée Lucas,marketing,Responsable Marketing,Bouake,femme,,Bac +2,Stage,06-05-2023,3.3,721000,0,2,3.1,3.2,Yes
+EMP00799,Constance Guyot,logistique,Responsable Logistique,,Femme,,bac,Stage,25 Nov 2023,2.8,469000,9.1,11,3.0,4.0,oui
+EMP00755,Catherine Paris,Finance,Auditeur Interne,abidjan,Femme,54,MASTER,Stage,11/16/2020,5.8,570000,8.8,12,3.0,3.3,Non
+EMP00063,Julie Lebrun du Pasquier,logistique,Magasinier,San Pedro,F,41,licence,Stage,2019-04-19,7.4,268000,3.3,4,,3.5,oui
+EMP00193,Daniel Boulanger de la Charrier,Info,Développeur Backend,sanpedro,homme,33,BAC,CDI,10/02/2024,1.9,528000,0.5,5,4.2,3.8,OUI
+EMP00051,Catherine Vidal-Blanchet,MARKETING ,Responsable Marketing,Man,M,25,,Freelance,01/02/2014,12.7,1026000,7.9,1,3.4,3.9,non
+EMP01097,Nathalie Delorme,Production,Ingénieur Qualité,Abidjan,homme,,,CDD,31/10/2024,1.8,508000,7.4,1,3.4,3.7,Yes
+EMP00990,Michelle Charles,RH,Gestionnaire Paie,daloa ,Femme,39,Doctorat,cdi,04-11-2025,0.8,348000,4.7,0,2.2,4.3,No
+EMP00361,Patrick Vidal,Fiance,Auditeur Interne,Abidjan,Femme,31,MASTER,Cdi,09/09/2020,6.0,648000,2.4,3,3.1,3.1,non
+EMP01056,Susanne de la Mallet,Informatique,Chef de Projet IT,ABIDJAN,H,35,BAC+2,CDD,13 Sep 2025,1.0,608000,6.6,8,4.7,2.6,Oui
+EMP00840,Clémence Le Grégoire,logistique,Magasinier,Bouake,Femme,21,,CDD,22 Jun 2025,1.2,226000,0,3,,4.1,Non
+EMP00079,Sophie Collet,logistique,Agent Logistique,yamoussoukro,Femme,43,,Stage,21 Jun 2015,11.2,330000,13.3,1,3.2,4.5,non
+EMP00806,Luc Girard,RH,Gestionnaire Paie,sanpedro,M,,BAC+2,cdi,03/18/2026,0.5,343000,2.9,1,2.4,4.6,oui
+EMP00232,Patrick Hoarau,Logistic,Magasinier,Yamoussoukro,M,58,bac,cdi,16-09-2025,1.0,233000,1.2,7,4.9,3.3,No
+EMP00039,Isaac du Marques,production,Chef d'Équipe,Korhogo,F,52,Bac,Freelance,29-04-2024,2.4,484000,7.2,10,3.3,3.9,oui
+EMP00590,Étienne Peron de Gomez,informatique,DevOps,yamoussoukro,M,24,,CDD,29-12-2025,0.7,618000,6.8,10,3.2,3.6,Yes
+EMP00849,Caroline du Meunier,informatique,Administrateur Système,Bouaké,M,,bac+2,cdi,2018-04-20,8.4,591000,3.8,12,3.0,3.8,OUI
+EMP00656,Valentine Vallet-Masse,VENTES,Responsable Commercial,,Homme,45,BAC+2,CDI ,2014-04-06,12.4,788000,0,3,3.3,2.6,Yes
+EMP00504,Auguste Pereira,R.H.,Chargé de Recrutement,bouaké,H,49,master,Stage,19-02-2019,7.6,397000,0.1,12,,2.4,non
+EMP00463,Jacqueline Lopes,Finances,Comptable,Bouaké,Femme,50,licence,cdi,24-09-2016,10.0,471000,3.3,2,4.6,5.0,Oui
+EMP00948,Chantal Louis,Informatique,Chef de Projet IT,,F,56,Master,Cdi,2018-09-15,8.0,833000,15.8,5,3.6,2.7,oui
+EMP00481,Christophe Rivière de Verdier,VENTES,Commercial Senior,bouaké,F,51,bac+2,Freelance,27 Oct 2014,11.9,594000,,11,3.2,2.9,oui
+EMP00129,Édith Picard,Finances,Contrôleur de Gestion,man,F,38,MASTER,Freelance,19/04/2017,9.4,696000,8.6,14,,3.8,oui
+EMP00542,Sabine Robin-Charles,Production,Responsable Production,Korhogo,F,22,Master,stage,12 Jun 2016,10.2,851000,1.3,0,2.8,4.8,Yes
+EMP00029,Manon Fernandez de la Morvan,informatique,Administrateur Système,Abidjann,F,37,licence,CDI,2015-06-30,11.2,632000,3.0,2,1.9,4.9,oui
+EMP00734,Patrick Caron-Lecomte,Ressource Humaine,Chargé de Recrutement,man,F,40,Master,freelance,24/04/2024,2.4,338000,2.0,0,3.7,4.1,No
+EMP00283,Laure Lagarde,Markting,Chef de Produit,Yamoussoukro,Femme,42,BAC+2,freelance,18/08/2021,5.1,697000,13.4,15,3.7,3.4,non
+EMP00015,Gérard Guyon,LOGISTIQUE,Agent Logistique,daloa ,,33,bac+2,CDI,01-02-2019,7.6,310000,1.6,2,3.6,4.4,non
+EMP00661,Martin-René Lambert,RH,Responsable RH,korhogo,F,42,master,Stage,11/20/2024,1.8,679000,5.4,5,,5.0,Oui
+EMP00329,Margaud de la Simon,Logistic,Responsable Logistique,Daloa,Femme,25,,CDI ,2017-08-31,9.0,521000,2.8,4,4.2,3.5,non
+EMP00383,Édith Lacroix,ventes,Commercial Junior,Abidjann,femme,53,doctorat,CDD,20-07-2025,1.1,276000,0,19,2.8,2.3,Yes
+EMP00758,Marguerite Blin,VENTES,Responsable Commercial,man,M,47,Master,cdi,10-03-2019,7.5,795000,2.3,13,3.4,1.8,oui
+EMP00646,  Claire Lévêque   ,Vente,Key Account Manager,Abidjan,femme,55,BAC+2,cdd,23 Jul 2017,9.1,638000,2.1,0,4.3,2.4,No
+EMP00965,Paul Guérin,Ventes,Commercial Senior,korhogo,M,42,bac+2,Freelance,30/03/2023,3.4,465000,5.3,4,,3.4,No
+EMP00070,Alfred Mace,informatique,DevOps,San-Pédro,M,,MASTER,cdd,12/03/2022,3.8,615000,12.3,16,3.9,4.0,Non
+EMP01112,Philippine Fleury,Finances,Contrôleur de Gestion,San Pedro,F,35,BAC+2,freelance,02/23/2024,2.5,587000,9.0,1,2.5,,No
+EMP00794,Joséphine Foucher-Marchal,Markting,Chef de Produit,ABIDJAN,Homme,31,BAC+2,stage,09/28/2022,3.9,690000,5.5,3,4.5,3.1,Non
+EMP00260,Édouard Poirier de la Colin,Ressources Humaines,Responsable RH,daloa ,Homme,51,Master,Stage,2014-01-24,12.6,932000,6.1,2,3.7,2.2,Yes
+EMP00974,Jérôme Marques,finance,Comptable,daloa ,F,32,,CDD,03/10/2020,5.9,470000,7.1,1,3.4,3.6,Non
+EMP00770,Paul Texier-Laporte,finance,Auditeur Interne,Yamoussoukro,H,25,licence,CDI ,04/28/2023,3.4,521000,5.3,12,3.9,3.1,Oui
+EMP00253,Josette Bonneau,Logistique,Responsable Logistique,,Homme,50,,Cdi,07/17/2026,0.1,473000,6.3,7,3.2,2.3,Oui
+EMP00631,Diane Mary,Logistique,Magasinier,yamoussoukro,Femme,45,,cdd,08 Jan 2026,0.7,217000,0,17,4.5,,No
+EMP00415,Claudine Leconte,Finances,Contrôleur de Gestion,San Pedro,Femme,,Bac +2,freelance,07 Nov 2017,8.8,719000,0,0,3.2,3.0,OUI
+EMP00934,Dorothée Masson,Markting,Chargé de Communication,ABIDJAN,femme,52,Doctorat,freelance,2018-12-30,7.7,445000,6.6,0,3.3,2.8,Non
+EMP00010,Raymond Paris,VENTES,Commercial Junior,Korhogo,M,46,Licence,cdi,18/07/2026,0.1,256000,3.9,19,2.7,3.8,Non
+EMP00981,Thomas Bodin,Logistic,Responsable Logistique,Bouaké,F,61,,cdd,2014-02-26,12.5,630000,7.9,5,3.1,5.0,No
+EMP00221,Lucie Duhamel,VENTES,Key Account Manager,Yamoussoukro,,63,BAC,cdd,04-06-2022,4.3,562000,3.1,4,3.3,3.6,OUI
+EMP00233,Alex Albert Le Barbe,RH,Gestionnaire Paie,abidjan,femme,32,bac+2,stage,28-04-2024,2.4,340000,2.8,4,3.9,3.5,Yes
+EMP00771,Lucie Andre de la Legros,MARKETING ,Chef de Produit,korhogo,Femme,41,Bac,cdi,15 Jul 2020,6.1,728000,3.7,15,,3.0,non
+EMP00025,Raymond Benard-Labbé,production,Responsable Production,,M,29,Doctorat,cdi,09/05/2019,7.0,726000,7.0,15,1.3,2.7,oui
+EMP00712,Marthe Collin,Vente,Responsable Commercial,San-Pédro,femme,22,MASTER,CDI,12-01-2015,11.7,861000,8.4,10,3.6,1.9,No
+EMP00632,Alexandre Rivière,Vente,Commercial Junior,ABIDJAN,femme,43,Bac,Freelance,12 Apr 2022,4.4,317000,0,3,3.0,2.5,oui
+EMP00627,Juliette Coulon,Production,Chef d'Équipe,bouaké,,39,bac+2,Freelance,14/12/2023,2.7,,10.3,1,3.2,4.0,OUI
+EMP00809,Jean Olivier,marketing,Chargé de Communication,sanpedro,Femme,59,Bac +2,cdi,11/05/2026,0.3,354000,8.2,0,2.8,4.2,oui
+EMP00112,Thomas Royer Le Muller,ventes,Commercial Junior,Daloa,F,,bac+2,Cdi,29 Mar 2019,7.4,291000,2.0,9,3.1,4.1,Yes
+EMP00128,Aimée Martins,marketing,Responsable Marketing,Abidjan,femme,39,bac+2,cdd,2024-02-14,2.6,678000,11.0,13,4.0,5.0,No
+EMP00055,Louis Bertin,Fiance,Contrôleur de Gestion,korhogo,femme,42,bac+2,stage,07/10/2014,11.9,,0,7,3.7,2.9,oui
+EMP00747,Agnès Poirier,Prod,Ingénieur Qualité,Bouake,F,22,bac,CDI ,05/05/2017,9.3,559000,11.5,7,3.2,3.5,Oui
+EMP00211,André Roux,ressources humaines,Responsable RH,San Pedro,Femme,57,Bac,CDD,08/28/2019,7.0,759000,,9,3.8,,Non
+EMP00192,Michel Weber,Info,Développeur Frontend,Bouake,femme,52,Bac +2,CDI ,06/28/2023,3.2,481000,11.3,1,3.5,4.2,Non
+EMP00675,Laure-Dominique Breton,VENTES,Commercial Junior,man,,53,BAC+2,Cdi,06/04/2026,0.3,270000,5.0,15,3.7,3.4,OUI
+EMP00018,Anne Mercier,production,Chef d'Équipe,Daloa,homme,22,doctorat,Cdi,06 Nov 2016,9.8,545000,2.3,18,3.8,2.9,oui
+EMP00412,Louise Cousin,Finance,Analyste Financier,man,H,,MASTER,Stage,14-04-2022,4.4,529000,5.1,1,,3.1,Oui
+EMP00151,François-Christophe Lopes,Logistique,Magasinier,sanpedro,F,24,bac+2,stage,11/16/2022,3.8,214000,9.7,19,3.0,4.3,No
+EMP00126,Paul Salmon de la Martins,PRODUCTION,Ingénieur Qualité,Abidjann,F,30,bac+2,Cdi,25 Sep 2017,9.0,645000,2.6,14,3.6,3.9,OUI
+EMP00789,Adèle Clerc,Marketing,Responsable Marketing,bouaké,femme,24,,CDI ,16 Sep 2017,9.0,865000,1.0,9,3.7,3.3,OUI
+EMP00322,Amélie Leroy-Perrin,Logistic,Agent Logistique,korhogo,Homme,27,,cdi,23/02/2023,3.5,278000,7.3,13,4.2,3.3,oui
+EMP00976,Isabelle Merle,ventes,Commercial Junior,Korhogo,femme,51,,CDI,11 Oct 2019,6.9,320000,7.9,9,2.7,4.0,No
+EMP00319,Lucas de la Renard,ventes,Commercial Senior,Daloa,H,33,Bac +2,CDD,20-07-2024,2.1,486000,5.0,1,3.4,3.4,Non
+EMP00168,Monique du Bazin,Info,Chef de Projet IT,Abidjan,Homme,58,BAC+2,Cdi,17 Mar 2016,10.5,876000,3.0,10,3.4,3.3,non
+EMP00413,Agnès Moreno,Ressources Humaines,Assistant RH,,homme,63,licence,Stage,2017-08-19,9.1,319000,13.0,5,,4.9,No
+EMP00786,Patrick Michaud de Loiseau,Informatique,Administrateur Système,San-Pédro,M,53,master,CDI,01-06-2019,7.3,590000,7.7,1,3.6,2.2,non
+EMP00746,Catherine Didier,Fiance,Auditeur Interne,Daloa,F,26,MASTER,CDI,03/14/2018,8.5,589000,0.4,1,2.6,4.4,non
+EMP00323,Monique Le Regnier,MARKETING ,Chargé de Communication,Man,femme,63,master,cdi,25/09/2020,6.0,382000,6.0,11,,5.0,OUI
+EMP00423,Juliette Lenoir,Fiance,Comptable,bouaké,Femme,45,bac+2,stage,28/04/2020,6.4,499000,3.6,14,3.8,2.3,oui
+EMP00464,Anastasie Rolland Le Lévy,Info,Développeur Frontend,Bouaké,F,41,,Cdi,09/13/2025,1.0,423000,,16,3.9,2.3,non
+EMP00170,Maurice Lemaire,Prod,Technicien,yamoussoukro,H,36,bac,CDI,25/03/2017,9.5,348000,13.0,9,3.6,4.6,OUI
+EMP00274,Michèle Foucher,Markting,Chef de Produit,yamoussoukro,Homme,46,bac+2,stage,10/31/2023,2.9,586000,7.2,0,3.3,2.5,non
+EMP00880,Thibaut Dumont,finance,Analyste Financier,Korhogo,Femme,45,master,cdi,10/13/2015,10.9,669000,5.5,2,3.6,4.3,No
+EMP00466,Thérèse Ribeiro,INFORMATIQUE,DevOps,Daloa,homme,55,Bac,cdi,2024-06-20,2.2,579000,7.7,0,3.5,,No
+EMP00427,Marguerite Descamps-Benard,ressources humaines,Responsable RH,ABIDJAN,F,51,MASTER,Cdi,2016-05-04,10.3,843000,10.2,13,3.9,4.6,Oui
+EMP00040,Julien Bouchet,production,Responsable Production,daloa ,Homme,51,Bac +2,cdi,04/13/2014,12.4,883000,4.5,7,3.6,2.8,Non
+EMP00301,Suzanne Dupuis,FINANCE,Contrôleur de Gestion,San Pedro,Homme,43,Licence,cdi,27-09-2020,5.9,609000,14.3,11,4.3,3.6,Non
+EMP00791,Jeannine Vidal,ressources humaines,Responsable RH,Yamoussoukro,F,62,Master,cdd,02 Feb 2025,1.6,613000,0,1,2.4,3.5,oui
+EMP00910,Andrée Ferreira,RH,Responsable RH,yamoussoukro,femme,24,Bac +2,freelance,27 Aug 2023,3.0,655000,10.4,1,3.9,3.6,oui
+EMP00874,Cécile Valette,marketing,Chargé de Communication,daloa ,,26,Doctorat,Freelance,2018-06-24,8.2,426000,3.2,3,3.8,3.1,OUI
+EMP00966,Éric Lopes,FINANCE,Analyste Financier,sanpedro,M,46,,Cdi,10/07/2025,0.9,479000,,16,3.8,4.5,Non
+EMP00064,Frédéric Fontaine,marketing,Community Manager,yamoussoukro,Homme,27,master,cdi,27/07/2023,3.1,291000,0,19,3.7,,oui
+EMP00667,Marthe Deschamps de Maurice,marketing,Chef de Produit,korhogo,homme,49,Doctorat,CDI ,25/09/2016,10.0,748000,7.2,12,3.7,3.6,No
+EMP00224,Antoinette Gosselin-Julien,RH,Responsable RH,,Homme,43,licence,stage,2025-04-10,1.4,577000,1.2,12,3.0,5.0,OUI
+EMP00257,Dominique Chrétien,Ressources Humaines,Gestionnaire Paie,yamoussoukro,,30,BAC,stage,04/11/2017,8.8,,5.6,17,2.8,3.2,Oui
+EMP00804,Jacqueline Gilbert Le Leconte,R.H.,Responsable RH,Man,femme,39,Master,stage,17-12-2015,10.7,792000,4.4,18,4.1,2.2,Yes
+EMP00483,Corinne-Nicole Courtois,ventes,Commercial Senior,sanpedro,Homme,39,doctorat,CDI ,14-04-2023,3.4,413000,7.7,7,3.8,2.9,OUI
+EMP00936,Thérèse Georges,Production,Chef d'Équipe,man,homme,35,bac+2,Freelance,07-06-2017,9.3,,,0,3.7,5.0,No
+EMP00428,Isaac Richard,RH,Gestionnaire Paie,ABIDJAN,H,37,Bac +2,Freelance,11/20/2015,10.8,401000,14.9,2,3.7,3.5,oui
+EMP00073,Laure du Dupont,Ventes,Commercial Senior,,M,45,Bac +2,Cdi,10 Jun 2016,10.2,580000,8.4,3,4.9,4.3,non
+EMP00547,Luc Paris-Thomas,ventes,Commercial Junior,Daloa,,47,Doctorat,CDD,2021-07-20,5.1,282000,0.7,8,4.1,,Non
+EMP00657,  Noël Lévy   ,Informatique,Développeur Backend,ABIDJAN,F,60,master,Freelance,2021-11-11,4.8,572000,6.5,10,3.8,3.6,OUI
+EMP01121,Matthieu du Gaudin,FINANCE,Analyste Financier,man,Homme,50,Bac +2,CDI,2022-02-06,4.6,611000,4.5,17,3.1,3.0,non
+EMP01032,  Nicolas de Fleury   ,INFORMATIQUE,Développeur Backend,,Femme,61,,stage,20/03/2020,6.5,562000,13.2,0,4.1,3.9,Yes
+EMP01090,Sophie Thierry-Rodriguez,Marketing,Responsable Marketing,daloa ,,21,MASTER,CDI,2016-06-23,10.2,970000,5.9,8,2.5,4.1,Oui
+EMP00998,Jean Hoarau-Rey,informatique,DevOps,Bouake,Homme,26,master,CDI ,12/04/2022,3.8,692000,5.5,4,3.9,3.0,oui
+EMP00567,Nicolas Brunet,FINANCE,Comptable,Bouake,F,37,,CDD,17 Feb 2015,11.6,544000,,18,2.2,3.0,oui
+EMP00034,Aimé Nguyen,Finance,Contrôleur de Gestion,Bouake,H,34,BAC,Stage,2020-12-10,5.7,641000,1.3,2,5.0,3.7,non
+EMP00835,Thibault Pereira,Informatique,Développeur Backend,Korhogo,Femme,38,doctorat,Cdi,06 Feb 2024,2.6,514000,2.9,13,5.0,3.4,No
+EMP00572,Christelle Carre,finance,Comptable,man,femme,59,,Stage,28/11/2019,6.8,511000,11.0,13,3.1,4.6,Non
+EMP00489,Odette Rémy de Maréchal,VENTES,Commercial Senior,San Pedro,,40,licence,cdi,11/02/2016,9.8,,9.4,18,3.0,4.5,OUI
+EMP01087,Benoît Leduc,Finance,Contrôleur de Gestion,abidjan,homme,34,licence,Stage,25-07-2019,7.1,N/A,9.7,2,3.7,,Non
+EMP00238,Michel Bernier,Ressources Humaines,Responsable RH,ABIDJAN,F,42,Bac,Freelance,2018-07-23,8.1,742000,1.4,17,4.0,3.3,No
+EMP01146,Christiane Tessier-Marin,R.H.,Responsable RH,korhogo,,57,Master,CDI ,28 May 2025,1.3,644000,4.6,4,3.5,2.7,No
+EMP00580,Alphonse Boulay,Finance,Analyste Financier,Korhogo,M,24,BAC,Stage,31-05-2024,2.3,528000,7.8,7,3.0,4.7,Non
+EMP00251,Christine-Josette Navarro,ressources humaines,Assistant RH,man,Femme,59,doctorat,cdi,17 Oct 2020,5.9,280000,7.3,13,2.2,2.8,oui
+EMP00825,Claire Baron,Prod,Ingénieur Qualité,,M,30,BAC+2,cdd,03-03-2015,11.5,711000,10.0,16,4.8,4.0,Oui
+EMP00331,Isaac Charrier,Ressource Humaine,Gestionnaire Paie,sanpedro,Femme,25,bac+2,cdd,2021-07-10,5.2,372000,6.4,0,2.9,3.4,Oui
+EMP00402,Eugène Vallet,Informatik,Data Analyst,San-Pédro,F,63,doctorat,CDD,10/08/2025,0.9,506000,,13,3.2,3.7,oui
+EMP00878,Martin Hubert,VENTES,Commercial Senior,Yamoussoukro,homme,53,master,Stage,05/27/2018,8.3,549000,7.5,11,3.8,,Yes
+EMP00931,  Patrick Chevallier   ,Info,Développeur Frontend,bouaké,Homme,27,BAC+2,Stage,2019-12-25,6.7,560000,5.9,15,3.5,4.0,oui
+EMP00870,Gabriel Pottier,Logistic,Agent Logistique,Korhogo,H,22,doctorat,CDI,02/03/2026,0.5,207000,9.8,14,3.3,2.8,oui
+EMP00889,Isabelle Renaud,INFORMATIQUE,Chef de Projet IT,Bouaké,Femme,50,bac,Stage,2015-08-14,11.1,877000,2.9,14,4.6,3.9,non
+EMP00698,Mathilde Lemoine,Finance,Analyste Financier,Abidjann,femme,30,bac,stage,02/25/2020,6.5,599000,7.6,4,3.4,3.6,Oui
+EMP00944,Xavier Duhamel,marketing,Chef de Produit,Bouaké,,37,,freelance,22 Nov 2023,2.8,647000,3.7,3,2.8,4.6,non
+EMP00864,Claudine Letellier-Barthelemy,Marketing,Responsable Marketing,yamoussoukro,Homme,59,BAC,CDD,15/10/2016,9.9,857000,12.6,4,3.6,3.8,Oui
+EMP00553,Margot Gautier,logistique,Responsable Logistique,man,M,53,Bac,CDI,2016-09-27,9.9,572000,2.0,10,2.6,3.9,non
+EMP00628,Mathilde du Marchal,FINANCE,Auditeur Interne,man,femme,49,bac+2,CDI,20/11/2025,0.8,494000,9.1,0,2.2,3.5,No
+EMP00844,Théodore-André Garnier,Production,Responsable Production,bouaké,M,49,BAC,CDI,22-07-2025,1.1,612000,11.2,0,2.9,,oui
+EMP00983,Vincent Gomez,Informatique,DevOps,daloa ,Homme,44,,Cdi,07-03-2026,0.5,613000,12.1,9,4.8,4.0,Yes
+EMP00275,Édith Collin,ventes,Key Account Manager,yamoussoukro,,23,doctorat,freelance,01/22/2021,5.6,654000,3.8,13,2.4,2.4,OUI
+EMP00585,Suzanne Didier,Vente,Responsable Commercial,yamoussoukro,M,35,,stage,16-09-2020,6.0,692000,5.4,3,3.0,3.3,OUI
+EMP00704,Paul Prévost du Hubert,Logistic,Magasinier,,Homme,53,MASTER,CDI ,2024-01-17,2.6,240000,6.3,15,,4.1,Oui
+EMP00196,Nath Lucas,Vente,Key Account Manager,Bouaké,femme,,Bac +2,Stage,10/13/2024,1.9,600000,0.8,2,2.8,2.2,Yes
+EMP01140,Michelle Becker,Production,Chef d'Équipe,Bouake,H,43,Master,CDD,06/08/2021,5.1,424000,9.9,18,3.3,3.4,Oui
+EMP00503,Renée-Arnaude Colin, Informatique,Data Analyst,Daloa,femme,,MASTER,CDI ,11/03/2018,7.8,628000,0.1,10,4.7,3.5,Oui
+EMP00781,Benjamin Evrard-Pires,ressources humaines,Assistant RH,bouaké,M,55,licence,Freelance,2014-05-04,12.4,392000,0,19,4.0,4.1,OUI
+EMP00088,Zoé Lucas,PRODUCTION,Technicien,,Homme,50,bac,CDD,18-10-2023,2.9,350000,5.6,1,3.4,4.8,Yes
+EMP00502,Michel Fouquet,MARKETING ,Community Manager,,Homme,45,bac,Stage,19/12/2023,2.7,281000,0,12,3.1,2.0,Non
+EMP01001,Louise Nicolas,INFORMATIQUE,DevOps,daloa ,M,,Licence,CDI ,08/03/2018,8.1,690000,8.0,1,2.5,3.2,OUI
+EMP00313,Lorraine Jourdan,Marketing,Responsable Marketing,yamoussoukro,Homme,33,bac+2,Freelance,27 Aug 2016,10.0,860000,4.0,0,4.2,2.9,oui
+EMP00471,Martin Monnier,Markting,Chef de Produit,Daloa,F,49,Bac +2,CDI ,2021-04-12,5.4,652000,5.5,17,,3.3,Yes
+EMP00422,Claire du Sanchez,Ressource Humaine,Gestionnaire Paie,bouaké,Femme,51,doctorat,CDD,20-02-2018,8.5,427000,6.0,17,4.1,4.7,OUI
+EMP00097,Christiane Guichard-Simon,Vente,Responsable Commercial,bouaké,F,39,Doctorat,CDD,2017-07-25,9.1,783000,9.6,0,4.2,4.7,No
+EMP00336,Xavier Pelletier,Ressources Humaines,Gestionnaire Paie,San Pedro,F,50,,cdd,2019-01-28,7.6,393000,2.6,14,4.0,3.4,OUI
+EMP01086,Michèle Hamel,RH,Gestionnaire Paie,San Pedro,Femme,58,,CDI,08/23/2024,2.0,329000,9.3,0,,3.4,OUI
+EMP00712,Marthe Collin,Vente,Responsable Commercial,San-Pédro,femme,22,MASTER,CDI,12-01-2015,11.7,861000,8.4,10,3.6,1.9,No
+EMP00564,Tristan Dupuy de Caron,R.H.,Responsable RH,yamoussoukro,M,35,bac,Freelance,2019-03-21,7.5,798000,0,6,4.9,2.9,No
+EMP00334,Gabriel Allain,Info,DevOps,bouaké,Homme,29,,CDI ,10/08/2023,2.9,570000,8.4,13,3.7,2.7,non
+EMP00177,Aimée Chevallier,R.H.,Assistant RH,Abidjann,homme,34,MASTER,freelance,11-06-2025,1.2,239000,0.8,13,4.1,2.9,Oui
+EMP00705,Marcel Renault,ventes,Commercial Junior,Bouake,H,25,MASTER,stage,03 Apr 2015,11.4,320000,6.4,1,3.8,3.2,non
+EMP00205,Alexandrie Salmon Le Daniel,Logistique,Agent Logistique,Korhogo,Femme,32,,Freelance,04 Sep 2015,11.0,334000,,2,3.1,2.7,non
+EMP00663,Alexandre Meunier de la Couturier,Info,Data Analyst,sanpedro,,21,Licence,freelance,06/20/2021,5.2,591000,13.7,11,3.9,4.1,oui
+EMP00890,Amélie-Alexandria Tessier,Prod,Technicien,sanpedro,femme,23,,CDI ,2018-07-07,8.2,329000,7.5,2,4.4,4.5,non
+EMP00767,Étienne Bigot de Faivre,RH,Assistant RH,man,femme,32,,stage,2014-09-11,12.0,342000,6.7,2,3.1,3.7,No
+EMP00244,Stéphane Carlier,production,Ingénieur Qualité,Daloa,homme,42,,freelance,16-03-2022,4.5,581000,,0,4.4,3.4,non
+EMP00153,Robert-Matthieu Baudry,RH,Chargé de Recrutement,Daloa,M,47,MASTER,CDI,16 Feb 2017,9.6,497000,0.5,0,4.5,2.0,Yes
+EMP00209,Manon Lombard,Prod,Technicien,Yamoussoukro,Femme,44,bac+2,freelance,29/08/2021,5.0,347000,11.4,11,2.8,2.6,No
+EMP01139,Marcel Leconte,RH,Responsable RH,daloa ,F,24,Bac +2,Stage,04 Nov 2016,9.8,887000,8.3,18,3.6,3.1,Oui
+EMP00833,Alexandre Marchand-Bouvet,PRODUCTION,Chef d'Équipe,Abidjan,homme,26,Bac +2,freelance,11/10/2015,10.8,531000,10.5,18,2.8,4.3,oui
+EMP00511,André Durand,LOGISTIQUE,Responsable Logistique,Abidjann,H,40,Licence,Stage,12-01-2015,11.7,666000,3.9,13,2.4,4.2,No
+EMP00191,Éric Chauveau de la Blanchard,INFORMATIQUE,DevOps,sanpedro,homme,45,bac+2,CDD,04/30/2021,5.4,-50000,4.8,15,2.8,3.9,oui
+EMP00605,Maggie-Margaret Brun,Markting,Chef de Produit,bouaké,homme,24,MASTER,Cdi,05/08/2018,8.3,624000,9.1,6,4.4,2.7,Oui
+EMP00531,Joseph Gilles-Cohen,Ventes,Responsable Commercial,San-Pédro,Homme,47,Bac +2,CDI,07-10-2021,4.9,683000,4.6,12,3.0,2.3,Yes
+EMP00202,Théophile Le Texier,Logistique,Responsable Logistique,Man,Femme,44,bac+2,Freelance,15 May 2019,7.3,500000,4.5,8,2.3,3.2,No
+EMP00430,Georges Guichard,Markting,Chef de Produit,Man,Femme,25,Doctorat,Freelance,17/05/2023,3.3,646000,1.8,13,4.1,2.9,OUI
+EMP00195,David-André Hamon,Markting,Chargé de Communication,man,M,50,,Cdi,04-08-2025,1.1,378000,4.7,15,4.3,3.4,Oui
+EMP00953,Diane Rousset,Marketing,Chargé de Communication,Yamoussoukro,homme,25,doctorat,CDI ,06/30/2016,10.2,458000,7.2,19,3.8,3.5,oui
+EMP00594,Bertrand du Bouvet,RH,Responsable RH,Daloa,Femme,33,,freelance,07/12/2021,4.8,648000,4.1,16,3.0,,No
+EMP00502,Michel Fouquet,MARKETING ,Community Manager,,Homme,45,bac,Stage,19/12/2023,2.7,281000,0,12,3.1,2.0,Non
+EMP00141,Michelle Mercier-Louis,Info,Chef de Projet IT,Man,homme,,BAC,CDD,27/10/2024,1.9,715000,4.3,13,3.6,2.9,OUI
+EMP00876,Zoé Lefebvre,Info,Administrateur Système,korhogo,Homme,48,,cdd,08 Feb 2020,6.6,550000,6.8,18,3.8,3.6,non
+EMP00718,Thibault Texier,LOGISTIQUE,Magasinier,Korhogo,M,60,,CDI ,02/25/2018,8.5,269000,7.5,16,2.7,2.7,non
+EMP00964,Paulette Benoit,marketing,Chef de Produit,San-Pédro,Homme,62,bac,CDD,2023-05-14,3.3,639000,4.2,10,2.8,2.6,Non
+EMP00315,Virginie Rousset,Marketing,Chef de Produit,,H,61,BAC+2,cdd,29 Feb 2024,2.5,630000,7.5,19,3.2,3.5,Non
+EMP00082,Michelle de la Gonzalez,ressources humaines,Responsable RH,Bouake,homme,49,master,CDI,29 Oct 2015,10.9,776000,2.6,19,5.0,3.4,No
+EMP00407,Bertrand Marchand,Finance,Comptable,ABIDJAN,femme,54,Master,Freelance,19-04-2021,5.4,411000,9.4,4,3.5,4.1,OUI
+EMP00723,Marcelle Teixeira,Finances,Auditeur Interne,Bouaké,F,47,doctorat,CDI ,02-06-2024,2.3,522000,5.2,13,3.2,,oui
+EMP01025,Geneviève Paul,FINANCE,Comptable,ABIDJAN,M,,,Cdi,10/28/2016,9.9,461000,4.7,0,3.7,2.5,OUI
+EMP00599,Margaret Robert,Markting,Community Manager,man,Femme,50,bac+2,CDI ,07-01-2019,7.7,366000,6.7,0,3.1,2.8,oui
+EMP01068,Josette Boulay,Informatik,Développeur Frontend,Korhogo,,53,BAC,CDI ,17-12-2022,3.7,438000,3.4,16,4.5,3.6,No
+EMP00658,Aurore Fouquet Le Valette,Info,Administrateur Système,,homme,47,BAC+2,cdd,10/04/2025,0.9,467000,2.6,17,3.0,,Non
+EMP00798,Constance-Marthe Cordier,Logistique,Responsable Logistique,sanpedro,Femme,39,,Cdi,22 Mar 2020,6.5,513000,6.2,10,3.0,3.2,OUI
+EMP00311,Joseph-Joseph Robert,Logistique,Responsable Logistique,Yamoussoukro,homme,62,doctorat,stage,09-01-2019,7.7,617000,14.4,2,3.5,4.8,Oui
+EMP00613,Arthur Moreau,PRODUCTION,Technicien,ABIDJAN,Homme,44,Master,freelance,12/05/2021,4.8,349000,0.9,4,3.1,3.9,Non
+EMP01060,Victor Chevallier,Markting,Responsable Marketing,Abidjann,H,37,Doctorat,freelance,09/22/2020,6.0,773000,,15,3.4,2.4,Yes
+EMP01105,Sébastien Leblanc Le Leconte,finance,Contrôleur de Gestion,korhogo,M,53,Licence,Stage,22/03/2025,1.5,,3.6,1,3.4,,Non
+EMP00337,Zacharie Le Pierre,FINANCE,Comptable,Bouake,homme,36,,CDD,07/10/2025,1.2,400000,7.9,7,3.5,4.4,non
+EMP00401,Paul Hamel de la Blanchard,Marketing,Community Manager,Yamoussoukro,homme,62,doctorat,stage,01/31/2022,4.6,339000,0.9,12,3.0,2.7,OUI
+EMP00406,Marcel-Julien Marion,production,Chef d'Équipe,Yamoussoukro,femme,58,Bac +2,cdi,16 Jun 2014,12.2,519000,11.4,2,4.3,1.9,non
+EMP00223,Susan David,production,Ingénieur Qualité,sanpedro,F,34,BAC,Freelance,2015-03-04,11.5,-50000,,3,4.9,3.7,Oui
+EMP00356,Célina Henry,logistique,Agent Logistique,Abidjann,Femme,33,Doctorat,Freelance,2017-12-03,8.8,300000,5.2,15,3.9,2.8,non
+EMP00708,Margot Guilbert,Markting,Chargé de Communication,bouaké,H,23,Master,Cdi,2016-03-26,10.5,477000,7.3,11,3.7,4.0,oui
+EMP00951,Daniel Blanc,VENTES,Responsable Commercial,San-Pédro,Femme,61,bac,cdd,24 Jun 2014,12.2,763000,0,5,2.4,2.5,OUI
+EMP00089,Geneviève Klein,Prod,Technicien,Man,femme,48,Bac +2,cdd,03/06/2026,0.3,,5.4,16,3.9,4.4,Oui
+EMP00625,Charlotte du Lelièvre,PRODUCTION,Technicien,,F,25,BAC+2,CDI,23-06-2014,12.2,421000,1.9,17,3.1,5.0,No
+EMP00927,Tristan Leclerc de la Verdier,marketing,Chargé de Communication,San Pedro,homme,35,bac,CDI ,2026-03-05,0.5,99999999,3.9,4,,2.8,OUI
+EMP00829,Agnès Dias de Poulain,Ressource Humaine,Responsable RH,man,M,56,Bac +2,Freelance,11-02-2026,0.6,570000,0.6,16,3.3,3.5,OUI
+EMP00004,William Costa,MARKETING ,Community Manager,Yamoussoukro,H,44,doctorat,Cdi,03/01/2024,2.5,323000,6.2,7,,4.7,OUI
+EMP00652,Georges Potier,finance,Contrôleur de Gestion,korhogo,F,35,bac,Stage,2017-12-21,8.7,787000,,5,2.5,2.7,Yes
+EMP00099,Laetitia Gillet-Guilbert,PRODUCTION,Chef d'Équipe,abidjan,Femme,55,,CDI ,05-11-2016,9.8,508000,12.4,11,4.2,3.1,Yes
+EMP00904,Bernadette Baron,Fiance,Comptable,Daloa,,58,,stage,19/09/2018,8.0,451000,7.5,9,2.7,5.0,No
+EMP00076,Luc Vasseur,Markting,Responsable Marketing,Bouake,M,53,BAC,CDI,01/09/2024,2.7,,3.1,13,2.9,3.5,No
+EMP00778,Guy Charrier,FINANCE,Auditeur Interne,yamoussoukro,H,44,Bac +2,Cdi,03 Oct 2017,8.9,741000,7.7,3,2.8,2.4,Oui
+EMP00838,Rémy Paul,Logistic,Responsable Logistique,bouaké,homme,26,licence,Freelance,12/05/2016,9.8,561000,9.2,2,3.9,2.9,Non
+EMP00517,Geneviève Grégoire de la Didier,finance,Comptable,korhogo,F,,BAC,freelance,13-05-2021,5.3,407000,14.5,4,4.1,3.3,OUI
+EMP00219,Auguste Bouchet,ventes,Commercial Senior,Bouaké,H,59,,Cdi,10/24/2019,6.9,540000,0.5,7,4.1,3.6,OUI
+EMP00181,Alfred Ollivier-Prévost,PRODUCTION,Technicien,korhogo,homme,59,,cdd,11/24/2014,11.8,356000,0.9,10,3.3,2.9,oui
+EMP00087,Caroline Gonzalez-Fischer,ventes,Commercial Senior,Man,Femme,33,MASTER,stage,04/08/2023,3.4,486000,9.1,3,3.7,4.9,Oui
+EMP01031,Adrien-Édouard Vasseur,Info,Data Analyst,yamoussoukro,Homme,47,bac+2,Freelance,08-12-2014,11.8,774000,,19,3.4,2.5,No
+EMP01022,Margot Fleury,Fiance,Contrôleur de Gestion,Abidjan,homme,31,bac,Stage,09/29/2023,2.9,642000,11.9,16,3.8,,No
+EMP00614,Henri de Michel,ressources humaines,Gestionnaire Paie,korhogo,M,36,,Freelance,07/14/2025,1.1,330000,3.5,6,2.7,3.8,Yes
+EMP00026,Claude Cohen,finance,Auditeur Interne,sanpedro,Homme,,BAC,Stage,31-12-2021,4.7,,5.3,3,1.2,3.6,non
+EMP00515,Manon Rossi,VENTES,Commercial Senior,San-Pédro,femme,55,bac+2,Cdi,26/06/2017,9.2,476000,9.5,1,3.8,4.0,Non
+EMP00090,Constance Bourgeois,RH,Responsable RH,Yamoussoukro,Femme,42,Licence,freelance,20/09/2022,4.0,684000,9.3,16,,2.3,Non
+EMP00653,Martine Faivre,Informatique,Data Analyst,Bouake,homme,28,Bac,cdd,2014-07-06,12.2,713000,8.6,7,3.2,3.1,oui
+EMP00123,Julie Leleu-Joly,Info,DevOps,Abidjan,femme,30,Licence,CDI,2018-10-05,7.9,614000,0,16,2.4,3.8,oui
+EMP00861,Bernard Thierry,INFORMATIQUE,Chef de Projet IT,Korhogo,,60,bac+2,cdi,02/08/2019,7.1,730000,4.7,6,4.3,3.0,Oui
+EMP00946,Denis Simon,FINANCE,Contrôleur de Gestion,yamoussoukro,Femme,22,,cdd,05 Apr 2022,4.4,661000,9.4,19,4.0,2.5,Oui
+EMP00065,Aimée-Édith Masson,Ressource Humaine,Assistant RH,Abidjann,F,55,doctorat,cdd,09/04/2019,7.4,297000,4.4,13,2.8,3.0,oui
+EMP00182,Alexandria Pichon,PRODUCTION,Responsable Production,San-Pédro,Homme,21,,CDI,2021-10-30,4.9,770000,0.7,19,3.2,2.8,Yes
+EMP00207,Marianne Jacques,marketing,Community Manager,abidjan,M,36,MASTER,Cdi,18 Jun 2014,12.2,414000,9.1,0,3.8,2.8,OUI
+EMP00215,Vincent Barthelemy,Logistique,Agent Logistique,,Femme,52,Bac +2,Freelance,03-07-2021,5.2,284000,6.6,11,4.0,4.7,OUI
+EMP00540,Maurice Bernard,Fiance,Comptable,Daloa,femme,50,BAC,stage,16/01/2018,8.6,439000,10.1,0,2.9,3.7,non
+EMP01073,Noël Delaunay,Production,Ingénieur Qualité,sanpedro,M,29,BAC+2,cdi,2025-12-03,0.8,520000,4.9,12,3.4,2.9,non
+EMP00726,Maryse Le Tanguy,Finance,Auditeur Interne,daloa ,H,46,doctorat,stage,21-06-2018,8.2,628000,3.7,15,4.1,4.5,Oui
+EMP00031,Jules Le Valentin,Informatique,Développeur Backend,Man,homme,56,,CDD,05 May 2025,1.3,530000,10.6,5,4.4,1.7,Non
+EMP01083,Nathalie Delmas,production,Chef d'Équipe,bouaké,H,37,,cdd,06-10-2024,1.9,390000,13.9,0,3.6,4.0,No
+EMP00550,Julie-Adèle Aubert,VENTES,Commercial Senior,man,femme,57,bac+2,CDI,06/10/2020,5.9,510000,0,0,3.7,3.1,oui
+EMP00901,Hugues Jacob,FINANCE,Auditeur Interne,Abidjann,,22,Licence,Cdi,08/11/2016,10.1,702000,12.6,8,4.6,4.6,non
+EMP01078,Élisabeth De Sousa-Camus,production,Ingénieur Qualité,bouaké,F,35,Bac,Cdi,28 May 2026,0.3,,9.1,18,4.4,,No
+EMP00393,Léon Pons,Prod,Responsable Production,San Pedro,H,36,BAC+2,CDI,07-07-2021,5.2,694000,2.1,1,3.1,4.1,Oui
+EMP00532,Denis Petit, Informatique,Administrateur Système,Bouaké,Homme,43,Bac,Freelance,19-09-2019,7.0,588000,6.2,12,3.6,4.1,No
+EMP00556,Luc Le Goff-Guérin,VENTES,Commercial Senior,Yamoussoukro,homme,31,bac,Cdi,2025-12-29,0.7,407000,0,3,4.2,,Yes
+EMP00949,David Morvan,ventes,Key Account Manager,ABIDJAN,F,60,bac,freelance,27 Jan 2015,11.6,721000,6.0,12,3.9,3.0,OUI
+EMP00479,Eugène Joly,Info,Développeur Backend,sanpedro,femme,61,Bac +2,Freelance,01-09-2023,3.0,470000,2.8,12,3.2,2.5,OUI
+EMP00529,Christophe Faure,FINANCE,Analyste Financier,Abidjan,F,32,master,cdi,03/10/2017,9.5,652000,5.6,2,4.0,4.2,non
+EMP00801,Adélaïde Jacob-Poulain,R.H.,Assistant RH,Bouake,Femme,38,Master,Stage,11-01-2024,2.7,258000,7.0,3,4.1,3.7,non
+EMP00103,Andrée Fabre,Prod,Chef d'Équipe,yamoussoukro,homme,22,master,stage,23/05/2024,2.3,385000,13.8,12,3.5,3.5,non
+EMP00261,Nathalie Cohen,LOGISTIQUE,Responsable Logistique,sanpedro,femme,62,master,Cdi,2016-01-27,10.6,,6.3,6,2.2,4.5,OUI
+EMP00212,Denise Gomez,PRODUCTION,Technicien,yamoussoukro,H,32,Master,CDI,02/28/2021,5.5,355000,3.9,0,4.3,3.0,Oui
+EMP00853,Étienne Guillaume,Logistic,Magasinier,bouaké,Homme,58,licence,cdi,2018-04-23,8.4,243000,0.7,6,3.8,4.1,non
+EMP00501,Adrienne Maréchal Le Allain,Informatique,Chef de Projet IT,Bouaké,Homme,57,,CDI,14/05/2019,7.3,899000,,3,3.2,4.1,Oui
+EMP00436,Élodie Andre,Logistique,Agent Logistique,bouaké,F,37,bac,Freelance,01/26/2024,2.6,237000,3.1,9,4.1,3.0,oui
+EMP00527,Matthieu Humbert,logistique,Magasinier,San-Pédro,M,50,Licence,CDI,07/26/2024,2.1,,4.9,10,4.0,4.8,non
+EMP00124,Benjamin Blondel,Fiance,Contrôleur de Gestion,Bouaké,H,24,Doctorat,cdi,2018-03-16,8.5,,1.6,11,3.1,3.1,OUI
+EMP00979,Georges Duval,Production,Ingénieur Qualité,ABIDJAN,M,,,freelance,19 Aug 2017,9.1,,7.2,13,3.2,4.6,non
+EMP00520,William Neveu,Production,Ingénieur Qualité,man,H,54,,freelance,2014-11-26,11.8,614000,10.3,1,2.7,,oui
+EMP01008,Anouk Daniel-Becker,Prod,Chef d'Équipe,Daloa,homme,43,Master,cdi,30 Aug 2021,5.0,424000,7.4,5,3.6,2.2,OUI
+EMP00279,Martine Hardy,Fiance,Comptable,Yamoussoukro,Homme,53,,stage,02/07/2015,11.2,508000,4.6,15,2.9,3.8,No
+EMP00856,Clémence Delaunay,Logistic,Magasinier,Man,,39,Bac +2,cdd,02 Jan 2015,11.7,304000,1.1,3,3.3,3.4,non
+EMP01034,  Alexandria du Brun   ,INFORMATIQUE,Data Analyst,Korhogo,H,43,Licence,cdi,01/30/2019,7.6,653000,7.6,0,3.6,,oui
+EMP00603,Célina Jacquot,VENTES,Responsable Commercial,Bouaké,Femme,48,MASTER,freelance,03 Feb 2017,9.6,791000,9.1,5,3.6,4.0,non
+EMP00161,Denise Antoine,Logistique,Magasinier,Daloa,femme,49,Bac +2,Stage,07/07/2022,4.2,219000,9.2,4,2.7,5.0,OUI
+EMP00165,Grégoire Dumont,ventes,Commercial Senior,Daloa,M,52,doctorat,CDI ,2023-06-13,3.2,493000,2.8,13,2.5,3.9,Oui
+EMP01143,Dominique Fernandez,LOGISTIQUE,Agent Logistique,korhogo,Femme,45,bac+2,Freelance,03/15/2024,2.5,248000,11.3,0,3.9,3.5,Oui
+EMP00645,Édouard Boulanger,Production,Technicien,,femme,56,Master,CDD,2016-03-21,10.5,366000,0,12,2.9,4.3,Oui
+EMP00642,Diane Muller du Caron,Logistic,Magasinier,Korhogo,femme,36,bac,CDI,12/02/2019,6.8,275000,3.1,0,,2.6,OUI
+EMP00994,Bertrand Léger,Logistique,Responsable Logistique,bouaké,Femme,35,,Freelance,10/04/2020,5.9,545000,0.0,7,2.0,2.6,Non
+EMP00360,Christine Pineau Le Guyon,Informatique,Data Analyst,sanpedro,H,48,Doctorat,stage,12/10/2021,4.7,606000,,8,4.0,3.9,Oui
+EMP00264,Valentine du Blanchet,LOGISTIQUE,Responsable Logistique,San Pedro,femme,35,MASTER,CDI ,2015-12-15,10.7,669000,2.9,3,2.2,3.8,non
+EMP00308,Christophe Hervé,Logistique,Agent Logistique,San Pedro,femme,43,Bac +2,CDI ,08 Sep 2018,8.0,246000,9.2,1,3.8,5.0,Yes
+EMP00857,Anouk-Geneviève Lemaire,logistique,Magasinier,Bouaké,M,43,licence,Cdi,10 Apr 2025,1.4,236000,,4,,3.8,OUI
+EMP00093,Patricia de la Lucas,LOGISTIQUE,Magasinier,bouaké,homme,36,Bac,CDI,05/27/2016,10.3,,0.0,10,4.1,3.5,No
+EMP00159,Émile Didier-Lelièvre,PRODUCTION,Chef d'Équipe,Bouaké,H,63,MASTER,CDD,07/23/2021,5.1,486000,0,7,4.2,4.8,Yes
+EMP00187,Honoré Le Cordier,ventes,Key Account Manager,Korhogo,M,,,CDD,2017-06-22,9.2,652000,9.7,2,3.2,,Oui
+EMP00296,Timothée Dupré,Ventes,Responsable Commercial,ABIDJAN,Homme,,,CDI,08 Jun 2025,1.2,646000,8.0,10,4.6,2.5,non
+EMP00273,Michel-Augustin Picard,R.H.,Gestionnaire Paie,Man,H,31,bac,cdd,21-05-2015,11.3,483000,0.4,14,1.8,4.1,OUI
+EMP00666,Henriette Tanguy,Ventes,Responsable Commercial,San Pedro,H,26,Bac,CDD,05/04/2019,7.3,781000,14.2,14,4.6,,Oui
+EMP00742,Sylvie Gomez,LOGISTIQUE,Responsable Logistique,daloa ,Homme,29,Licence,cdd,07/03/2023,3.2,497000,3.5,11,4.0,3.0,Non
+EMP01110,Étienne-Éric Verdier,informatique,Data Analyst,Bouaké,M,49,Bac +2,cdi,08 Mar 2024,2.5,513000,1.9,4,3.3,1.8,oui
+EMP00586,Antoine Perret-Colin,Markting,Chargé de Communication,Abidjann,Homme,27,licence,Cdi,11/08/2020,5.8,420000,6.2,12,3.2,3.2,non
+EMP00408,Tristan Rocher,MARKETING ,Chef de Produit,Yamoussoukro,,42,Licence,CDI,06/19/2019,7.2,689000,2.8,6,,3.3,Yes
+EMP00958,Raymond Camus,Logistic,Agent Logistique,Abidjan,femme,30,doctorat,freelance,02/12/2024,2.6,254000,7.3,5,4.2,2.0,Non
+EMP01062,Laurent Leconte-Gilbert,Logistique,Magasinier,daloa ,Homme,48,Master,Stage,09 Oct 2023,2.9,240000,6.9,2,2.7,3.5,No
+EMP00403,François Duhamel,informatique,Chef de Projet IT,Bouaké,Homme,,,Stage,20/01/2020,6.6,866000,2.8,4,3.9,,OUI
+EMP00717,  Alexandre Lacroix   ,finance,Comptable,daloa ,Femme,30,Master,cdi,26/03/2024,2.4,401000,7.0,12,4.1,2.6,oui
+EMP00344,Emmanuel Dumas de Millet,PRODUCTION,Chef d'Équipe,Yamoussoukro,F,21,master,Stage,07/04/2015,11.4,485000,6.5,17,3.0,2.3,OUI
+EMP00443,Robert-Adrien Marin,Logistique,Magasinier,Bouake,F,37,bac+2,cdd,2015-10-14,10.9,285000,4.3,1,4.0,4.6,Yes
+EMP01136,Robert Chauveau,Production,Ingénieur Qualité,San-Pédro,Homme,48,Bac +2,CDD,09/11/2020,5.8,539000,9.6,18,2.9,3.4,non
+EMP01131,Marcel Valette,Ventes,Commercial Junior,ABIDJAN,H,,Bac,freelance,18/09/2016,10.0,364000,1.6,6,4.4,2.5,Oui
+EMP00513,Clémence Fabre,Prod,Chef d'Équipe,Abidjann,F,57,Master,Cdi,11/01/2018,8.7,458000,9.5,1,2.8,2.5,Yes
+EMP00486,Marc Jacquot,Finances,Analyste Financier,korhogo,H,23,,CDI ,08/08/2025,1.1,,,3,4.2,3.1,oui
+EMP00046,Eugène Martinez,LOGISTIQUE,Magasinier,ABIDJAN,homme,,BAC,stage,06 Jun 2026,0.3,204000,6.1,3,2.7,2.2,Oui
+EMP00773,Lucas Voisin,R.H.,Gestionnaire Paie,Man,H,29,Master,CDD,04/05/2021,5.3,416000,8.2,2,2.8,3.0,No
+EMP00210,Yves Perrier-Gaudin,Logistic,Agent Logistique,Abidjan,homme,29,,Freelance,2017-05-20,9.3,282000,,18,3.5,4.4,non
+EMP00576,Corinne Guilbert,MARKETING ,Responsable Marketing,San Pedro,Femme,24,master,Freelance,24 Jan 2018,8.6,,10.7,2,3.5,5.0,non
+EMP00505,Sophie Hamon,Prod,Technicien,korhogo,,28,,CDI ,05-06-2014,12.3,362000,6.0,5,2.1,3.0,OUI
+EMP00814,Isabelle Chauveau de la Cousin,VENTES,Commercial Senior,Abidjann,femme,,Licence,cdi,23/01/2019,7.6,499000,4.9,3,3.4,4.1,OUI
+EMP00683,Aurore Gilles,MARKETING ,Chef de Produit,Bouaké,H,22,,Cdi,26-05-2017,9.3,,6.0,16,3.6,3.4,Yes
+EMP00654,  Emmanuelle Rivière   ,Vente,Key Account Manager,ABIDJAN,homme,59,Bac,CDI ,28 Jan 2015,11.6,769000,12.7,0,2.8,3.1,non
+EMP00674,Laetitia Adam Le Lebreton,Logistique,Responsable Logistique,Yamoussoukro,Homme,29,Master,cdd,02/27/2017,9.5,596000,6.7,0,2.3,4.6,Oui
+EMP00543,Patrick-Gilles Buisson,production,Ingénieur Qualité,,,31,bac+2,CDI ,2014-10-16,11.9,630000,3.6,0,4.2,3.6,OUI
+EMP00052,Timothée Tessier,Informatique,Administrateur Système,abidjan,,29,MASTER,cdd,2014-01-12,12.7,756000,2.6,5,,2.7,No
+EMP00721,Aimé Gay-Delaunay,Ressources Humaines,Assistant RH,Bouake,M,38,Master,freelance,2015-03-30,11.4,352000,8.5,4,3.9,3.1,Yes
+EMP00188,Nicolas Lacroix,PRODUCTION,Responsable Production,Daloa,H,31,licence,CDI ,07/14/2016,10.2,776000,6.8,0,3.0,3.8,No
+EMP00080,Martin Pelletier,FINANCE,Contrôleur de Gestion,Bouake,,23,Licence,Cdi,08-05-2022,4.3,658000,5.4,4,3.2,4.3,No
+EMP00947,Julie de Maillard,MARKETING ,Chef de Produit,yamoussoukro,femme,52,MASTER,stage,2020-08-06,6.1,588000,3.6,2,,5.0,Yes
+EMP00475,Marc Faivre,Ventes,Commercial Senior,San-Pédro,H,24,doctorat,cdi,2017-07-27,9.1,571000,,5,3.5,3.2,non
+EMP00183,Dominique Carpentier,informatique,Chef de Projet IT,Korhogo,M,26,Doctorat,CDI ,02 Oct 2021,4.9,825000,7.7,18,3.3,,Non
+EMP00908,Renée Grenier-Blanc,MARKETING ,Community Manager,Bouake,H,54,Doctorat,stage,2019-02-22,7.5,343000,1.8,6,3.5,4.1,OUI
+EMP00727,Jérôme Sauvage,Ventes,Commercial Junior,Korhogo,Femme,45,Doctorat,Freelance,17/02/2023,3.6,280000,0,0,3.1,3.1,Oui
+EMP00995,Thibault Ledoux,PRODUCTION,Technicien,San-Pédro,H,57,doctorat,Cdi,12 Feb 2017,9.6,339000,5.9,11,3.8,4.0,Yes
+EMP00072,Raymond Diaz Le Schneider,Ressources Humaines,Chargé de Recrutement,Korhogo,femme,30,Bac,CDI ,16/05/2026,0.3,373000,2.7,1,2.9,4.3,OUI
+EMP01037,Anne Marchand,logistique,Responsable Logistique,Korhogo,femme,54,Bac,cdd,08/10/2022,4.1,580000,6.1,3,,3.2,No
+EMP00162,Adèle Chrétien,Markting,Responsable Marketing,Bouaké,,55,Licence,CDI ,18 Feb 2018,8.6,813000,6.8,3,3.4,5.0,No
+EMP00690,Denis de la Lecomte,VENTES,Responsable Commercial,Yamoussoukro,M,48,Doctorat,Cdi,06-04-2024,2.4,617000,11.3,13,2.7,3.8,Yes
+EMP00194,Nicole Wagner,Fiance,Comptable,Bouake,F,0,,Cdi,14/03/2014,12.5,520000,,11,3.5,3.5,non
+EMP00461,Thibault Neveu,logistique,Responsable Logistique,Man,M,36,,stage,07 Apr 2016,10.4,672000,9.6,15,3.8,3.3,No
+EMP00728,Aimé Fischer-Peltier,LOGISTIQUE,Agent Logistique,Abidjan,F,35,,stage,21-10-2015,10.9,278000,8.3,8,3.9,3.4,oui
+EMP00330,Claire Duval-Guillon,Logistique,Agent Logistique,Yamoussoukro,homme,21,bac,cdd,2019-08-02,7.1,300000,6.6,0,3.7,2.9,Oui
+EMP01051,Jean Raynaud,production,Ingénieur Qualité,sanpedro,Homme,46,master,CDI,08/05/2024,2.3,472000,1.6,7,3.5,4.4,OUI
+EMP00644,Henri-Timothée Leroux,Finance,Contrôleur de Gestion,ABIDJAN,homme,63,Licence,CDI ,30-07-2017,9.1,inconnu,11.7,8,3.9,4.4,No
+EMP00069,Joseph Gay-Poirier,Logistic,Agent Logistique,San-Pédro,homme,44,Bac,CDD,05 Mar 2023,3.5,221000,6.1,4,2.6,,No
+EMP00196,Nath Lucas,Vente,Key Account Manager,Bouaké,femme,,Bac +2,Stage,10/13/2024,1.9,600000,0.8,2,2.8,2.2,Yes
+EMP00685,Corinne Aubert,logistique,Agent Logistique,daloa ,M,58,,Cdi,04-08-2023,3.1,275000,7.5,4,2.0,3.2,Non
+EMP00171,Charles de la Brunel,Marketing,Responsable Marketing,abidjan,M,35,licence,CDI,03/24/2015,11.5,922000,7.2,18,3.4,3.5,No
+EMP00940,Zacharie Grondin,Ressource Humaine,Chargé de Recrutement,Man,,46,BAC,Cdi,2017-10-03,8.9,477000,0,6,3.4,3.0,oui
+EMP00597,Monique Costa,Prod,Chef d'Équipe,Daloa,Homme,47,Licence,stage,09 Apr 2025,1.4,409000,0,0,3.8,3.7,non
+EMP00149,Jérôme Hoareau-Muller,MARKETING ,Chef de Produit,Abidjann,F,43,Doctorat,Cdi,22/04/2016,10.4,658000,9.3,7,4.0,3.9,OUI
+EMP00067,Gilbert Julien,informatique,Data Analyst,San-Pédro,Homme,,BAC+2,cdi,01/21/2024,2.6,492000,1.6,2,2.3,2.2,Oui
+EMP00982,Georges-Philippe Leclercq,marketing,Chef de Produit,Bouaké,,28,bac,Stage,23 Feb 2015,11.5,839000,7.2,4,4.0,1.4,Yes
+EMP00377,Alexandria Chauvet,logistique,Magasinier,Abidjann,F,62,MASTER,Cdi,24-01-2017,9.6,,8.4,17,3.4,1.9,oui
+EMP01104,Catherine de la Hamel,Finances,Auditeur Interne,yamoussoukro,H,53,bac+2,cdd,12/09/2015,11.0,,6.5,14,,4.7,Non
+EMP00476,Danielle du Renard,Ressources Humaines,Gestionnaire Paie,San-Pédro,Femme,30,bac+2,cdi,07/13/2022,4.2,337000,4.1,1,3.6,4.3,Oui
+EMP00494,Marianne Gonzalez,production,Chef d'Équipe,yamoussoukro,femme,22,bac,Freelance,15 Apr 2017,9.4,515000,6.3,4,4.2,3.5,Oui
+EMP00220,Patrick du Perrier,Ressource Humaine,Responsable RH,Abidjan,H,34,Bac,CDI,27/04/2024,2.4,589000,3.5,16,2.9,2.8,Oui
+EMP00703,Dominique-Christiane Legros,Logistique,Agent Logistique,Daloa,,51,Licence,cdi,2016-03-22,10.5,323000,10.5,9,,4.9,Non
+EMP00905,Colette-Marcelle Hernandez,FINANCE,Auditeur Interne,ABIDJAN,Femme,37,BAC,Freelance,05/06/2015,11.3,791000,12.8,1,4.1,2.5,non
+EMP00095,Théophile-Henri Maréchal,LOGISTIQUE,Magasinier,Abidjan,femme,60,,stage,2020-06-14,6.2,215000,5.8,6,3.1,2.9,Oui
+EMP00376,Marguerite Pereira,Logistique,Magasinier,ABIDJAN,Homme,51,,CDI,23-12-2023,2.7,206000,0,0,2.3,2.4,OUI
+EMP00544,Alphonse de Verdier,MARKETING ,Chargé de Communication,ABIDJAN,F,51,doctorat,cdi,03 Jul 2016,10.2,404000,0,7,3.3,4.7,Yes
+EMP01120,Jean Coste,Ventes,Responsable Commercial,Abidjan,F,62,Bac,freelance,04/08/2014,12.1,861000,6.6,7,3.1,3.9,Yes
+EMP00325,Adrienne Lebreton,ventes,Key Account Manager,daloa ,M,21,bac+2,Cdi,05/11/2021,5.3,648000,15.5,19,2.6,4.1,Oui
+EMP00499,Sophie Colas,production,Responsable Production,Abidjan,H,62,licence,CDI ,25 Jan 2015,11.6,881000,5.1,5,3.1,4.1,Non
+EMP00746,Catherine Didier,Fiance,Auditeur Interne,Daloa,F,26,MASTER,CDI,03/14/2018,8.5,589000,0.4,1,2.6,4.4,non
+EMP00893,Madeleine-Lucie Maillot,Ressource Humaine,Responsable RH,Abidjan,homme,37,Licence,cdd,03/08/2022,4.1,731000,11.9,0,3.1,3.0,Oui
+EMP00693,Jeanne Fischer,Logistic,Magasinier,Yamoussoukro,M,45,doctorat,cdd,09-01-2017,9.7,240000,5.1,13,2.6,3.5,Yes
+EMP00033,Susanne de Maurice,Ressources Humaines,Chargé de Recrutement,San-Pédro,femme,53,master,CDD,18 Jul 2022,4.1,422000,6.7,2,3.8,3.3,Oui
+EMP00997,Gabriel de Benoit,Finances,Analyste Financier,Daloa,homme,49,bac,Stage,04 Jul 2023,3.2,626000,4.3,4,4.3,3.8,oui
+EMP00575,Colette Vidal,Ressources Humaines,Chargé de Recrutement,Korhogo,H,39,Master,stage,05/25/2016,10.3,,4.8,2,4.3,3.2,non
+EMP00559,Gilbert Aubry du Devaux,R.H.,Gestionnaire Paie,korhogo,homme,49,doctorat,Freelance,12/07/2022,3.8,341000,1.5,5,3.2,3.4,Yes
+EMP00573,Honoré Grondin,Ventes,Key Account Manager,Bouaké,femme,,BAC,CDI ,23-10-2018,7.9,635000,0,18,,4.2,Oui
+EMP00696,Geneviève Bertrand de la Rodrigues,Ventes,Commercial Senior,Bouaké,,47,licence,CDD,28-07-2017,9.1,0,6.0,0,4.2,3.7,OUI
+EMP00467,Théodore Legrand-Camus,Info,DevOps,Daloa,homme,29,MASTER,CDI,11/15/2015,10.8,814000,8.4,0,2.8,3.9,OUI
+EMP00507,André Marion,marketing,Chef de Produit,San-Pédro,M,32,Licence,Freelance,14 Jun 2021,5.2,728000,9.2,0,3.8,,No
+EMP00827,Thibaut Le Lagarde,FINANCE,Contrôleur de Gestion,Yamoussoukro,femme,54,,CDI ,13/11/2025,0.8,542000,7.2,19,1.4,3.7,Oui
+EMP00819,Lucy Guillon,Logistic,Responsable Logistique,Man,F,39,bac+2,Stage,08 Jul 2020,6.2,508000,9.9,18,2.1,4.0,No
+EMP00941,Marcel Lucas,production,Responsable Production,Bouaké,homme,51,,Cdi,17 Mar 2015,11.5,811000,6.1,6,3.3,2.9,OUI
+EMP00197,Alex Regnier,production,Technicien,korhogo,Femme,56,bac+2,freelance,06-05-2022,4.3,303000,7.1,2,2.9,3.1,oui
+EMP00201,Hélène Delmas,Marketing,Community Manager,bouaké,Homme,48,master,cdi,2017-01-15,9.6,407000,4.2,13,3.7,4.0,OUI
+EMP00186,Sabine Delmas,Production,Chef d'Équipe,sanpedro,homme,49,Doctorat,cdd,2025-07-24,1.1,386000,4.6,2,2.4,2.3,Yes
+EMP00113,Dominique Perrier du Guibert,Logistic,Agent Logistique,bouaké,femme,52,Master,cdi,06/05/2018,8.3,,9.1,8,2.1,2.0,OUI
+EMP00265,Stéphane-Emmanuel Chauveau,Info,Data Analyst,Daloa,H,59,bac,Stage,20-03-2023,3.5,573000,8.0,6,4.0,,Oui
+EMP00574,Luc Mace,Ressources Humaines,Chargé de Recrutement,Abidjan,Femme,36,,CDI ,18/07/2021,5.1,383000,1.8,0,3.3,4.0,Oui
+EMP00775,Eugène Tanguy,MARKETING ,Community Manager,Daloa,homme,22,,CDI,2020-09-28,5.9,327000,9.6,3,4.1,4.9,non
+EMP00591,Nathalie Fontaine,Finance,Contrôleur de Gestion,ABIDJAN,H,43,Master,freelance,20 Mar 2016,10.5,673000,6.7,18,2.9,3.8,No
+EMP00957,Anne Le Marty,informatique,Data Analyst,korhogo,F,24,BAC,Stage,08/10/2015,10.9,755000,10.9,0,3.8,4.3,OUI
+EMP00989,Margot Toussaint,PRODUCTION,Chef d'Équipe,Daloa,Homme,29,licence,CDI ,01/18/2015,11.6,597000,2.3,7,,4.7,Non
+EMP00972,Luce Lévy,logistique,Agent Logistique,daloa ,Homme,,Bac +2,Cdi,11/19/2024,1.8,258000,8.6,1,4.0,3.4,OUI
+EMP00322,Amélie Leroy-Perrin,Logistic,Agent Logistique,korhogo,Homme,27,,cdi,23/02/2023,3.5,278000,7.3,13,4.2,3.3,oui
+EMP00813,René Rousseau,Prod,Responsable Production,Abidjann,H,37,bac+2,cdi,21-06-2022,4.2,626000,3.7,12,3.2,3.1,Oui
+EMP00888,Camille Besson,Logistique,Responsable Logistique,daloa ,Femme,,,stage,15 May 2026,0.3,467000,,4,3.8,4.0,OUI
+EMP00314,Claire Michaud-Renard,Logistique,Responsable Logistique,abidjan,Femme,48,BAC+2,freelance,05/06/2015,11.3,568000,7.8,0,3.4,3.0,OUI
+EMP00120,Éric de la Brunel,production,Technicien,Daloa,femme,63,MASTER,Cdi,2014-11-20,11.8,351000,6.5,14,3.7,3.7,Yes
+EMP00086,Suzanne Garnier,VENTES,Key Account Manager,abidjan,Homme,31,BAC,freelance,2019-07-29,7.1,605000,6.9,17,3.8,,Oui
+EMP00950,Théophile Leclercq de la Pinto,LOGISTIQUE,Magasinier,daloa ,H,24,Licence,CDI,04-01-2020,6.7,240000,3.7,1,3.5,4.0,Yes
+EMP01095,Dorothée Lemaître,Production,Technicien,korhogo,F,57,Bac +2,cdi,11-11-2020,5.8,324000,9.2,3,,3.3,OUI
+EMP01058,Gabrielle Le Barbe,PRODUCTION,Responsable Production,Abidjan,H,26,Bac +2,stage,07/02/2024,2.2,642000,0.3,3,2.8,3.7,No
+EMP00519,Michel-Franck Brunel,Production,Responsable Production,sanpedro,M,54,doctorat,freelance,03/12/2021,4.8,,8.4,17,3.0,4.4,No
+EMP01016,Marguerite Deschamps,Finance,Auditeur Interne,korhogo,M,37,bac+2,freelance,02 Feb 2023,3.6,624000,0,3,,5.0,Oui
+EMP00297,Zacharie de Fontaine,Informatique,DevOps,Daloa,H,60,Licence,CDI,27/03/2026,0.4,579000,8.5,7,,,No
+EMP00234,Frédérique Da Costa,PRODUCTION,Responsable Production,San-Pédro,M,38,licence,cdi,2015-12-22,10.7,802000,0,13,3.7,3.7,oui
+EMP00259,Christophe-Raymond Henry,Ventes,Commercial Senior,korhogo,F,47,BAC,cdi,13/02/2021,5.6,513000,9.8,1,3.9,3.2,No
+EMP00155,Maurice Noël,Informatik,Administrateur Système,man,M,26,,Cdi,2020-01-08,6.7,582000,5.4,17,1.9,3.3,non
+EMP01043,Michèle du Lemaître,Fiance,Contrôleur de Gestion,Korhogo,F,48,Bac,Cdi,21/12/2015,10.7,758000,4.0,0,3.7,3.2,Yes
+EMP00310,Théodore Vallet,Finances,Analyste Financier,yamoussoukro,H,29,bac+2,Stage,15-12-2017,8.7,594000,1.8,17,3.9,1.9,oui
+EMP00364,  Susan Denis-Labbé   ,INFORMATIQUE,Chef de Projet IT,Korhogo,homme,52,BAC,cdi,16/06/2020,6.2,731000,12.7,1,4.6,4.1,oui
+EMP00859,Diane-Suzanne Payet,Markting,Chargé de Communication,sanpedro,F,33,BAC+2,cdd,11 Oct 2019,6.9,359000,5.3,0,3.8,3.1,Oui
+EMP00357,Guillaume-Martin Roche,MARKETING ,Chargé de Communication,man,F,25,MASTER,stage,09/12/2015,10.8,396000,7.4,19,2.4,2.3,OUI
+EMP00028,Joseph Fernandez,MARKETING ,Chef de Produit,abidjan,H,26,doctorat,Cdi,03-05-2021,5.3,641000,14.5,10,2.7,4.4,No
+EMP00363,Diane Marion,VENTES,Responsable Commercial,Korhogo,H,42,master,CDI ,10 Aug 2016,10.1,814000,5.4,14,3.5,2.2,Oui
+EMP00038,  Claude du Collet   ,Fiance,Comptable,ABIDJAN,Femme,53,MASTER,freelance,29/07/2015,11.1,464000,5.7,0,2.6,2.8,OUI
+EMP00455,Jeanne Leduc,Marketing,Chargé de Communication,korhogo,Femme,23,,CDD,03/31/2021,5.4,366000,6.1,0,3.7,,Non
+EMP00985,Caroline Briand,ventes,Commercial Junior,abidjan,,62,bac+2,cdd,02/09/2024,2.0,242000,3.9,9,4.5,4.4,Yes
+EMP00388,Juliette-Hélène Weiss,Marketing,Chargé de Communication,Yamoussoukro,homme,,,CDI,19 Apr 2019,7.4,376000,7.3,0,3.0,2.9,Non
+EMP00198,Michelle du De Sousa,production,Technicien,daloa ,H,63,BAC+2,freelance,27 Nov 2025,0.8,291000,0.0,13,3.3,3.1,non
+EMP00996,Théodore-Henri Pires,VENTES,Responsable Commercial,Bouake,femme,32,bac+2,stage,07/08/2015,11.1,751000,0.7,17,4.3,2.9,OUI
+EMP00473,Hugues Breton,finance,Auditeur Interne,Daloa,Femme,44,,stage,04/21/2023,3.4,568000,6.9,7,3.6,3.5,non
+EMP00845,Patricia Rémy,informatique,Développeur Frontend,yamoussoukro,homme,38,Bac +2,Stage,15 Jul 2026,0.1,463000,0.3,9,3.3,4.2,oui
+EMP01024,Patrick Leleu,Finance,Contrôleur de Gestion,Man,homme,41,licence,cdd,26-01-2019,7.6,751000,13.9,10,3.4,2.8,Yes
+EMP01079,Gérard Richard Le Olivier,INFORMATIQUE,Administrateur Système,San Pedro,homme,35,doctorat,CDD,22-01-2018,8.6,666000,12.4,5,3.0,2.7,non
+EMP00133,Benjamin Carpentier,Informatik,Développeur Frontend,bouaké,Femme,58,Bac +2,cdd,27/11/2024,1.8,446000,3.7,15,4.5,3.5,oui
+EMP00214,Madeleine-Lorraine Fischer,FINANCE,Comptable,San Pedro,H,34,,CDI,08/14/2014,12.1,550000,1.0,3,3.7,4.3,Oui
+EMP00914,Colette Hardy-Thierry,MARKETING ,Community Manager,ABIDJAN,homme,50,Licence,freelance,20-04-2020,6.4,382000,6.0,1,3.5,4.5,No
+EMP00300,Vincent de Lebon,Ventes,Commercial Senior,Abidjan,femme,24,MASTER,Cdi,06/26/2014,12.2,608000,0,1,4.1,4.3,OUI
+EMP00446,Jules Bouchet-Besson,Logistic,Responsable Logistique,San-Pédro,H,51,master,Stage,19/04/2024,2.4,553000,8.0,8,3.8,3.1,oui
+EMP00807,Aurore Dupont Le Lecoq,PRODUCTION,Chef d'Équipe,Korhogo,Femme,47,MASTER,stage,04/27/2019,7.4,511000,6.7,1,2.8,4.2,oui
+EMP00784,Dominique Torres,finance,Analyste Financier,man,Homme,27,BAC,Cdi,08/03/2025,1.1,507000,5.7,7,3.6,3.8,No
+EMP00585,Suzanne Didier,Vente,Responsable Commercial,yamoussoukro,M,35,,stage,16-09-2020,6.0,692000,5.4,3,3.0,3.3,OUI
+EMP00009,Nicole Dupuis,informatique,Développeur Frontend,Abidjan,homme,63,licence,CDI ,16 Mar 2019,7.5,487000,8.2,7,3.3,1.5,non
+EMP00745,Luc Girard,Prod,Responsable Production,Abidjan,F,,MASTER,CDI ,14-07-2024,2.1,583000,8.1,7,1.8,4.0,Oui
+EMP00672,Victor-Grégoire Georges,ressources humaines,Responsable RH,bouaké,H,150,BAC+2,CDI,22-05-2015,11.3,758000,5.6,5,3.7,4.0,Oui
+EMP01082,Denis Olivier,ressources humaines,Assistant RH,ABIDJAN,M,55,bac+2,CDD,06-03-2015,11.5,353000,7.6,19,3.3,3.6,OUI
+EMP00108,William-Maurice Lesage,finance,Comptable,Yamoussoukro,Femme,46,doctorat,stage,22/10/2020,5.9,454000,10.7,0,2.6,5.0,No
+EMP01099,Isaac Coulon Le Rémy,Markting,Chargé de Communication,bouaké,Femme,30,,stage,19 Jul 2019,7.1,355000,11.2,15,2.7,2.3,Non
+EMP00700,Adélaïde Voisin de Aubert,Finances,Comptable,daloa ,Femme,28,MASTER,CDD,19-06-2019,7.2,,0.9,6,2.4,2.2,non
+EMP00770,  Paul Texier-Laporte   ,finance,Auditeur Interne,Yamoussoukro,H,25,licence,CDI ,04/28/2023,3.4,521000,5.3,12,3.9,3.1,Oui
+EMP00506,Lorraine Giraud,Vente,Commercial Senior,yamoussoukro,femme,58,licence,Cdi,18/09/2019,7.0,471000,5.2,9,3.2,2.9,non
+EMP00714,Martine Torres,ventes,Responsable Commercial,abidjan,F,55,,CDD,03/22/2026,0.5,553000,4.0,19,2.1,3.7,oui
+EMP00358,Susan Blanc,Ressource Humaine,Gestionnaire Paie,San-Pédro,M,60,Bac +2,Cdi,30 Dec 2021,4.7,387000,3.9,9,4.0,3.7,Oui
+EMP00673,Stéphanie Pasquier-Besnard,PRODUCTION,Chef d'Équipe,Korhogo,H,48,MASTER,freelance,12/02/2016,9.8,485000,5.8,13,3.1,3.2,non
+EMP00457,Nath Mathieu, Informatique,Data Analyst,korhogo,femme,52,doctorat,freelance,04/17/2016,10.4,,9.6,16,4.1,3.5,No
+EMP00602,Claude Pineau,Informatik,DevOps,Daloa,F,44,bac,stage,02-05-2019,7.4,609000,,16,3.4,5.0,non
+EMP00925,Brigitte Meunier,Ventes,Commercial Junior,Yamoussoukro,H,59,BAC+2,CDD,06/04/2023,3.4,310000,6.2,6,3.0,3.6,No
+EMP00915,Luc Loiseau du Thibault,finance,Comptable,ABIDJAN,homme,53,,CDI,2025-09-24,1.0,373000,2.3,19,4.8,4.1,OUI
+EMP00843,Raymond Thierry,logistique,Responsable Logistique,korhogo,F,35,Bac,CDD,01 Mar 2020,6.5,575000,16.0,3,3.3,3.6,Yes
+EMP00991,Joseph Thomas,Markting,Community Manager,Bouaké,M,59,Bac +2,Stage,2018-08-25,8.0,340000,8.8,3,1.4,4.9,Oui
+EMP00267,Martine de la Mary,ressources humaines,Gestionnaire Paie,San Pedro,M,40,,freelance,05/11/2022,3.8,391000,1.1,19,2.3,3.5,Non
+EMP00075,Alix Michaud,informatique,Développeur Frontend,,Femme,23,MASTER,Stage,27/04/2018,8.4,489000,3.0,10,2.7,3.0,OUI
+EMP00676,Alphonse de Bertin,informatique,Administrateur Système,abidjan,Femme,41,Doctorat,Stage,2015-04-20,11.4,672000,5.0,3,4.1,2.7,Yes
+EMP00687,Élisabeth Delaunay-Thierry,INFORMATIQUE,DevOps,,M,42,bac,CDI ,03/13/2014,12.5,825000,6.7,14,2.5,3.0,Non
+EMP00595,Sabine Neveu,Finances,Auditeur Interne,Daloa,Homme,24,bac+2,cdi,04/30/2015,11.4,729000,17.1,4,4.4,2.3,Oui
+EMP00007,Édouard Bouvier Le Pinto,FINANCE,Auditeur Interne,Bouake,H,50,master,cdi,2014-07-04,12.2,727000,9.2,13,3.5,2.1,Non
+EMP00154,Henri Léger,Finances,Comptable,Man,Homme,37,BAC,stage,2016-04-03,10.4,,7.9,4,2.3,3.6,oui
+EMP00896,Denis Maréchal-Lefort,Logistique,Responsable Logistique,Bouaké,homme,27,BAC+2,CDD,10/19/2021,4.9,533000,5.8,6,3.5,3.4,Yes
+EMP00748,Denis Turpin du Blanc,LOGISTIQUE,Magasinier,Yamoussoukro,femme,27,Licence,Freelance,01-10-2017,8.9,235000,11.8,13,2.0,4.5,OUI
+EMP00803,Lucy Gomez-Allain,Prod,Responsable Production,,F,32,master,cdi,13-07-2023,3.2,718000,0,12,1.9,1.0,Non
+EMP00227,Élisabeth Gomes,Ressources Humaines,Gestionnaire Paie,yamoussoukro,Homme,32,Bac +2,cdi,2020-02-15,6.6,438000,7.2,14,,3.4,OUI
+EMP00608,Mathilde Gillet,Ventes,Commercial Senior,abidjan,F,52,BAC+2,Freelance,10/03/2023,3.5,407000,11.1,9,4.0,,Non
+EMP00929,Frédéric Lacombe,finance,Comptable,Bouaké,Femme,34,Doctorat,Stage,16-05-2017,9.3,504000,6.0,7,4.5,,Oui
+EMP00912,Jeanne Lefèvre,INFORMATIQUE,Développeur Backend,daloa ,Femme,28,bac,freelance,15-05-2016,10.3,572000,11.8,0,,4.8,Yes
+EMP00610,Guillaume Thierry-Bourgeois,logistique,Magasinier,Abidjann,Homme,52,bac,Stage,11/13/2019,6.8,,10.6,10,4.0,3.6,non
+EMP00800,Louis-Michel Joly,logistique,Agent Logistique,daloa ,homme,33,,cdi,23 Aug 2025,1.0,250000,6.6,9,4.0,4.5,Oui
+EMP00246,Claire Grondin,Informatique,Développeur Frontend,man,Homme,32,Doctorat,Cdi,24 Feb 2025,1.5,450000,3.2,3,3.7,2.3,oui
+EMP00316,Roland Blin,Info,DevOps,Yamoussoukro,femme,55,doctorat,Freelance,2014-09-21,12.0,797000,8.4,4,4.2,4.2,OUI
+EMP00913,Alfred Aubert,Finances,Comptable,daloa ,Homme,23,Bac,freelance,12 Apr 2019,7.4,447000,2.2,2,4.1,4.9,Non
+EMP00702,Julien Schneider,PRODUCTION,Ingénieur Qualité,San-Pédro,H,52,master,CDI,23 Nov 2019,6.8,660000,8.9,16,3.3,3.3,Oui
+EMP00923,Isabelle Tanguy,PRODUCTION,Technicien,San-Pédro,H,45,MASTER,CDD,2023-11-22,2.8,340000,11.4,7,3.7,3.2,Yes
+EMP00118,Monique-Virginie Marchand,Ressources Humaines,Assistant RH,San-Pédro,H,33,bac,CDI ,06/03/2021,5.3,331000,17.5,4,3.3,5.0,non
+EMP01021,Daniel Letellier,Marketing,Community Manager,sanpedro,homme,50,Licence,freelance,2014-04-05,12.4,396000,11.1,9,2.1,4.8,Oui
+EMP00557,Arthur Barthelemy-Rodriguez,R.H.,Chargé de Recrutement,Abidjann,Homme,22,master,CDI ,18-11-2025,0.8,408000,4.1,4,3.4,1.5,non
+EMP00606,Brigitte-Josette Diaz,PRODUCTION,Technicien,Korhogo,Homme,56,,CDI ,05/03/2025,1.3,326000,15.1,14,3.3,4.1,Yes
+EMP00681,Grégoire Roux de la Millet,Production,Responsable Production,San-Pédro,M,38,,cdd,01/08/2020,6.1,651000,7.5,1,4.3,3.9,Non
+EMP00523,Bertrand Voisin,Markting,Chef de Produit,man,Femme,52,bac,CDI,2014-03-01,12.5,744000,0,4,3.1,3.3,Oui
+EMP00420,Élisabeth de Techer,MARKETING ,Responsable Marketing,,homme,33,Bac +2,freelance,03/24/2024,2.5,672000,4.6,2,3.1,2.6,oui
+EMP00248,Marthe-Christelle Lemaire,RH,Chargé de Recrutement,Daloa,F,31,Bac +2,CDD,09-12-2014,11.8,530000,7.8,12,2.7,2.2,OUI
+EMP00558,Marine Pineau,PRODUCTION,Ingénieur Qualité,Bouake,F,55,doctorat,freelance,27/07/2026,0.1,,8.9,0,4.3,1.5,OUI
+EMP01094,Lorraine Lemoine de Barbe,RH,Responsable RH,sanpedro,Femme,40,Master,freelance,03/02/2023,3.5,639000,0.9,11,3.3,4.3,oui
+EMP01045,Michèle Lacroix-Mace,LOGISTIQUE,Responsable Logistique,Bouaké,H,26,Doctorat,cdd,2015-04-22,11.4,657000,9.7,5,3.5,3.1,Non
+EMP00665,Auguste Aubry, Informatique,Développeur Backend,Bouake,Femme,54,master,CDI,04-01-2022,4.7,518000,,1,3.3,3.3,No
+EMP00131,Jérôme Wagner du Gros,Vente,Responsable Commercial,bouaké,Femme,53,BAC+2,CDD,09/09/2024,2.0,603000,11.6,4,,2.5,non
+EMP00371,Gilles Hoareau,finance,Auditeur Interne,Abidjan,F,34,master,Stage,13-01-2020,6.7,612000,2.9,9,3.4,2.5,oui
+EMP00611,Yves Dupuis-Evrard,MARKETING ,Community Manager,bouaké,F,60,BAC,CDI,07/02/2026,0.6,274000,3.0,1,2.7,4.0,Oui

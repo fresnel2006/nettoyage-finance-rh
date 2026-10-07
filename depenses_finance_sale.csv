@@ -1,0 +1,1361 @@
+﻿id_depense,date_depense,categorie,sous_categorie,service_demandeur,montant,devise,mode_paiement,statut_paiement,approuve_par,justificatif_fourni
+DEP00031,2023-11-09,DIVERS,Non catégorisé,marketing,17000,XOF,carte bancaire,Payé,N. Kouassi,
+DEP00600,10/02/2025,Fournitures de bureau,Consommables,PRODUCTION,8500,FCFA,,PAYE,M. Traoré,oui
+DEP00907,10/22/2023,FORMATION,Certification,finance,58500,XOF,,Payé,M. Traoré,
+DEP00193,17/01/2025,Charges,Électricité,MARKETING,44000,XOF,Chèque,Payé,N. Kouassi,non
+DEP00144,2025-03-25,Marketing,Salon professionnel,marketing,788000,FCFA,CB,En attente,N. Kouassi,oui
+DEP00753,10 Mar 2026,marketing,Publicité en ligne,FINANCE,85500,fcfa,Virement,annulé,A. Diabaté,non
+DEP00273,04/25/2023,formation,Certification,marketing,,FCFA,Virement,Annulé,S. Koffi,non
+DEP00966,29/07/2023,Fournitures de bureau,Consommables,PRODUCTION,20500,F CFA,especes,PAYE,N. Kouassi,oui
+DEP01027,2025-02-02,informatique,Hébergement cloud,,60500,FCFA,carte bancaire,,,Non
+DEP00552,2025-03-07,formation,Séminaire, Direction,77000,FCFA,Carte bancaire,Payée,N. Kouassi,Oui
+DEP00900,2024-07-25,Fournitures de bureau,Papeterie,ventes,14500,FCFA,especes,Payée,A. Diabaté,Oui
+DEP00680,12-11-2024,déplacements,Taxi/VTC,production,4000,XOF,Espèces,En attente,,
+DEP00182,08/11/2026,fournitures de bureau,Papeterie, Direction,21000,XOF,Carte bancaire,Payée,N. Kouassi,Non
+DEP00638,12/15/2025,Info,Licence logiciel,Direction ,127000,fcfa,Chèque,Payé,S. Koffi,
+DEP00056,08/18/2023,Markting,Salon professionnel,PRODUCTION,425500,fcfa,especes,Payé,S. Koffi,
+DEP00162,20 Nov 2023,Fourniture bureau,Cartouches encre,FINANCE,28000,FCFA,carte bancaire,Annulé,A. Diabaté,non
+DEP00432,2026-02-11,formation,Formation en ligne,ventes,49000,fcfa,virement,en attente,S. Koffi,
+DEP00098,05/14/2024,Deplacements,Carburant,finance,24000,FCFA,Carte bancaire,Payée,M. Traoré,
+DEP00264,21 Dec 2025,loyer & charges,Loyer bureau,informatique,944500,F CFA,Espèces,en attente,M. Traoré,
+DEP00969,07/23/2024,Markting,Réseaux sociaux,Marketing,30500,FCFA,VIREMENT,en attente,,non
+DEP00234,10 Dec 2024,déplacements,Hôtel,informatique,73000,XOF,Carte bancaire,Payée,A. Diabaté,non
+DEP00760,2025-05-27,Déplacements,Billet avion,Ressources Humaines,301000,XOF,Espèces,En attente,A. Diabaté,
+DEP00036,21/12/2024,Divers,Frais de notaire,informatique,43500,FCFA,cheque,annulé,,
+DEP01037,12-06-2023,FORMATION,Certification,PRODUCTION,55500,FCFA,especes,Payé,M. Traoré,Oui
+DEP00792,05/04/2024,Deplacements,Billet avion,MARKETING,570500,fcfa,virement,En attente,N. Kouassi,
+DEP00525,17-09-2025,Autre,Frais bancaires,informatique,10000,fcfa,Carte bancaire,En attente,,Oui
+DEP00396,05 Aug 2024,Fournitures,Papeterie,informatique,9000,F CFA,cheque,payé,A. Diabaté,non
+DEP00258,11-11-2023,Informatique,Hébergement cloud,RESSOURCES HUMAINES,25000,FCFA,cheque,payé,,Non
+DEP00720,07/27/2025,Charges,Internet/Téléphonie, Direction,,FCFA,VIREMENT,en attente,N. Kouassi,Non
+DEP00586,04 Mar 2025,formation,Certification,Production,,XOF,carte bancaire,,A. Diabaté,
+DEP00168,22/09/2025,formation,Certification,informatique,126000,XOF,VIREMENT,en attente,M. Traoré,Oui
+DEP00127,2025-10-22,Formation,Certification, Direction,126000,F CFA,cheque,,N. Kouassi,Non
+DEP00370,2026-04-22,Déplacements,Péage,Direction,2000,F CFA,VIREMENT,En attente,N. Kouassi,Non
+DEP01235,03/01/2026,Fournitures,Consommables,ressources humaines,12000,fcfa,virement,,A. Diabaté,
+DEP00141,06-09-2024,Markting,Impression flyers,RESSOURCES HUMAINES,35500,FCFA,virement,annulé,A. Diabaté,
+DEP01113,03/02/2024,Loyer et charges,Internet/Téléphonie,INFORMATIQUE,56500,XOF,Virement,annulé,M. Traoré,Oui
+DEP01163,11 Feb 2025,informatique,Licence logiciel,Marketing,146500,XOF,carte bancaire,Payé,N. Kouassi,Non
+DEP01095,03/05/2024,formation,Séminaire,,268500,fcfa,CB,en attente,M. Traoré,Non
+DEP00636,29 Nov 2024,Fournitures,Cartouches encre,Marketing,24000,XOF,carte bancaire,annulé,,
+DEP00987,16/04/2025,déplacements,,DIRECTION,97000,F CFA,carte bancaire,Annulé,N. Kouassi,Non
+DEP01073,07/04/2023,IT,Maintenance IT,ventes,64500,F CFA,cheque,payé,N. Kouassi,
+DEP00938,12 Oct 2023,formation,Certification,LOGISTIQUE,163000,XOF,carte bancaire,,,non
+DEP00393,05/09/2023,marketing,Réseaux sociaux,ventes,52000,XOF,Carte bancaire,Payé,,Oui
+DEP01287,04/19/2025,Fourniture bureau,Consommables,Direction ,10500,XOF,CB,payé,S. Koffi,Non
+DEP00820,2026-08-02,MARKETING,Salon professionnel,  ventes  ,515500,XOF,Espèces,annulé,A. Diabaté,oui
+DEP01050,16 Aug 2024,Fournitures de bureau,Cartouches encre,Informatique,42500,fcfa,,En attente,,Non
+DEP00648,15-05-2023,Transport,Carburant,finance,21000,FCFA,Virement,En attente,A. Diabaté,Non
+DEP00663,05/25/2026,Informatique,Hébergement cloud,Production,58000,XOF,Virement,Payé,,
+DEP01111,2023-01-14,Resto,Cantine,RESSOURCES HUMAINES,4500,F CFA,,En attente,A. Diabaté,
+DEP00545,26-03-2023,Fournitures de bureau,Mobilier bureau,Ressources Humaines,176000,F CFA,Carte bancaire,Payée,M. Traoré,non
+DEP01121,2026-06-11,Loyer & Charges,Internet/Téléphonie,FINANCE,29500,F CFA,cheque,payé,,Oui
+DEP00956,03/30/2026,fournitures de bureau,Mobilier bureau,LOGISTIQUE,96500,F CFA,Espèces,annulé,,Oui
+DEP00660,21/07/2023,Markting,Impression flyers,Logistique,36000,F CFA,Virement,Annulé,S. Koffi,
+DEP00229,04/03/2026,Transport,Hôtel,Informatique,92500,F CFA,Carte bancaire,En attente,,
+DEP00108,15 Mar 2026,IT,Maintenance IT,Direction,78000,FCFA,Chèque,Annulé,S. Koffi,Non
+DEP00897,04/20/2025,MARKETING,Impression flyers,RESSOURCES HUMAINES,33000,XOF,cheque,payé,S. Koffi,non
+DEP01079,19/07/2026,Informatique,Matériel informatique,Ressources Humaines,273500,F CFA,Chèque,Annulé,S. Koffi,
+DEP00905,03-07-2025,Restauration,Repas d'affaires,  finance  ,23500,XOF,Espèces,En attente,S. Koffi,oui
+DEP00139,03/18/2024,,Non catégorisé,VENTES,27500,XOF,cheque,,S. Koffi,
+DEP00676,14/01/2025,Formation,Certification,Direction ,83500,F CFA,Carte bancaire,Payée,M. Traoré,Oui
+DEP00794,2023-09-29,IT,Matériel informatique,LOGISTIQUE,349500,XOF,Chèque,PAYE,,Non
+DEP00789,02-04-2024,loyer & charges,Eau,ventes,8500,F CFA,virement,En attente,A. Diabaté,Oui
+DEP00628,2023-01-07,Fournitures de bureau,Consommables,LOGISTIQUE,8500,FCFA,Espèces,annulé,M. Traoré,oui
+DEP00963,16-03-2023,Restauration,Cantine,marketing,5000,fcfa,Espèces,Annulé,A. Diabaté,oui
+DEP00195,28/04/2025,Markting,Réseaux sociaux,,30000,fcfa,Carte bancaire,Payé,,non
+DEP01297,25-05-2026,déplacements,Billet avion,LOGISTIQUE,600000,XOF,Chèque,Payé,A. Diabaté,Non
+DEP00363,2026-03-26,RESTAURATION,Cantine,informatique,2500,XOF,virement,annulé,A. Diabaté,Non
+DEP00341,22/03/2025,Resto,Cantine,VENTES,2500,XOF,cheque,en attente,,
+DEP00830,2025-02-10,Fournitures,Mobilier bureau,FINANCE,155500,FCFA,Espèces,Payée,N. Kouassi,
+DEP01128,03/17/2024,,Assurance,Direction,147000,XOF,Chèque,payé,,Oui
+DEP00715,10/14/2023,Deplacements,Carburant,direction,24500,F CFA,Carte bancaire,Payée,,Oui
+DEP00473,01 Jan 2026,Fournitures,Mobilier bureau,informatique,176000,fcfa,VIREMENT,Payée,,oui
+DEP01167,2023-04-15,Marketing,Salon professionnel,production,568500,F CFA,CB,payé,A. Diabaté,
+DEP00103,07/10/2025,fournitures de bureau,Consommables,logistique,16500,fcfa,Chèque,annulé,M. Traoré,
+DEP00197,03/19/2024,Fournitures de bureau,Mobilier bureau,VENTES,,XOF,cheque,payé,,Oui
+DEP00952,05 Aug 2025,loyer & charges,Loyer bureau, Direction,832500,XOF,Chèque,En attente,,Oui
+DEP00896,07/23/2024,MARKETING,Impression flyers,  Production  ,28500,FCFA,Chèque,Payée,A. Diabaté,Oui
+DEP00403,20-11-2025,Charges,Eau,ressources humaines,18000,FCFA,cheque,payé,A. Diabaté,Oui
+DEP00083,27-10-2023,divers,Frais bancaires,FINANCE,,F CFA,Espèces,Payée,M. Traoré,non
+DEP00107,2023-06-06,déplacements,Carburant,Ventes,19000,XOF,especes,PAYE,M. Traoré,Non
+DEP00755,06 Apr 2024,Restauration,Cantine,finance,4000,fcfa,virement,En attente,A. Diabaté,Oui
+DEP00927,2023-11-18,DIVERS,Non catégorisé,informatique,18000,fcfa,Carte bancaire,,A. Diabaté,
+DEP00590,15/07/2024,MARKETING,Impression flyers,DIRECTION,17500,XOF,CB,En attente,A. Diabaté,
+DEP00050,03 Nov 2024,Fourniture bureau,Mobilier bureau,Ressources Humaines,160000,fcfa,especes,En attente,A. Diabaté,Oui
+DEP00917,2025-10-03,divers,Non catégorisé,Finance,12000,XOF,Espèces,Payée,A. Diabaté,oui
+DEP00644,11/11/2024,informatique,Licence logiciel,Ressources Humaines,80500,fcfa,virement,Payé,N. Kouassi,Non
+DEP00580,04-01-2023,Resto,Cantine,finance,4500,F CFA,Virement,payé,,Non
+DEP00945,17 Sep 2024,Formation,Certification,,155000,F CFA,VIREMENT,Payée,A. Diabaté,Oui
+DEP00327,2024-12-13,Marketing,Publicité en ligne,direction,104500,F CFA,VIREMENT,annulé,S. Koffi,Non
+DEP00640,30 Jul 2025,Autre,Frais de notaire,DIRECTION,82000,FCFA,Carte bancaire,PAYE,M. Traoré,non
+DEP00338,05/09/2024,RESTAURATION,Cantine,VENTES,3500,FCFA,Virement,,A. Diabaté,
+DEP00954,06/06/2023,fournitures de bureau,Cartouches encre,Logistique,34000,F CFA,carte bancaire,annulé,N. Kouassi,Oui
+DEP00038,2024-12-21,informatique,,,72000,fcfa,cheque,Payé,M. Traoré,
+DEP00461,07 Jun 2026,marketing,Salon professionnel,RESSOURCES HUMAINES,276000,FCFA,Carte bancaire,PAYE,A. Diabaté,
+DEP01152,2025-01-19,Formation,Certification,Ressources Humaines,89500,F CFA,Chèque,Payée,M. Traoré,Non
+DEP00662,06/13/2025,formation,Formation en ligne,informatique,48500,F CFA,VIREMENT,en attente,,oui
+DEP00768,17-06-2025,RESTAURATION,Repas d'affaires,DIRECTION,24500,XOF,Virement,Annulé,,non
+DEP00843,28 Feb 2023,Transport,Péage,production,2500,F CFA,VIREMENT,Payée,,non
+DEP00291,18/07/2026,Marketing,Publicité en ligne,,210500,XOF,CB,En attente,A. Diabaté,
+DEP01261,12 Mar 2024,,Frais de notaire,Direction,87000,FCFA,Espèces,en attente,,
+DEP00132,21-01-2023,Déplacements,,,40000,F CFA,Virement,PAYE,,
+DEP01132,06/30/2023,FORMATION,Séminaire,PRODUCTION,148500,FCFA,cheque,annulé,S. Koffi,oui
+DEP00805,15-09-2025,Fournitures,Consommables,Marketing,10500,FCFA,especes,Payé,N. Kouassi,Non
+DEP01197,15-01-2025,divers,Assurance,DIRECTION,104500,F CFA,Chèque,PAYE,S. Koffi,Non
+DEP00468,2023-03-31,informatique,Matériel informatique,VENTES,337500,FCFA,especes,annulé,S. Koffi,Oui
+DEP00765,2023-06-21,restauration,Traiteur événement,VENTES,357000,FCFA,virement,Annulé,,
+DEP00655,14-04-2025,Déplacements,Taxi/VTC,direction,7500,fcfa,VIREMENT,Annulé,,Oui
+DEP00226,25-11-2025,Autre,Assurance,ventes,65000,XOF,especes,payé,,Non
+DEP00334,05/10/2024,MARKETING,Salon professionnel,informatique,366500,FCFA,cheque,En attente,,Oui
+DEP00502,12/25/2024,Charges,Eau,ressources humaines,25000,fcfa,Chèque,Payé,A. Diabaté,Oui
+DEP00944,11/03/2023,Informatique,,PRODUCTION,76500,XOF,Virement,Payée,,
+DEP01010,07/29/2024,Transport,Carburant, Direction,23000,XOF,especes,payé,N. Kouassi,Oui
+DEP01112,03/10/2023,Autre,Frais de notaire,Ventes,80500,XOF,Carte bancaire,PAYE,,Non
+DEP01105,12/02/2024,divers,Non catégorisé,ressources humaines,29500,FCFA,Carte bancaire,Annulé,S. Koffi,Non
+DEP00683,2024-07-08,Marketing,Publicité en ligne,,215500,F CFA,Chèque,En attente,,
+DEP01245,26/04/2024,Markting,Salon professionnel,finance,566000,FCFA,Espèces,En attente,,
+DEP00659,21 May 2025,FORMATION,Certification,Direction,70500,FCFA,especes,Annulé,,Oui
+DEP00853,15-03-2024,Charges,Internet/Téléphonie,DIRECTION,40500,fcfa,Carte bancaire,Annulé,,
+DEP00174,2024-11-22,marketing,Salon professionnel,Ventes,463500,FCFA,especes,annulé,N. Kouassi,non
+DEP00942,05/28/2025,Deplacements,Hôtel,ventes,90500,FCFA,Virement,annulé,,non
+DEP00890,23/01/2024,FORMATION,Séminaire,production,,fcfa,cheque,payé,M. Traoré,
+DEP00087,05/09/2024,IT,Licence logiciel,informatique,100500,F CFA,cheque,En attente,,non
+DEP00949,04/17/2025,fournitures de bureau,Cartouches encre,informatique,18000,FCFA,Chèque,En attente,,Oui
+DEP01274,22 Jun 2026,Formation,Formation en ligne,logistique,42500,F CFA,especes,En attente,A. Diabaté,
+DEP00183,05/13/2026,IT,Hébergement cloud,informatique,81000,F CFA,Chèque,Payée,,non
+DEP00959,01 Jul 2026,Markting,Publicité en ligne,PRODUCTION,202500,FCFA,especes,payé,N. Kouassi,oui
+DEP01217,2026-06-15,Charges,Internet/Téléphonie,  PRODUCTION  ,70000,F CFA,VIREMENT,Annulé,,Non
+DEP00383,07/08/2024,FORMATION,Certification,ressources humaines,75000,FCFA,VIREMENT,en attente,,Oui
+DEP00598,07/05/2025,marketing,Réseaux sociaux,Ressources Humaines,31000,XOF,Carte bancaire,En attente,M. Traoré,
+DEP00677,05/12/2025,Formation,Formation en ligne,Informatique,42500,XOF,CB,Payé,N. Kouassi,oui
+DEP00936,23 Mar 2025,Fournitures,Papeterie,finance,23000,fcfa,virement,Payée,,Non
+DEP01146,31 Jul 2025,Markting,Impression flyers,RESSOURCES HUMAINES,24000,FCFA,CB,annulé,M. Traoré,Oui
+DEP00793,14/12/2023,restauration,Cantine, Direction,1500,FCFA,cheque,Payé,,
+DEP00734,01/24/2023,marketing,,Direction,64500,XOF,CB,PAYE,M. Traoré,
+DEP01107,12/31/2024,loyer & charges,Internet/Téléphonie,Marketing,62500,F CFA,cheque,en attente,,non
+DEP01293,18/02/2024,FORMATION,Certification,direction,153500,fcfa,cheque,payé,,oui
+DEP01173,10 Jul 2023,marketing,Impression flyers,ressources humaines,26500,FCFA,,en attente,A. Diabaté,Oui
+DEP00426,14/09/2023,Formation,Certification,ventes,79000,fcfa,VIREMENT,En attente,N. Kouassi,
+DEP00123,05 Aug 2026,Déplacements,Hôtel,finance,107500,F CFA,Virement,payé,,Non
+DEP00425,06/04/2024,restauration,Repas d'affaires,DIRECTION,27000,FCFA,cheque,payé,S. Koffi,Non
+DEP00003,08/26/2023,formation,,,47000,fcfa,Virement,payé,N. Kouassi,Oui
+DEP00221,18 Mar 2026,Fournitures,Mobilier bureau,  Production  ,199500,FCFA,cheque,Payée,,
+DEP00862,05/13/2025,loyer & charges,,DIRECTION,64000,fcfa,VIREMENT,Payé,,
+DEP00352,03/21/2023,IT,Matériel informatique,MARKETING,551000,FCFA,Carte bancaire,en attente,A. Diabaté,non
+DEP00594,25 Jan 2025,déplacements,Péage,DIRECTION,1500,XOF,Virement,PAYE,,Non
+DEP01270,2026-08-31,Fourniture bureau,Consommables,Informatique,13000,XOF,cheque,,,
+DEP00157,14/05/2025,FORMATION,Certification,finance,127500,fcfa,VIREMENT,En attente,N. Kouassi,Non
+DEP00307,09/24/2023,Autre,Non catégorisé,Ressources Humaines,29500,FCFA,CB,en attente,M. Traoré,Non
+DEP01002,01 Jan 2026,Formation,Formation en ligne,Ventes,41500,fcfa,Chèque,,,
+DEP00745,21-07-2023,Fourniture bureau,Mobilier bureau,Marketing,104500,F CFA,Carte bancaire,Payé,M. Traoré,
+DEP00058,08-02-2023,Formation,Certification,Logistique,105500,FCFA,VIREMENT,En attente,A. Diabaté,oui
+DEP01296,07/11/2024,formation,,marketing,125500,F CFA,CB,Payé,M. Traoré,oui
+DEP00588,2023-12-08,Resto,,ressources humaines,176500,fcfa,Espèces,en attente,,Non
+DEP00937,2026-08-08,Charges,Loyer bureau,PRODUCTION,1098000,FCFA,Carte bancaire,payé,N. Kouassi,oui
+DEP00779,05/09/2023,Transport,Hôtel,LOGISTIQUE,75000,F CFA,,Annulé,A. Diabaté,
+DEP01117,10-10-2024,marketing,Publicité en ligne,finance,203500,fcfa,Chèque,Payée,M. Traoré,
+DEP00812,21 Jun 2025,marketing,Impression flyers,production,25500,fcfa,Carte bancaire,Annulé,A. Diabaté,oui
+DEP00549,2024-04-14,FORMATION,Formation en ligne,finance,46500,FCFA,VIREMENT,payé,S. Koffi,oui
+DEP00005,02/18/2026,Transport,Billet avion,Logistique,551500,fcfa,CB,annulé,S. Koffi,Non
+DEP01071,01/09/2024,FORMATION,Certification,ventes,70000,XOF,cheque,en attente,S. Koffi,Oui
+DEP00499,07/14/2026,Formation,Certification,MARKETING,150500,XOF,CB,Payée,S. Koffi,non
+DEP00343,28-03-2026,Restauration,Cantine,Marketing,,FCFA,cheque,PAYE,A. Diabaté,Oui
+DEP00672,30-05-2026,Fourniture bureau,Cartouches encre,DIRECTION,,FCFA,virement,Annulé,N. Kouassi,Non
+DEP00788,16 Oct 2023,IT,Matériel informatique,Direction ,631000,FCFA,Espèces,Payée,M. Traoré,Non
+DEP00984,10/01/2023,FORMATION,Séminaire,production,89000,XOF,carte bancaire,En attente,S. Koffi,Non
+DEP01059,2025-08-26,informatique,Maintenance IT,PRODUCTION,36500,fcfa,Espèces,PAYE,S. Koffi,Oui
+DEP00837,05 Nov 2023,Formation,Certification,FINANCE,87000,XOF,especes,PAYE,M. Traoré,Non
+DEP00908,24-07-2026,RESTAURATION,Traiteur événement,marketing,236500,XOF,Carte bancaire,Payé,A. Diabaté,Oui
+DEP00883,08/04/2024,MARKETING,Publicité en ligne,Production,93000,fcfa,VIREMENT,Annulé,A. Diabaté,Oui
+DEP00913,2023-03-25,Marketing,Salon professionnel,Ressources Humaines,573000,FCFA,Virement,,M. Traoré,
+DEP00482,2023-09-14,RESTAURATION,Cantine,  production  ,1500,fcfa,especes,en attente,A. Diabaté,oui
+DEP01157,2025-09-18,Fournitures de bureau,,FINANCE,96000,fcfa,Espèces,Payée,,
+DEP00250,29-05-2025,déplacements,Péage,informatique,2000,F CFA,Carte bancaire,Payé,,
+DEP00835,13-07-2026,Restauration,Traiteur événement,Finance,306000,XOF,virement,Annulé,,
+DEP00318,23 Jun 2024,Deplacements,Carburant,RESSOURCES HUMAINES,35000,fcfa,Virement,Payée,,
+DEP00675,2024-04-26,MARKETING,Publicité en ligne,direction,129000,fcfa,Espèces,payé,,oui
+DEP00587,06/15/2025,Loyer & Charges,Électricité,Direction,97000,F CFA,cheque,payé,N. Kouassi,Non
+DEP00380,2025-05-26,loyer & charges,Eau,INFORMATIQUE,11500,fcfa,carte bancaire,Payé,,Oui
+DEP01175,14-04-2024,Transport,Carburant,Direction ,,XOF,carte bancaire,PAYE,S. Koffi,Oui
+DEP00639,12/17/2023,marketing,Réseaux sociaux,logistique,20000,fcfa,virement,Payée,N. Kouassi,oui
+DEP00718,04/18/2025,formation,Certification,DIRECTION,125000,XOF,cheque,Annulé,S. Koffi,Non
+DEP00180,21-08-2025,Deplacements,Taxi/VTC,production,7000,FCFA,cheque,annulé,M. Traoré,
+DEP01280,21/11/2025,Restauration,Repas d'affaires,INFORMATIQUE,14500,XOF,VIREMENT,annulé,M. Traoré,Oui
+DEP00284,2023-12-01,Transport,Billet avion,LOGISTIQUE,566000,F CFA,virement,Annulé,,non
+DEP00217,2025-04-17,Restauration,Cantine,LOGISTIQUE,4000,FCFA,Carte bancaire,Payée,,Oui
+DEP00020,25 May 2023,Autre,,Ressources Humaines,16000,FCFA,Espèces,En attente,S. Koffi,
+DEP01156,26-04-2024,Fournitures,Consommables,RESSOURCES HUMAINES,14500,F CFA,cheque,Payé,M. Traoré,
+DEP01292,02 Aug 2026,Deplacements,Carburant,LOGISTIQUE,30000,fcfa,Virement,Payé,M. Traoré,Oui
+DEP00931,27-02-2026,déplacements,Péage,INFORMATIQUE,3000,fcfa,,Payé,N. Kouassi,non
+DEP01115,2024-02-18,formation,Certification,informatique,90500,XOF,Virement,en attente,M. Traoré,
+DEP00279,12/30/2025,FORMATION,Formation en ligne,,32500,fcfa,virement,Annulé,S. Koffi,non
+DEP01080,2026-05-02,Formation,Formation en ligne,VENTES,44500,F CFA,Carte bancaire,payé,,
+DEP00977,2023-10-16,Markting,Impression flyers,Production,23500,XOF,Espèces,Annulé,N. Kouassi,non
+DEP00856,04/09/2024,MARKETING,Réseaux sociaux,Marketing,34500,FCFA,CB,Payée,N. Kouassi,non
+DEP00207,15/10/2024,FORMATION,Séminaire,LOGISTIQUE,223500,FCFA,carte bancaire,En attente,N. Kouassi,Oui
+DEP00478,22-03-2023,marketing,Réseaux sociaux, Direction,65500,XOF,especes,payé,,
+DEP00246,14 Apr 2024,DIVERS,Frais de notaire,FINANCE,87500,F CFA,virement,payé,M. Traoré,
+DEP00873,19/02/2025,RESTAURATION,Traiteur événement,logistique,167000,F CFA,CB,Annulé,,non
+DEP00947,01/05/2025,Markting,Salon professionnel,Production,863500,F CFA,Espèces,payé,M. Traoré,Oui
+DEP00882,2024-11-21,Charges,Internet/Téléphonie,LOGISTIQUE,78000,XOF,virement,En attente,M. Traoré,Oui
+DEP00925,2026-06-08,Transport,Hôtel,logistique,51000,F CFA,Carte bancaire,En attente,,Non
+DEP00150,2024-01-08,RESTAURATION,Repas d'affaires,logistique,,XOF,VIREMENT,PAYE,S. Koffi,
+DEP00288,20-03-2023,MARKETING,Publicité en ligne,DIRECTION,68000,FCFA,Virement,En attente,A. Diabaté,oui
+DEP00642,28-12-2025,Loyer & Charges,Eau,Logistique,25000,F CFA,VIREMENT,Payé,,
+DEP00177,23-02-2024,Deplacements,Carburant,RESSOURCES HUMAINES,15500,FCFA,Virement,En attente,A. Diabaté,non
+DEP00972,2024-06-06,Markting,Réseaux sociaux,DIRECTION,38000,XOF,Carte bancaire,annulé,,oui
+DEP01087,29-10-2023,formation,Formation en ligne,production,29500,fcfa,Carte bancaire,annulé,N. Kouassi,
+DEP00775,01-05-2023,RESTAURATION,Repas d'affaires,Production,17000,XOF,Chèque,en attente,N. Kouassi,
+DEP01155,07/04/2024,FORMATION,Séminaire,marketing,244000,XOF,Virement,Payé,N. Kouassi,oui
+DEP00372,18-01-2024,formation,Certification,informatique,125000,XOF,,Payée,N. Kouassi,
+DEP00875,2026-08-08,Marketing,Réseaux sociaux,INFORMATIQUE,,XOF,VIREMENT,Payé,,Non
+DEP01041,08/04/2023,Formation,Formation en ligne,ventes,24000,F CFA,especes,PAYE,S. Koffi,oui
+DEP00637,19/12/2024,Marketing,Salon professionnel,marketing,288500,XOF,carte bancaire,Annulé,,Non
+DEP00287,03/07/2024,fournitures de bureau,Consommables,LOGISTIQUE,6000,fcfa,Chèque,payé,N. Kouassi,Non
+DEP00685,02/10/2025,Déplacements,Péage,Ventes,1000,F CFA,Espèces,en attente,,
+DEP00049,10/02/2023,informatique,Maintenance IT,logistique,96500,FCFA,Carte bancaire,Annulé,M. Traoré,oui
+DEP00599,03/08/2026,Divers,Frais de notaire,INFORMATIQUE,91000,XOF,especes,En attente,M. Traoré,
+DEP01224,04/01/2026,déplacements,Carburant,logistique,18000,F CFA,Carte bancaire,en attente,,
+DEP00314,2024-05-21,Autre,Assurance,Ressources Humaines,172500,XOF,Chèque,En attente,,Oui
+DEP00903,2025-12-28,Transport,Hôtel,PRODUCTION,72000,F CFA,Espèces,payé,N. Kouassi,oui
+DEP00188,25 Jan 2025,marketing,Réseaux sociaux,marketing,59000,XOF,virement,annulé,,oui
+DEP01221,2025-08-14,loyer & charges,Loyer bureau,Marketing,1145500,fcfa,carte bancaire,annulé,,
+DEP00362,02/07/2026,Informatique,Licence logiciel,ressources humaines,150500,FCFA,CB,payé,,
+DEP00316,09-04-2026,,Frais bancaires,ventes,9500,F CFA,Espèces,annulé,M. Traoré,non
+DEP00356,12-10-2025,Fournitures de bureau,Consommables,  Finance  ,9500,XOF,Chèque,en attente,M. Traoré,Oui
+DEP00440,19-07-2025,Loyer et charges,Internet/Téléphonie,Direction,35000,F CFA,CB,annulé,,non
+DEP00228,07/03/2024,MARKETING,Réseaux sociaux,Direction ,23000,F CFA,cheque,En attente,,
+DEP01184,01-02-2023,Charges,Eau,production,10000,fcfa,CB,Annulé,A. Diabaté,non
+DEP01263,30 Nov 2025,FORMATION,Formation en ligne,Direction,51000,FCFA,virement,Annulé,A. Diabaté,
+DEP01024,2024-05-09,fournitures de bureau,Consommables,logistique,16500,F CFA,cheque,payé,,non
+DEP01137,2026-03-26,IT,Licence logiciel,VENTES,66500,XOF,VIREMENT,Annulé,M. Traoré,Oui
+DEP01205,01 Mar 2023,Marketing,Impression flyers,finance,35000,FCFA,especes,Payé,,Non
+DEP00571,04 Aug 2024,restauration,Traiteur événement,PRODUCTION,421500,XOF,cheque,PAYE,,Oui
+DEP01223,23-07-2025,Resto,Cantine,ventes,4000,XOF,cheque,Payée,,non
+DEP01130,2026-04-18,DIVERS,Frais de notaire,marketing,105000,XOF,VIREMENT,PAYE,,non
+DEP00487,05/23/2023,Resto,Cantine,FINANCE,4500,fcfa,Chèque,payé,A. Diabaté,non
+DEP00978,08/21/2026,Transport,Hôtel,Production,93500,FCFA,CB,en attente,N. Kouassi,
+DEP00490,02/12/2025,loyer & charges,Loyer bureau,informatique,691500,F CFA,Espèces,Payé,S. Koffi,
+DEP00442,2025-03-08,informatique,Hébergement cloud,LOGISTIQUE,36000,XOF,Carte bancaire,Payée,A. Diabaté,
+DEP00958,09/30/2025,Fourniture bureau,Cartouches encre,INFORMATIQUE,42500,F CFA,CB,Payée,M. Traoré,Oui
+DEP01162,06/08/2025,Divers,Frais bancaires,Informatique,4500,F CFA,Chèque,Annulé,S. Koffi,Oui
+DEP00189,25-01-2023,Charges,Internet/Téléphonie,INFORMATIQUE,32500,fcfa,Chèque,payé,S. Koffi,
+DEP01257,22-04-2023,Formation,Formation en ligne,Marketing,39500,F CFA,carte bancaire,Payée,N. Kouassi,Non
+DEP01254,09/05/2025,Fournitures de bureau,Mobilier bureau,Production,306500,XOF,VIREMENT,en attente,M. Traoré,
+DEP00208,01/23/2024,informatique,Matériel informatique,,603500,FCFA,VIREMENT,PAYE,N. Kouassi,oui
+DEP00658,01/05/2023,Formation,Certification,Direction ,62000,XOF,Chèque,PAYE,N. Kouassi,
+DEP01024,2024-05-09,fournitures de bureau,Consommables,logistique,16500,F CFA,cheque,payé,,non
+DEP01099,11/11/2025,Markting,Impression flyers,Production,30500,fcfa,CB,En attente,,Oui
+DEP00875,2026-08-08,Marketing,Réseaux sociaux,INFORMATIQUE,,XOF,VIREMENT,Payé,,Non
+DEP00359,12/12/2024,loyer & charges,Internet/Téléphonie,,64500,fcfa,virement,annulé,,Non
+DEP01295,01/28/2026,Fourniture bureau,Mobilier bureau,INFORMATIQUE,193000,F CFA,Virement,PAYE,S. Koffi,Non
+DEP00665,27/07/2026,Informatique,Hébergement cloud,RESSOURCES HUMAINES,28500,XOF,Espèces,annulé,,
+DEP00557,06/28/2025,Fournitures de bureau,Consommables,production,15500,XOF,,annulé,,non
+DEP01209,06/05/2024,MARKETING,Impression flyers,  Production  ,30500,FCFA,Virement,payé,M. Traoré,oui
+DEP00330,04-03-2025,Markting,Salon professionnel,ventes,806000,FCFA,Espèces,Payée,M. Traoré,Oui
+DEP00935,2026-02-13,RESTAURATION,Traiteur événement,  direction  ,240000,XOF,carte bancaire,En attente,S. Koffi,non
+DEP00592,09-07-2024,marketing,Salon professionnel,,422500,XOF,VIREMENT,en attente,A. Diabaté,
+DEP01034,17/02/2024,loyer & charges,Loyer bureau,INFORMATIQUE,1331000,fcfa,cheque,Payée,N. Kouassi,Oui
+DEP00974,2023-03-12,déplacements,Hôtel,LOGISTIQUE,72000,XOF,especes,annulé,,
+DEP00140,06-02-2026,FORMATION,Formation en ligne,Ressources Humaines,40000,fcfa,,Annulé,,Oui
+DEP00742,2024-03-13,divers,Frais bancaires,logistique,12000,FCFA,Carte bancaire,annulé,M. Traoré,non
+DEP00082,11-03-2023,Restauration,Traiteur événement,PRODUCTION,436000,fcfa,especes,,M. Traoré,non
+DEP01094,2025-11-28,Restauration,Traiteur événement,ressources humaines,177000,fcfa,CB,Payé,S. Koffi,
+DEP01110,2025-05-24,Info,,ventes,71000,XOF,virement,en attente,A. Diabaté,oui
+DEP01214,14/04/2024,déplacements,Hôtel,RESSOURCES HUMAINES,94500,fcfa,Virement,payé,S. Koffi,Oui
+DEP00759,2023-03-30,Fournitures de bureau,Papeterie,,22500,F CFA,Espèces,payé,,Non
+DEP00410,28 Aug 2026,fournitures de bureau,Mobilier bureau,Direction,169500,fcfa,cheque,Payé,A. Diabaté,non
+DEP00219,28/04/2025,Divers,Non catégorisé,Production,34500,XOF,virement,en attente,A. Diabaté,oui
+DEP01055,10 Dec 2023,formation,Séminaire,finance,255500,fcfa,Carte bancaire,Payé,N. Kouassi,Non
+DEP00694,14/02/2026,Déplacements,Péage,PRODUCTION,3500,FCFA,cheque,Annulé,S. Koffi,Oui
+DEP00847,23 Feb 2025,MARKETING,Salon professionnel,MARKETING,792500,XOF,,PAYE,A. Diabaté,
+DEP01236,07-01-2023,IT,Matériel informatique,PRODUCTION,336000,F CFA,VIREMENT,payé,N. Kouassi,non
+DEP00990,17 Dec 2025,marketing,Salon professionnel,logistique,586500,FCFA,cheque,Payé,S. Koffi,
+DEP01174,2023-02-09,formation,Formation en ligne,ventes,23500,fcfa,especes,annulé,M. Traoré,Non
+DEP00279,12/30/2025,FORMATION,Formation en ligne,,32500,fcfa,virement,Annulé,S. Koffi,non
+DEP01067,2026-03-15,Informatique,Maintenance IT,Direction ,55500,fcfa,Chèque,Payé,,Non
+DEP00171,2025-10-09,Restauration,Cantine,Logistique,2500,F CFA,Espèces,Payée,S. Koffi,
+DEP00667,01/14/2026,Resto,Cantine,marketing,1500,fcfa,carte bancaire,Payé,S. Koffi,Non
+DEP00497,15-12-2025,Informatique,,Ressources Humaines,495500,FCFA,virement,Payée,N. Kouassi,
+DEP01277,09/06/2025,Info,Maintenance IT,Ventes,45500,F CFA,,annulé,M. Traoré,
+DEP00353,04/15/2024,marketing,Salon professionnel, Direction,394000,F CFA,VIREMENT,PAYE,,
+DEP00921,04 Sep 2023,Informatique,Hébergement cloud,finance,62000,fcfa,CB,Payé,M. Traoré,Non
+DEP01251,08/03/2025,DIVERS,Assurance,Ressources Humaines,107500,F CFA,especes,en attente,N. Kouassi,Non
+DEP00492,03/11/2023,,Frais bancaires,DIRECTION,7500,F CFA,carte bancaire,Annulé,S. Koffi,
+DEP00625,23-05-2023,IT,Matériel informatique,Finance,265500,fcfa,CB,Annulé,M. Traoré,non
+DEP01033,2026-01-18,restauration,Traiteur événement,Ressources Humaines,255500,F CFA,Virement,payé,A. Diabaté,Non
+DEP01265,2024-02-03,DIVERS,Non catégorisé,Direction ,23000,fcfa,carte bancaire,,,oui
+DEP00951,05/16/2024,Resto,Repas d'affaires,Production,22000,fcfa,virement,annulé,M. Traoré,
+DEP00528,11/12/2023,FORMATION,Formation en ligne,Production,45500,F CFA,Espèces,PAYE,S. Koffi,
+DEP00371,12 Mar 2026,informatique,Matériel informatique,FINANCE,497500,XOF,carte bancaire,En attente,A. Diabaté,
+DEP01102,2025-04-08,Resto,Traiteur événement,ressources humaines,212500,FCFA,Espèces,PAYE,,
+DEP00841,30-06-2023,Transport,Hôtel,informatique,60000,fcfa,Carte bancaire,PAYE,M. Traoré,Oui
+DEP00515,27-09-2024,Autre,,Direction,88000,FCFA,Chèque,Payé,M. Traoré,non
+DEP00459,02 Sep 2024,Fournitures,Cartouches encre,VENTES,39500,F CFA,Virement,en attente,,oui
+DEP01119,07/02/2026,DIVERS,Assurance,DIRECTION,78000,FCFA,Carte bancaire,,,Non
+DEP00981,23-01-2024,Markting,Impression flyers,PRODUCTION,34000,fcfa,carte bancaire,PAYE,M. Traoré,Non
+DEP00516,10/02/2023,IT,Maintenance IT,INFORMATIQUE,96500,FCFA,Virement,Payée,A. Diabaté,
+DEP01054,25/08/2024,Charges,Loyer bureau,  production  ,1397500,F CFA,cheque,Payé,,
+DEP00255,2026-03-27,formation,Certification,Informatique,82500,FCFA,virement,Annulé,M. Traoré,Oui
+DEP00582,03/07/2026,Charges,,DIRECTION,12000,FCFA,especes,En attente,A. Diabaté,non
+DEP00909,2023-04-02,Fourniture bureau,Consommables,Production,15000,XOF,VIREMENT,payé,,oui
+DEP00574,26-09-2025,Fournitures,Cartouches encre, Direction,,FCFA,carte bancaire,en attente,,Oui
+DEP00431,02/23/2026,Fournitures de bureau,Mobilier bureau,Logistique,191500,FCFA,,Payée,S. Koffi,Oui
+DEP00184,01/03/2026,Déplacements,Péage,direction,1500,FCFA,virement,annulé,A. Diabaté,Oui
+DEP00130,19 May 2026,Fournitures de bureau,Mobilier bureau,LOGISTIQUE,267500,F CFA,Espèces,Annulé,N. Kouassi,
+DEP00560,2023-12-11,Deplacements,,,35000,F CFA,CB,Payée,A. Diabaté,Oui
+DEP01084,2024-11-23,Loyer et charges,Internet/Téléphonie,Direction ,43500,XOF,Virement,en attente,,Non
+DEP00993,14-04-2024,Formation,Séminaire,FINANCE,227000,F CFA,Virement,Annulé,,oui
+DEP00686,04/29/2025,Fourniture bureau,Cartouches encre,Marketing,44500,F CFA,especes,En attente,N. Kouassi,
+DEP00596,21 Oct 2023,DIVERS,Frais bancaires,finance,11500,FCFA,Virement,Annulé,M. Traoré,
+DEP00357,08/08/2024,formation,Formation en ligne,DIRECTION,31500,XOF,cheque,Annulé,N. Kouassi,non
+DEP00931,27-02-2026,déplacements,Péage,INFORMATIQUE,3000,fcfa,,Payé,N. Kouassi,non
+DEP00689,2024-02-04,formation,Formation en ligne,production,23500,FCFA,CB,,N. Kouassi,Non
+DEP00301,13 Nov 2023,Transport,Billet avion,Direction ,527000,F CFA,virement,annulé,A. Diabaté,non
+DEP00395,2023-01-28,Deplacements,Taxi/VTC,MARKETING,6500,F CFA,Virement,en attente,M. Traoré,non
+DEP00834,12-05-2026,loyer & charges,Loyer bureau, Direction,872500,XOF,Espèces,payé,N. Kouassi,non
+DEP00331,07/03/2024,Fourniture bureau,Papeterie,Informatique,9000,F CFA,Chèque,Annulé,M. Traoré,oui
+DEP00557,06/28/2025,Fournitures de bureau,Consommables,production,15500,XOF,,annulé,,non
+DEP00444,27 Jul 2025,Loyer et charges,Eau, Direction,18000,FCFA,VIREMENT,Payée,M. Traoré,
+DEP00554,08/24/2023,IT,Matériel informatique,production,257500,XOF,virement,payé,M. Traoré,
+DEP00337,2023-10-16,IT,Hébergement cloud,Direction ,30500,FCFA,VIREMENT,payé,A. Diabaté,
+DEP00090,24 Jan 2026,déplacements,Hôtel,Finance,88500,XOF,Carte bancaire,annulé,,
+DEP00206,14 Jul 2025,IT,Licence logiciel,ressources humaines,128500,fcfa,carte bancaire,Payée,,oui
+DEP00526,30 Apr 2026,Charges,Internet/Téléphonie,production,68500,F CFA,VIREMENT,annulé,,Non
+DEP00048,07/26/2026,Autre,Frais de notaire,marketing,31500,XOF,VIREMENT,annulé,M. Traoré,
+DEP00406,2024-03-04,Marketing,Impression flyers,Direction ,45500,FCFA,virement,Payé,,
+DEP00379,20/09/2023,,Frais de notaire,DIRECTION,0,fcfa,Espèces,PAYE,S. Koffi,oui
+DEP01151,05/16/2025,loyer & charges,Eau,Logistique,8500,XOF,carte bancaire,Payé,,Non
+DEP01227,03/12/2025,FORMATION,Certification,DIRECTION,60000,F CFA,Virement,Payé,M. Traoré,oui
+DEP00347,2026-04-28,Fournitures,Consommables,finance,16000,fcfa,virement,Payée,,
+DEP00100,19-02-2024,informatique,Maintenance IT,direction,103500,FCFA,CB,Payée,A. Diabaté,
+DEP01118,14/07/2025,Fournitures,Cartouches encre,Logistique,23000,fcfa,Chèque,Payé,,Non
+DEP00198,28-09-2023,IT,Maintenance IT, Direction,61000,F CFA,Chèque,Payé,N. Kouassi,non
+DEP01140,16-10-2024,Loyer & Charges,Loyer bureau,logistique,692000,FCFA,especes,en attente,,Oui
+DEP00932,14 Dec 2025,Charges,Électricité,ventes,58000,fcfa,Chèque,Payée,,
+DEP00452,06-02-2025,restauration,Traiteur événement,FINANCE,412500,fcfa,Chèque,En attente,,Non
+DEP00503,11/12/2023,loyer & charges,Eau,    Informatique    ,15500,F CFA,Virement,payé,M. Traoré,oui
+DEP00778,2025-11-27,fournitures de bureau,Mobilier bureau,ressources humaines,252000,FCFA,,payé,,
+DEP00950,23-02-2024,marketing,Réseaux sociaux,RESSOURCES HUMAINES,44000,XOF,Espèces,Payée,,non
+DEP01049,22 Dec 2025,loyer & charges,Électricité,Ventes,75000,F CFA,Chèque,Payé,,non
+DEP00566,24/02/2025,Formation,Certification,Ressources Humaines,101000,XOF,CB,PAYE,S. Koffi,oui
+DEP00266,24/08/2026,FORMATION,Formation en ligne,FINANCE,43500,F CFA,Espèces,Payée,M. Traoré,
+DEP01288,18 Feb 2025,marketing,Publicité en ligne,MARKETING,88000,F CFA,Espèces,en attente,N. Kouassi,non
+DEP00283,10-07-2025,informatique,Matériel informatique,RESSOURCES HUMAINES,661000,F CFA,CB,en attente,,
+DEP00060,03-11-2024,Formation,Certification,VENTES,98000,XOF,,payé,N. Kouassi,oui
+DEP00845,2024-03-13,Restauration,Traiteur événement,production,312500,FCFA,cheque,Payée,,
+DEP01048,02/25/2025,IT,Hébergement cloud,Production,64500,F CFA,Espèces,PAYE,N. Kouassi,
+DEP00016,04 Mar 2025,Fournitures de bureau,Papeterie,Finance,16500,fcfa,Espèces,En attente,S. Koffi,
+DEP00041,14/03/2023,fournitures de bureau,Consommables,finance,18500,F CFA,cheque,en attente,,oui
+DEP00831,21 Apr 2025,Divers,Frais de notaire,,46500,F CFA,CB,en attente,,Non
+DEP01291,24-03-2024,formation,Certification,Direction,70000,XOF,carte bancaire,En attente,A. Diabaté,oui
+DEP00609,07 May 2026,Markting,,production,585500,FCFA,Virement,En attente,M. Traoré,Non
+DEP00145,16-06-2026,Fournitures,Cartouches encre,Finance,45000,XOF,virement,en attente,,
+DEP00786,2023-05-11,Loyer & Charges,Internet/Téléphonie,direction,70000,fcfa,Virement,payé,,oui
+DEP01046,06 Jun 2026,Autre,Assurance,VENTES,194000,fcfa,,annulé,N. Kouassi,Non
+DEP01026,2025-08-06,Divers,Non catégorisé,Marketing,23000,FCFA,especes,payé,S. Koffi,Non
+DEP00939,06/12/2024,Fournitures,Cartouches encre,Production,29500,XOF,VIREMENT,Annulé,,Oui
+DEP00086,07/23/2025,Déplacements,Taxi/VTC,,5000,F CFA,especes,en attente,,Oui
+DEP01076,08/04/2024,IT,Hébergement cloud,Direction ,68000,FCFA,carte bancaire,PAYE,S. Koffi,non
+DEP00170,22/07/2023,marketing,Impression flyers,marketing,17500,XOF,VIREMENT,annulé,M. Traoré,oui
+DEP01244,06/08/2026,Marketing,Réseaux sociaux,ressources humaines,68000,XOF,cheque,Payée,,
+DEP00634,04/14/2024,MARKETING,Salon professionnel,Logistique,722000,fcfa,Chèque,annulé,M. Traoré,Non
+DEP00992,07-02-2023,FORMATION,Certification,,126000,F CFA,,annulé,S. Koffi,Non
+DEP00705,2024-10-26,Resto,Traiteur événement,Direction ,176000,XOF,Virement,en attente,,Oui
+DEP00213,23-05-2026,Fournitures,Consommables,Production,8500,XOF,especes,Annulé,M. Traoré,Oui
+DEP00085,06/22/2023,loyer & charges,Internet/Téléphonie,ventes,70000,XOF,Virement,Payée,S. Koffi,
+DEP00929,02/04/2026,Fournitures,Cartouches encre,logistique,35500,XOF,CB,payé,A. Diabaté,
+DEP00953,12 Apr 2024,Deplacements,Taxi/VTC,Finance,4500,F CFA,Chèque,En attente,M. Traoré,
+DEP00276,02 Nov 2025,divers,Frais bancaires,LOGISTIQUE,7500,FCFA,especes,PAYE,,Oui
+DEP00441,09-01-2025,loyer & charges,Eau,Ventes,8000,F CFA,Virement,Payé,S. Koffi,
+DEP00880,02/27/2025,fournitures de bureau,Mobilier bureau,,147500,XOF,carte bancaire,Annulé,M. Traoré,
+DEP00869,08/27/2023,Fournitures de bureau,Consommables,informatique,10500,F CFA,carte bancaire,PAYE,A. Diabaté,oui
+DEP00982,02/10/2025,formation,,Finance,20000,fcfa,CB,Payé,S. Koffi,oui
+DEP00915,19 Jun 2023,Transport,Hôtel,production,60500,XOF,carte bancaire,PAYE,M. Traoré,Oui
+DEP00378,02 Apr 2026,Déplacements,,Informatique,21500,XOF,Chèque,Annulé,A. Diabaté,Non
+DEP00472,31-10-2025,Informatique,Maintenance IT,Logistique,35500,fcfa,VIREMENT,payé,S. Koffi,Non
+DEP00366,2026-07-06,Formation,Séminaire,finance,267000,XOF,CB,Payée,M. Traoré,Oui
+DEP01243,10/17/2025,IT,Licence logiciel,production,147000,XOF,CB,,N. Kouassi,Non
+DEP00703,2026-02-01,Restauration,Cantine, Direction,2500,XOF,cheque,payé,M. Traoré,non
+DEP00077,2024-06-27,restauration,Repas d'affaires,direction,28500,XOF,Espèces,En attente,,Non
+DEP00583,04/10/2025,RESTAURATION,Traiteur événement,DIRECTION,270000,FCFA,VIREMENT,Annulé,S. Koffi,
+DEP00559,24-08-2025,fournitures de bureau,Papeterie,finance,12500,F CFA,virement,payé,N. Kouassi,non
+DEP00401,24/01/2023,Divers,Non catégorisé,DIRECTION,34000,FCFA,Carte bancaire,annulé,A. Diabaté,Non
+DEP01149,28-06-2025,déplacements,Taxi/VTC,Production,4000,fcfa,virement,annulé,A. Diabaté,oui
+DEP00616,2025-04-23,restauration,Cantine, Direction,2500,fcfa,virement,Annulé,A. Diabaté,oui
+DEP00898,01/03/2025,loyer & charges,Électricité,Informatique,117000,fcfa,CB,Payé,S. Koffi,
+DEP00029,10/04/2023,fournitures de bureau,Mobilier bureau,production,223500,FCFA,,en attente,A. Diabaté,non
+DEP00146,05/12/2023,Transport,Hôtel,ressources humaines,73500,fcfa,Espèces,Annulé,N. Kouassi,
+DEP00595,02/16/2024,Charges,Internet/Téléphonie,marketing,63000,fcfa,virement,Payée,M. Traoré,Non
+DEP00075,25 Aug 2025,IT,Maintenance IT,Direction,52500,F CFA,Chèque,en attente,A. Diabaté,
+DEP00309,04/07/2023,Informatique,Matériel informatique,Informatique,693500,fcfa,,payé,A. Diabaté,oui
+DEP01098,16-06-2023,Formation,Certification, Direction,,F CFA,CB,PAYE,,Oui
+DEP01100,2024-03-03,Charges,Internet/Téléphonie,logistique,66000,XOF,virement,en attente,M. Traoré,
+DEP00431,02/23/2026,Fournitures de bureau,Mobilier bureau,Logistique,191500,FCFA,,Payée,S. Koffi,Oui
+DEP00505,10/13/2024,DIVERS,Frais de notaire,Marketing,,XOF,Chèque,payé,,
+DEP01077,12/30/2023,Déplacements,Taxi/VTC,Production,8500,XOF,CB,payé,M. Traoré,
+DEP00807,15 Feb 2024,informatique,Licence logiciel,ressources humaines,100000,FCFA,VIREMENT,Annulé,,oui
+DEP00730,03/26/2026,MARKETING,Salon professionnel,DIRECTION,591500,F CFA,carte bancaire,Payée,,oui
+DEP01123,19-02-2026,DIVERS,Assurance,VENTES,108000,FCFA,VIREMENT,en attente,N. Kouassi,
+DEP00852,15-02-2025,MARKETING,Publicité en ligne,Direction ,137500,XOF,especes,Payé,S. Koffi,
+DEP00391,02/14/2026,formation,Certification,LOGISTIQUE,,XOF,,en attente,N. Kouassi,
+DEP00501,04/04/2026,fournitures de bureau,Cartouches encre,direction,44000,fcfa,virement,en attente,,Non
+DEP00914,08/20/2023,FORMATION,Certification,Marketing,138500,FCFA,especes,,,Oui
+DEP00422,2024-06-04,loyer & charges,Eau,MARKETING,9500,fcfa,Virement,Payé,,
+DEP00924,04/24/2025,DIVERS,Non catégorisé,Direction ,27500,fcfa,especes,PAYE,M. Traoré,
+DEP00159,07/10/2025,déplacements,Billet avion,VENTES,248500,F CFA,Carte bancaire,annulé,A. Diabaté,Non
+DEP00608,2024-07-07,Info,Licence logiciel,Ventes,150000,F CFA,CB,Payé,A. Diabaté,oui
+DEP00931,27-02-2026,déplacements,Péage,INFORMATIQUE,3000,fcfa,,Payé,N. Kouassi,non
+DEP00367,27/02/2024,Resto,Repas d'affaires,INFORMATIQUE,18500,fcfa,Virement,PAYE,N. Kouassi,Non
+DEP00014,23-03-2025,Restauration,Repas d'affaires,Informatique,11000,fcfa,especes,,N. Kouassi,
+DEP00069,22/03/2025,marketing,Salon professionnel,Direction ,499500,FCFA,carte bancaire,En attente,S. Koffi,Non
+DEP00933,08/04/2026,informatique,Hébergement cloud,Finance,43500,fcfa,VIREMENT,PAYE,A. Diabaté,oui
+DEP00072,07/14/2026,Marketing,Impression flyers,logistique,49500,F CFA,virement,Annulé,,non
+DEP00065,12-01-2023,Deplacements,Taxi/VTC,Direction ,7000,F CFA,carte bancaire,Annulé,,Non
+DEP00740,11/24/2023,Divers,Frais de notaire,marketing,85500,F CFA,virement,payé,,oui
+DEP00839,14-03-2025,déplacements,Taxi/VTC,Direction ,8000,FCFA,Espèces,Annulé,A. Diabaté,Oui
+DEP00019,05/10/2025,formation,Séminaire,Finance,96000,F CFA,virement,Payé,,
+DEP00886,28-07-2023,Formation,Formation en ligne,informatique,54000,FCFA,Chèque,Payé,,Non
+DEP00678,17-05-2024,Informatique,Licence logiciel,FINANCE,76500,F CFA,Espèces,en attente,S. Koffi,non
+DEP00859,2024-06-11,Transport,Billet avion,logistique,589500,F CFA,Chèque,Annulé,,Oui
+DEP00282,18-06-2025,formation,Certification,production,163500,FCFA,cheque,Annulé,,Non
+DEP01240,22-07-2025,Fourniture bureau,Consommables,production,16500,fcfa,Espèces,PAYE,,Oui
+DEP01063,2024-09-06,fournitures de bureau,Mobilier bureau,Production,277000,fcfa,especes,payé,M. Traoré,Non
+DEP00306,21/05/2025,Formation,Formation en ligne,MARKETING,31500,fcfa,VIREMENT,En attente,M. Traoré,
+DEP00364,14/03/2024,Marketing,Réseaux sociaux,Finance,57500,fcfa,CB,Payée,N. Kouassi,Oui
+DEP00424,05/01/2023,Resto,Cantine,VENTES,5000,F CFA,Carte bancaire,,A. Diabaté,Oui
+DEP00514,08-03-2024,Fournitures,Papeterie,  Informatique  ,18500,F CFA,Carte bancaire,annulé,S. Koffi,oui
+DEP01247,22/01/2024,Loyer & Charges,Électricité,DIRECTION,117500,F CFA,VIREMENT,annulé,N. Kouassi,Non
+DEP00918,13/05/2023,loyer & charges,Loyer bureau,Informatique,1041500,fcfa,Chèque,Annulé,S. Koffi,
+DEP00529,07/05/2026,Transport,Péage,Logistique,,fcfa,CB,En attente,M. Traoré,
+DEP00713,02-01-2024,Divers,Frais de notaire,Informatique,78000,XOF,Carte bancaire,PAYE,N. Kouassi,
+DEP01275,13-09-2024,Fournitures de bureau,Consommables,marketing,7000,F CFA,Chèque,Annulé,N. Kouassi,
+DEP01145,20 Aug 2023,FORMATION,Séminaire,Direction,177500,fcfa,cheque,PAYE,M. Traoré,oui
+DEP00209,2024-12-07,IT,Matériel informatique,marketing,242000,XOF,Espèces,en attente,,
+DEP00358,2025-04-02,Divers,Frais de notaire,ventes,94500,F CFA,carte bancaire,Payé,A. Diabaté,Oui
+DEP01129,09/08/2023,Divers,Frais bancaires,production,12500,XOF,Chèque,,,Non
+DEP00520,05/03/2025,formation,Formation en ligne,marketing,58000,FCFA,carte bancaire,,N. Kouassi,non
+DEP00695,02/26/2023,Charges,Loyer bureau,DIRECTION,479500,fcfa,Carte bancaire,annulé,M. Traoré,
+DEP00125,03/10/2023,Autre,Assurance,Ventes,103000,fcfa,Carte bancaire,Payée,S. Koffi,Non
+DEP00033,02/08/2023,Loyer & Charges,Électricité,marketing,,XOF,Chèque,,A. Diabaté,
+DEP00738,15/04/2024,DIVERS,Frais de notaire,,46000,F CFA,carte bancaire,annulé,S. Koffi,
+DEP01074,08/22/2024,DIVERS,Frais bancaires,LOGISTIQUE,8000,F CFA,cheque,Payé,,
+DEP00039,12/26/2025,informatique,Licence logiciel,INFORMATIQUE,106000,FCFA,carte bancaire,Payée,A. Diabaté,
+DEP00888,2026-08-24,loyer & charges,Électricité,FINANCE,120500,FCFA,CB,Payée,,
+DEP00704,28-11-2025,informatique,Hébergement cloud,marketing,31500,fcfa,especes,Payée,,non
+DEP00102,2024-03-27,Info,Hébergement cloud,finance,60500,fcfa,CB,Payé,,
+DEP00851,2024-04-11,divers,Non catégorisé,Ressources Humaines,30500,FCFA,,En attente,M. Traoré,Non
+DEP00879,11/10/2024,Fourniture bureau,Mobilier bureau,MARKETING,245500,FCFA,cheque,annulé,,Oui
+DEP01196,07/25/2024,formation,Certification,Finance,77500,FCFA,Chèque,annulé,M. Traoré,
+DEP00791,2024-09-07,MARKETING,Impression flyers,Marketing,36000,XOF,,payé,,
+DEP01044,03/04/2025,Deplacements,Taxi/VTC,Informatique,8500,FCFA,Virement,payé,A. Diabaté,oui
+DEP00717,19/07/2023,Loyer & Charges,Électricité,Ventes,64000,F CFA,carte bancaire,PAYE,,
+DEP00739,19-05-2024,formation,Certification,Informatique,73000,fcfa,VIREMENT,En attente,M. Traoré,Non
+DEP00578,29 May 2024,Déplacements,Péage,DIRECTION,2500,FCFA,Virement,Payé,,Oui
+DEP00013,25/06/2024,Loyer & Charges,Électricité,VENTES,89000,F CFA,Carte bancaire,en attente,,non
+DEP01179,23/02/2025,informatique,Maintenance IT,Marketing,60500,F CFA,,En attente,,oui
+DEP01125,03/19/2023,Fourniture bureau,Cartouches encre,Marketing,38000,XOF,VIREMENT,en attente,S. Koffi,Non
+DEP01283,2024-10-25,marketing,,Direction ,95000,XOF,,en attente,S. Koffi,Non
+DEP00324,19-03-2023,FORMATION,Séminaire,LOGISTIQUE,97000,F CFA,Virement,En attente,A. Diabaté,
+DEP00804,01 Sep 2026,MARKETING,Salon professionnel,finance,377500,F CFA,,en attente,A. Diabaté,
+DEP00156,20-02-2025,loyer & charges,Internet/Téléphonie,FINANCE,44500,fcfa,Espèces,Annulé,,Oui
+DEP00555,2026-05-13,Marketing,,ventes,489500,F CFA,Virement,En attente,A. Diabaté,non
+DEP01225,08/05/2025,divers,Frais de notaire,direction,32000,XOF,Chèque,PAYE,A. Diabaté,
+DEP01159,09/20/2023,Autre,Non catégorisé, Direction,24500,F CFA,Virement,Payée,M. Traoré,oui
+DEP00289,04/15/2023,Loyer & Charges,Eau,RESSOURCES HUMAINES,13500,F CFA,Carte bancaire,payé,,oui
+DEP01253,14 Mar 2025,Fourniture bureau,Mobilier bureau,Direction ,300000,F CFA,cheque,PAYE,A. Diabaté,oui
+DEP00274,2024-08-08,FORMATION,Formation en ligne,VENTES,39500,FCFA,Espèces,,,Non
+DEP00268,10/06/2024,Markting,Impression flyers,Direction ,29000,fcfa,VIREMENT,payé,M. Traoré,
+DEP00756,01 Sep 2024,Charges,Eau,ressources humaines,9500,F CFA,Virement,Payé,N. Kouassi,
+DEP00006,02 Mar 2025,Charges,Eau,Finance,12500,F CFA,VIREMENT,Payé,M. Traoré,Oui
+DEP00729,08 Dec 2025,fournitures de bureau,,Direction,10000,XOF,cheque,en attente,,
+DEP00519,2025-03-26,FORMATION,Séminaire,marketing,98500,FCFA,CB,annulé,M. Traoré,Non
+DEP01193,20-03-2024,marketing,Réseaux sociaux,PRODUCTION,65500,fcfa,,payé,S. Koffi,Oui
+DEP00615,18/01/2025,DIVERS,Assurance,Direction,107500,FCFA,Espèces,Payé,A. Diabaté,oui
+DEP01088,29 Aug 2025,IT,Hébergement cloud,finance,29500,fcfa,CB,Payée,,
+DEP00165,22/10/2025,,Non catégorisé,Marketing,18500,FCFA,VIREMENT,en attente,A. Diabaté,Non
+DEP01066,2023-07-09,Info,Licence logiciel,Ventes,94500,fcfa,virement,,M. Traoré,oui
+DEP00926,09/06/2023,Informatique,Licence logiciel,marketing,128000,XOF,Virement,en attente,N. Kouassi,
+DEP00458,31-05-2023,Charges,Eau,marketing,25000,fcfa,Espèces,en attente,,
+DEP01029,12-01-2025,informatique,Hébergement cloud,Direction ,23500,F CFA,CB,Payée,M. Traoré,oui
+DEP00484,21/10/2025,Info,Hébergement cloud,Direction,32000,FCFA,CB,payé,,Non
+DEP00335,2023-07-26,Markting,Réseaux sociaux,Logistique,40500,fcfa,Virement,Annulé,A. Diabaté,Non
+DEP00783,03 Jun 2024,loyer & charges,Eau,INFORMATIQUE,15000,XOF,CB,En attente,A. Diabaté,non
+DEP01220,11 Oct 2024,IT,Matériel informatique,RESSOURCES HUMAINES,543000,XOF,VIREMENT,En attente,A. Diabaté,non
+DEP00728,13-09-2024,Divers,Assurance,Ressources Humaines,162500,fcfa,Virement,Annulé,S. Koffi,Oui
+DEP01299,08/08/2023,déplacements,Billet avion,logistique,203000,F CFA,,En attente,,
+DEP00844,11/02/2026,Restauration,Traiteur événement,Ventes,211000,F CFA,especes,,,
+DEP00606,05 Sep 2024,Resto,Cantine,Production,4000,fcfa,virement,,S. Koffi,
+DEP00120,09/18/2025,divers,Frais de notaire,ressources humaines,52000,F CFA,VIREMENT,Payée,M. Traoré,
+DEP01088,29 Aug 2025,IT,Hébergement cloud,finance,29500,fcfa,CB,Payée,,
+DEP01073,07/04/2023,IT,Maintenance IT,ventes,64500,F CFA,cheque,payé,N. Kouassi,
+DEP00114,22 Sep 2023,Loyer & Charges,Électricité,direction,62500,FCFA,especes,en attente,,
+DEP00349,12 Aug 2026,Formation,Certification,VENTES,156500,XOF,especes,Payé,,non
+DEP01005,04-06-2024,Divers,Frais de notaire,Informatique,64500,F CFA,virement,Payée,,Oui
+DEP00249,15-06-2023,informatique,Maintenance IT,production,52500,FCFA,carte bancaire,PAYE,S. Koffi,oui
+DEP00238,2024-10-07,FORMATION,Certification,Direction,112500,XOF,Espèces,En attente,N. Kouassi,oui
+DEP00042,17/03/2025,restauration,Traiteur événement, Direction,135500,XOF,cheque,PAYE,A. Diabaté,non
+DEP01191,2023-09-19,marketing,Salon professionnel,Direction,293000,F CFA,especes,En attente,N. Kouassi,oui
+DEP00304,01/29/2024,IT,Matériel informatique,direction,300000,XOF,Espèces,Payée,M. Traoré,
+DEP00810,17 May 2023,Charges,Loyer bureau,Ressources Humaines,872500,fcfa,cheque,annulé,,Oui
+DEP00624,01/23/2026,déplacements,Billet avion,production,231500,XOF,Espèces,Payée,A. Diabaté,
+DEP00817,2025-12-22,Fournitures,Consommables,Finance,12500,F CFA,Espèces,payé,M. Traoré,Non
+DEP00460,31-05-2025,FORMATION,Formation en ligne,Direction,28500,fcfa,,Payé,M. Traoré,
+DEP00451,20/03/2023,Déplacements,Billet avion,marketing,547000,F CFA,VIREMENT,,M. Traoré,Oui
+DEP00850,18 Feb 2023,Loyer et charges,Électricité,Informatique,83500,F CFA,carte bancaire,annulé,,Non
+DEP00495,10 Jan 2025,Informatique,Licence logiciel,Logistique,86000,fcfa,virement,En attente,S. Koffi,
+DEP00389,2023-08-22,Charges,Eau,Informatique,22500,FCFA,CB,Payé,,oui
+DEP01126,24/03/2024,déplacements,Carburant,LOGISTIQUE,25000,XOF,VIREMENT,Payée,N. Kouassi,
+DEP00421,2025-07-01,DIVERS,Frais bancaires,Informatique,4500,F CFA,CB,Annulé,,non
+DEP00078,02/21/2024,Déplacements,Taxi/VTC,Production,999999999,fcfa,Virement,annulé,,non
+DEP01211,11/07/2024,Resto,Traiteur événement,direction,237500,fcfa,Chèque,annulé,,Oui
+DEP00377,30 Jun 2025,,Frais de notaire, Direction,88000,F CFA,especes,annulé,S. Koffi,
+DEP01097,05/15/2023,Loyer & Charges,Eau,MARKETING,15500,F CFA,,En attente,M. Traoré,non
+DEP00081,25/11/2023,loyer & charges,Loyer bureau,Direction,1395000,FCFA,VIREMENT,Annulé,,oui
+DEP00858,31-03-2025,Divers,Assurance,finance,124000,FCFA,CB,annulé,N. Kouassi,Non
+DEP00496,05 Jun 2023,RESTAURATION,Traiteur événement,production,284000,fcfa,carte bancaire,en attente,N. Kouassi,oui
+DEP01273,2024-07-25,Loyer & Charges,Internet/Téléphonie,informatique,78500,fcfa,cheque,payé,,Non
+DEP00673,2024-10-01,Fournitures,Cartouches encre,,15500,fcfa,Carte bancaire,PAYE,,Non
+DEP00259,06/24/2024,formation,Séminaire,Finance,87500,FCFA,cheque,payé,A. Diabaté,Non
+DEP00196,12/27/2023,Markting,Impression flyers,informatique,21500,fcfa,Carte bancaire,payé,A. Diabaté,non
+DEP00492,03/11/2023,,Frais bancaires,DIRECTION,7500,F CFA,carte bancaire,Annulé,S. Koffi,
+DEP00711,30 Nov 2024,Resto,Repas d'affaires,Ventes,17500,F CFA,cheque,Payé,,oui
+DEP00161,2026-03-26,Divers,Frais bancaires,INFORMATIQUE,14000,fcfa,CB,PAYE,,non
+DEP00733,17 Mar 2023,MARKETING,Salon professionnel,production,661500,FCFA,carte bancaire,Payé,N. Kouassi,Oui
+DEP00074,22/12/2024,formation,,DIRECTION,35500,XOF,virement,Payé,N. Kouassi,
+DEP00091,23/11/2025,Loyer & Charges,Internet/Téléphonie,Ventes,66500,F CFA,virement,PAYE,A. Diabaté,non
+DEP00872,03/17/2025,Restauration,Traiteur événement,marketing,186000,fcfa,carte bancaire,Payée,A. Diabaté,Oui
+DEP00904,05/04/2023,Charges,Électricité,marketing,37500,XOF,cheque,Payée,,
+DEP00813,2023-06-16,informatique,Matériel informatique,Logistique,291500,FCFA,especes,En attente,S. Koffi,non
+DEP00410,28 Aug 2026,fournitures de bureau,Mobilier bureau,Direction,169500,fcfa,cheque,Payé,A. Diabaté,non
+DEP00902,11/02/2025,DIVERS,Frais bancaires,FINANCE,14000,fcfa,Chèque,payé,,Non
+DEP01284,04/19/2024,fournitures de bureau,Papeterie,DIRECTION,11000,fcfa,especes,,M. Traoré,non
+DEP01089,2023-07-19,,Assurance,Direction,133500,FCFA,virement,Annulé,M. Traoré,
+DEP00070,06/21/2023,marketing,Réseaux sociaux,logistique,52000,fcfa,especes,Payée,,
+DEP00997,15 Jan 2025,FORMATION,Séminaire,VENTES,173000,XOF,cheque,PAYE,,
+DEP00416,29-06-2026,Fournitures de bureau,Consommables,MARKETING,19500,F CFA,cheque,annulé,A. Diabaté,non
+DEP00124,28/05/2026,Deplacements,Hôtel,Informatique,92000,F CFA,CB,Payée,M. Traoré,Oui
+DEP01015,22 Jul 2025,Deplacements,Hôtel,logistique,103500,XOF,cheque,Payée,S. Koffi,Non
+DEP00204,01/09/2026,Transport,Taxi/VTC,RESSOURCES HUMAINES,9000,FCFA,cheque,en attente,,
+DEP00044,2023-08-03,DIVERS,Frais bancaires,informatique,8000,FCFA,especes,En attente,,Non
+DEP01023,31/08/2024,Charges,Électricité,Marketing,71000,FCFA,carte bancaire,En attente,,oui
+DEP01169,08/28/2025,DIVERS,Assurance,INFORMATIQUE,101500,XOF,carte bancaire,En attente,,oui
+DEP00833,13-05-2024,Divers,Frais bancaires,Logistique,13000,FCFA,CB,PAYE,S. Koffi,
+DEP00294,25 Feb 2024,Resto,,FINANCE,5500,fcfa,virement,En attente,N. Kouassi,Non
+DEP01001,13/07/2023,Restauration,Repas d'affaires,direction,32500,F CFA,VIREMENT,Payée,,Oui
+DEP00838,02/28/2024,marketing,Publicité en ligne,MARKETING,127000,FCFA,CB,payé,N. Kouassi,non
+DEP00210,02/25/2025,Formation,Certification,LOGISTIQUE,169000,FCFA,Chèque,Payée,S. Koffi,Oui
+DEP01069,31/10/2023,divers,Frais bancaires,INFORMATIQUE,10000,fcfa,especes,En attente,,
+DEP00046,07-03-2023,divers,Non catégorisé,finance,28000,XOF,Chèque,Payé,A. Diabaté,oui
+DEP00101,03-09-2024,MARKETING,Réseaux sociaux,marketing,38500,fcfa,Carte bancaire,Annulé,,Oui
+DEP00173,06/10/2026,Fourniture bureau,Papeterie,logistique,10000,F CFA,cheque,En attente,A. Diabaté,
+DEP00160,14/11/2024,Fournitures de bureau,Cartouches encre,production,34000,XOF,carte bancaire,En attente,S. Koffi,
+DEP00674,30-12-2024,,Frais de notaire,LOGISTIQUE,,FCFA,Chèque,annulé,M. Traoré,
+DEP01300,23 Mar 2023,Informatique,Matériel informatique,Production,614500,fcfa,Chèque,annulé,,
+DEP01044,03/04/2025,Deplacements,Taxi/VTC,Informatique,8500,FCFA,Virement,payé,A. Diabaté,oui
+DEP00867,25/02/2026,Fourniture bureau,Consommables,ressources humaines,11500,XOF,especes,PAYE,N. Kouassi,Oui
+DEP00746,01-07-2025,Divers,Assurance,finance,152500,fcfa,Espèces,annulé,M. Traoré,
+DEP00373,30 Apr 2026,Resto,Traiteur événement,Finance,392000,FCFA,,PAYE,S. Koffi,Oui
+DEP00015,22/03/2025,Resto,Traiteur événement,Direction,285500,fcfa,cheque,Payée,A. Diabaté,non
+DEP00220,19 Nov 2023,Deplacements,Billet avion,INFORMATIQUE,402000,XOF,cheque,annulé,N. Kouassi,Non
+DEP00620,30-11-2025,RESTAURATION,Repas d'affaires, Direction,20000,FCFA,Chèque,Payé,,Oui
+DEP00891,01-02-2025,Fournitures de bureau,Mobilier bureau,Direction ,257500,FCFA,Chèque,annulé,N. Kouassi,Oui
+DEP00542,28-11-2024,Loyer & Charges,Eau,MARKETING,13000,F CFA,Espèces,Payé,,Oui
+DEP00237,17-06-2023,FORMATION,Certification,PRODUCTION,55500,FCFA,,En attente,N. Kouassi,Oui
+DEP01036,16/02/2023,Divers,Frais de notaire,informatique,69000,FCFA,,PAYE,,oui
+DEP00535,12/04/2024,Autre,Frais de notaire,logistique,104500,F CFA,especes,PAYE,S. Koffi,Non
+DEP00135,27 Oct 2024,Loyer et charges,Loyer bureau,production,933000,fcfa,VIREMENT,payé,M. Traoré,non
+DEP01138,21 Mar 2025,déplacements,Taxi/VTC,FINANCE,7500,FCFA,Espèces,Payée,A. Diabaté,
+DEP00782,04/01/2023,Markting,Publicité en ligne,VENTES,185000,fcfa,Carte bancaire,en attente,N. Kouassi,non
+DEP00143,2026-07-04,Loyer & Charges,Électricité,MARKETING,78000,F CFA,Espèces,Payée,M. Traoré,Oui
+DEP00774,06/09/2025,,Non catégorisé, Direction,11000,XOF,especes,Payé,,
+DEP00325,12 Jun 2023,Loyer & Charges,Internet/Téléphonie,FINANCE,78000,F CFA,virement,Annulé,N. Kouassi,
+DEP00271,2023-05-14,Restauration,Cantine,Logistique,1500,FCFA,,Annulé,M. Traoré,
+DEP00602,17-10-2025,déplacements,Péage,PRODUCTION,2000,FCFA,,En attente,N. Kouassi,
+DEP00696,22-03-2023,FORMATION,Formation en ligne,,47500,F CFA,Carte bancaire,annulé,M. Traoré,oui
+DEP01113,03/02/2024,Loyer et charges,Internet/Téléphonie,INFORMATIQUE,56500,XOF,Virement,annulé,M. Traoré,Oui
+DEP01255,22-11-2023,Info,Hébergement cloud,Finance,59000,fcfa,Virement,Payé,N. Kouassi,
+DEP01201,2023-06-21,FORMATION,Séminaire,finance,99500,fcfa,Virement,En attente,S. Koffi,non
+DEP00652,2024-05-29,RESTAURATION,Repas d'affaires,finance,21500,F CFA,VIREMENT,payé,N. Kouassi,Non
+DEP00864,25/08/2025,Fourniture bureau,Consommables,Marketing,10500,F CFA,Espèces,Payé,N. Kouassi,
+DEP00821,26/03/2024,Fourniture bureau,Consommables,Ventes,10500,fcfa,especes,PAYE,N. Kouassi,Oui
+DEP00406,2024-03-04,Marketing,Impression flyers,Direction ,45500,FCFA,virement,Payé,,
+DEP01085,04/05/2023,Déplacements,Péage,INFORMATIQUE,,XOF,Carte bancaire,PAYE,N. Kouassi,
+DEP00506,02 Feb 2025,DIVERS,Frais bancaires,informatique,12000,F CFA,VIREMENT,annulé,S. Koffi,oui
+DEP00342,20 Jun 2026,Loyer & Charges,Loyer bureau,Ressources Humaines,875000,FCFA,Carte bancaire,annulé,M. Traoré,Oui
+DEP00437,10/12/2024,informatique,Matériel informatique,INFORMATIQUE,672500,fcfa,especes,PAYE,N. Kouassi,non
+DEP00567,09 Jul 2024,restauration,Traiteur événement,marketing,141000,XOF,Virement,Payée,M. Traoré,Non
+DEP00923,04/17/2026,Loyer & Charges,Loyer bureau,INFORMATIQUE,1243000,fcfa,VIREMENT,annulé,S. Koffi,Non
+DEP01021,14 Mar 2025,Formation,Séminaire,RESSOURCES HUMAINES,268500,FCFA,VIREMENT,en attente,A. Diabaté,Oui
+DEP00693,28/12/2024,Divers,Non catégorisé, Direction,30500,XOF,especes,Payée,,oui
+DEP00064,28 Dec 2023,Déplacements,Taxi/VTC,ressources humaines,6000,XOF,especes,annulé,M. Traoré,
+DEP00754,06 Mar 2025,Autre,Non catégorisé,INFORMATIQUE,16000,FCFA,,en attente,M. Traoré,
+DEP00928,16 Sep 2023,Fournitures,Papeterie,FINANCE,20500,FCFA,CB,payé,A. Diabaté,oui
+DEP01161,2025-03-26,Info,Maintenance IT,production,50500,XOF,Virement,en attente,,Oui
+DEP00439,17 Sep 2025,Markting,Publicité en ligne,informatique,154000,XOF,CB,payé,N. Kouassi,
+DEP00518,11 Apr 2026,Fourniture bureau,Cartouches encre,marketing,40500,XOF,Carte bancaire,Payée,,
+DEP00030,02/06/2023,Info,Matériel informatique,Finance,542500,F CFA,virement,En attente,A. Diabaté,Oui
+DEP00158,2026-08-25,Transport,Carburant,PRODUCTION,35500,fcfa,Carte bancaire,PAYE,,
+DEP00681,2024-08-27,RESTAURATION,Traiteur événement,Marketing,,fcfa,CB,Annulé,,non
+DEP00912,20-02-2026,Fournitures,Mobilier bureau,LOGISTIQUE,183500,fcfa,cheque,Payée,,oui
+DEP00254,03/12/2025,Markting,Impression flyers,Ressources Humaines,,FCFA,VIREMENT,en attente,A. Diabaté,non
+DEP00104,2024-11-30,Restauration,Cantine,RESSOURCES HUMAINES,3500,F CFA,Chèque,Annulé,S. Koffi,non
+DEP01166,29 Jan 2023,formation,Séminaire,Direction,,fcfa,Carte bancaire,en attente,A. Diabaté,
+DEP00292,2024-08-11,Resto,Repas d'affaires,production,11000,FCFA,Virement,Payé,N. Kouassi,
+DEP01192,18/10/2023,Divers,Frais de notaire,Informatique,44500,F CFA,cheque,En attente,A. Diabaté,Non
+DEP00092,08 Feb 2023,informatique,Hébergement cloud,DIRECTION,32500,FCFA,Carte bancaire,Annulé,,non
+DEP00732,2025-08-14,marketing,Impression flyers,PRODUCTION,42500,fcfa,Carte bancaire,PAYE,N. Kouassi,
+DEP00012,2025-09-19,formation,Formation en ligne,direction,44000,fcfa,carte bancaire,en attente,A. Diabaté,
+DEP00253,12/06/2023,Informatique,Matériel informatique,Production,458000,XOF,especes,Payé,M. Traoré,Oui
+DEP01262,14 Dec 2024,Fourniture bureau,Papeterie,marketing,19500,fcfa,especes,En attente,N. Kouassi,
+DEP00166,22 Nov 2024,formation,Certification,DIRECTION,72000,fcfa,Espèces,en attente,N. Kouassi,
+DEP00619,2023-09-07,Fourniture bureau,Consommables,Marketing,10000,fcfa,Carte bancaire,annulé,M. Traoré,
+DEP01164,08/17/2025,,,ventes,7000,XOF,Chèque,en attente,S. Koffi,Non
+DEP00550,25 Nov 2025,Deplacements,Péage,Direction,1500,F CFA,CB,annulé,N. Kouassi,Oui
+DEP00361,2024-12-16,Loyer & Charges,Électricité,MARKETING,75000,XOF,Virement,,A. Diabaté,non
+DEP00697,12-06-2026,formation,Séminaire,LOGISTIQUE,160000,FCFA,Espèces,En attente,M. Traoré,oui
+DEP00866,03/09/2024,Divers,Frais bancaires,ressources humaines,10500,F CFA,Espèces,En attente,,oui
+DEP01148,03-06-2025,Transport,Péage, Direction,2500,F CFA,Virement,Payée,,Oui
+DEP00576,24-04-2025,formation,Formation en ligne,Marketing,23500,F CFA,Espèces,payé,N. Kouassi,Non
+DEP00215,01/01/2024,Transport,Billet avion,,,fcfa,carte bancaire,annulé,M. Traoré,oui
+DEP00964,16 Sep 2024,Formation,Formation en ligne,VENTES,,XOF,Virement,annulé,S. Koffi,non
+DEP00387,17/02/2025,Fournitures,Mobilier bureau,Finance,235500,F CFA,virement,payé,S. Koffi,oui
+DEP00684,2026-03-20,Formation,Formation en ligne,Ressources Humaines,57500,fcfa,cheque,payé,M. Traoré,Non
+DEP00573,2023-10-09,,Assurance,production,154000,F CFA,carte bancaire,annulé,M. Traoré,Non
+DEP00988,2026-08-26,déplacements,Péage,Ventes,2000,FCFA,cheque,Payée,A. Diabaté,
+DEP00488,10/04/2023,déplacements,Taxi/VTC,production,3000,F CFA,Espèces,Payée,M. Traoré,
+DEP01272,09/20/2025,Divers,,Direction ,,fcfa,,annulé,,oui
+DEP00558,08/01/2024,formation,Formation en ligne,INFORMATIQUE,50000,FCFA,Espèces,Annulé,N. Kouassi,Oui
+DEP00057,13 Feb 2026,déplacements,Carburant,DIRECTION,33000,FCFA,Carte bancaire,PAYE,,Non
+DEP00399,09-01-2026,Markting,Impression flyers, Direction,,XOF,Carte bancaire,PAYE,A. Diabaté,oui
+DEP00106,01/02/2025,Autre,Assurance,,168500,fcfa,Carte bancaire,En attente,,
+DEP00633,11/08/2024,Loyer et charges,Loyer bureau,PRODUCTION,523500,XOF,VIREMENT,en attente,A. Diabaté,Oui
+DEP00735,19-07-2023,Fourniture bureau,Papeterie,VENTES,,fcfa,Virement,PAYE,M. Traoré,Oui
+DEP00664,2024-02-08,Informatique,Maintenance IT,VENTES,49000,FCFA,VIREMENT,Payé,N. Kouassi,non
+DEP00411,2023-03-02,Resto,Traiteur événement,Direction ,217000,FCFA,Virement,annulé,N. Kouassi,Oui
+DEP00376,2026-07-21,Fourniture bureau,Cartouches encre,Informatique,21500,F CFA,Chèque,PAYE,N. Kouassi,Oui
+DEP00002,2024-04-20,Loyer et charges,Loyer bureau,LOGISTIQUE,,F CFA,Virement,annulé,,non
+DEP00799,19-11-2025,formation,Séminaire,DIRECTION,107000,F CFA,Virement,En attente,,oui
+DEP01114,01/26/2026,Markting,Réseaux sociaux,VENTES,40000,XOF,especes,PAYE,S. Koffi,
+DEP00527,11/28/2025,Markting,Réseaux sociaux, Direction,70500,FCFA,Espèces,Annulé,,Non
+DEP00218,12 Apr 2023,Informatique,Maintenance IT,VENTES,90000,XOF,Virement,Payé,N. Kouassi,Oui
+DEP00001,24-07-2026,RESTAURATION,Traiteur événement,Logistique,216500,fcfa,especes,En attente,N. Kouassi,Oui
+DEP00051,02/02/2026,restauration,Repas d'affaires,RESSOURCES HUMAINES,11500,F CFA,virement,payé,N. Kouassi,oui
+DEP00613,10/06/2026,Divers,Frais de notaire,direction,34500,XOF,especes,En attente,S. Koffi,oui
+DEP00532,2025-12-07,Restauration,Repas d'affaires,ventes,18000,fcfa,cheque,En attente,,Non
+DEP01020,2023-04-15,Fournitures de bureau,Cartouches encre,marketing,15500,F CFA,Carte bancaire,En attente,A. Diabaté,
+DEP01070,10/27/2024,RESTAURATION,Traiteur événement,informatique,315000,fcfa,Espèces,payé,,
+DEP00262,03/17/2023,RESTAURATION,Repas d'affaires,production,14000,XOF,,Annulé,S. Koffi,oui
+DEP00524,11/20/2023,IT,Matériel informatique,Direction,430000,F CFA,Espèces,Annulé,S. Koffi,oui
+DEP00767,11-02-2026,Déplacements,Hôtel,ressources humaines,54500,FCFA,VIREMENT,payé,S. Koffi,non
+DEP00397,03/08/2023,Resto,Traiteur événement,INFORMATIQUE,223000,F CFA,especes,annulé,A. Diabaté,
+DEP00260,08/17/2025,,Frais de notaire,marketing,65500,fcfa,especes,en attente,,non
+DEP00822,04/03/2024,Transport,Taxi/VTC,ventes,3000,XOF,CB,Payé,A. Diabaté,Non
+DEP00494,14/03/2023,Fournitures,Papeterie,direction,21500,fcfa,Espèces,En attente,A. Diabaté,
+DEP01082,23 Sep 2023,Charges,Électricité,Marketing,81500,fcfa,CB,annulé,N. Kouassi,oui
+DEP00671,03/26/2023,Loyer et charges,Eau,logistique,19000,XOF,Virement,Annulé,S. Koffi,
+DEP01004,04/07/2026,Resto,Repas d'affaires,RESSOURCES HUMAINES,21000,F CFA,especes,Annulé,,
+DEP00710,06/08/2026,Markting,Publicité en ligne,PRODUCTION,,XOF,Virement,payé,,
+DEP00970,05 Nov 2023,Loyer et charges,Loyer bureau,DIRECTION,866500,XOF,Espèces,Payée,,non
+DEP00118,2025-11-08,RESTAURATION,Traiteur événement,logistique,164000,fcfa,cheque,Payée,N. Kouassi,Non
+DEP00491,25-09-2025,déplacements,Billet avion,MARKETING,,XOF,virement,en attente,A. Diabaté,oui
+DEP00762,2024-07-19,FORMATION,Certification,informatique,57000,F CFA,CB,payé,,Oui
+DEP00194,2024-05-25,Loyer et charges,Eau,  Direction  ,9500,fcfa,especes,PAYE,N. Kouassi,Non
+DEP00749,05-06-2026,Fournitures de bureau,Cartouches encre,marketing,26000,fcfa,CB,annulé,M. Traoré,Non
+DEP00227,03/25/2023,Divers,Frais de notaire,FINANCE,71000,fcfa,CB,en attente,N. Kouassi,
+DEP00178,05 Sep 2025,marketing,Publicité en ligne,Direction,109500,XOF,VIREMENT,Annulé,S. Koffi,Oui
+DEP00967,12/25/2025,Deplacements,Billet avion,MARKETING,362000,XOF,CB,en attente,A. Diabaté,Non
+DEP01199,2025-09-24,divers,Frais bancaires,PRODUCTION,4500,FCFA,virement,Payé,M. Traoré,
+DEP01264,10/06/2025,MARKETING,Réseaux sociaux,Production,71500,FCFA,Espèces,en attente,,Non
+DEP01062,24-02-2025,Restauration,Repas d'affaires,VENTES,24500,XOF,especes,annulé,M. Traoré,oui
+DEP01086,29/03/2024,Déplacements,Hôtel,Informatique,60000,fcfa,CB,,S. Koffi,Oui
+DEP00355,21-04-2023,Resto,Repas d'affaires,marketing,15000,F CFA,,Annulé,N. Kouassi,non
+DEP01136,2025-04-22,Marketing,Salon professionnel,marketing,505000,FCFA,Espèces,,N. Kouassi,
+DEP00256,11/09/2024,Fournitures,Mobilier bureau,production,121000,FCFA,Virement,Payée,,Oui
+DEP00751,26/07/2026,DIVERS,Assurance,VENTES,112500,fcfa,CB,annulé,,Non
+DEP00617,17 Jul 2024,informatique,Licence logiciel,Finance,65000,F CFA,Virement,Payée,,Oui
+DEP00865,01/12/2024,divers,Frais de notaire,LOGISTIQUE,102000,FCFA,Carte bancaire,PAYE,N. Kouassi,non
+DEP00243,04/06/2026,marketing,,PRODUCTION,32500,F CFA,Espèces,annulé,M. Traoré,Non
+DEP00572,21 May 2024,Marketing,Impression flyers,Ressources Humaines,20500,FCFA,carte bancaire,Payée,,Non
+DEP00404,18/06/2026,Fourniture bureau,Cartouches encre,VENTES,25000,fcfa,especes,payé,,non
+DEP01226,2024-08-14,MARKETING,Salon professionnel,marketing,701500,fcfa,Carte bancaire,Annulé,,oui
+DEP00247,05/25/2025,Markting,Publicité en ligne,Informatique,166500,FCFA,virement,En attente,A. Diabaté,
+DEP01103,25 Jun 2023,Info,Maintenance IT, Direction,30500,F CFA,carte bancaire,Annulé,M. Traoré,Oui
+DEP01200,06/06/2023,formation,Séminaire,production,201500,F CFA,especes,Payé,,
+DEP01019,2023-05-31,RESTAURATION,,Direction ,,FCFA,Virement,annulé,S. Koffi,Oui
+DEP00787,21-05-2023,Resto,Traiteur événement,LOGISTIQUE,246500,F CFA,cheque,Annulé,M. Traoré,
+DEP01260,30 Jan 2023,Transport,Hôtel,direction,38500,F CFA,CB,Payé,M. Traoré,
+DEP00757,16-07-2024,Fournitures de bureau,Mobilier bureau,FINANCE,309500,fcfa,cheque,Payée,,
+DEP01016,2024-10-03,Markting,Salon professionnel,Informatique,363000,FCFA,,annulé,A. Diabaté,Non
+DEP00321,14 Feb 2026,formation,Séminaire,ressources humaines,86000,F CFA,Chèque,PAYE,A. Diabaté,Non
+DEP00384,01/05/2024,déplacements,Billet avion,Ventes,562000,F CFA,cheque,Payée,,Non
+DEP01058,20/03/2024,Formation,Certification,finance,147500,fcfa,Virement,Annulé,A. Diabaté,Non
+DEP00113,2025-04-22,déplacements,Taxi/VTC,ventes,5000,XOF,virement,PAYE,M. Traoré,Non
+DEP01011,05-07-2023,FORMATION,Séminaire,finance,138500,XOF,Carte bancaire,En attente,A. Diabaté,Oui
+DEP00785,2024-04-06,Autre,Assurance,Marketing,151000,F CFA,CB,En attente,,Oui
+DEP01047,01/01/2023,IT,Matériel informatique,INFORMATIQUE,720000,XOF,cheque,En attente,N. Kouassi,Non
+DEP00242,01/18/2023,Info,Licence logiciel,MARKETING,157500,F CFA,Chèque,en attente,S. Koffi,
+DEP00470,19 Dec 2024,Divers,Non catégorisé,production,24000,FCFA,carte bancaire,,M. Traoré,oui
+DEP00455,01/06/2025,informatique,Maintenance IT,ventes,88500,fcfa,virement,Annulé,,Oui
+DEP00620,30-11-2025,RESTAURATION,Repas d'affaires, Direction,20000,FCFA,Chèque,Payé,,Oui
+DEP00025,28-02-2023,Informatique,Hébergement cloud,informatique,,fcfa,VIREMENT,En attente,,
+DEP00954,06/06/2023,fournitures de bureau,Cartouches encre,Logistique,34000,F CFA,carte bancaire,annulé,N. Kouassi,Oui
+DEP00004,01/04/2025,Resto,Cantine,Production,3500,F CFA,Virement,En attente,N. Kouassi,oui
+DEP00657,2024-08-11,Resto,Cantine, Direction,5000,FCFA,Virement,en attente,N. Kouassi,
+DEP01285,18/11/2023,Fournitures,Mobilier bureau,ressources humaines,317500,F CFA,CB,Payée,,non
+DEP00154,10 Jul 2026,Deplacements,,production,3500,XOF,especes,Payé,A. Diabaté,Non
+DEP00498,2026-03-11,Fourniture bureau,Cartouches encre,Ressources Humaines,31000,F CFA,Espèces,Annulé,A. Diabaté,oui
+DEP00192,28 Mar 2023,divers,Frais bancaires, Direction,14000,F CFA,CB,PAYE,,Oui
+DEP00326,16-12-2025,formation,Séminaire,FINANCE,226500,FCFA,,Payé,,
+DEP00752,04-06-2025,Fourniture bureau,Cartouches encre,DIRECTION,29000,XOF,CB,Payée,M. Traoré,
+DEP00540,16/09/2025,Deplacements,Taxi/VTC,logistique,3500,FCFA,Espèces,Payé,M. Traoré,non
+DEP01143,2025-03-25,informatique,Matériel informatique,Marketing,519000,XOF,Virement,Payée,S. Koffi,
+DEP00311,31-12-2023,Divers,Non catégorisé,Ventes,16500,F CFA,CB,annulé,S. Koffi,oui
+DEP01160,31 Aug 2023,Markting,Publicité en ligne,,194500,XOF,carte bancaire,,,Non
+DEP00223,02/17/2024,Informatique,Matériel informatique,production,451500,F CFA,Carte bancaire,Payé,N. Kouassi,non
+DEP00339,24/10/2023,Resto,Traiteur événement,Informatique,366000,FCFA,Virement,annulé,N. Kouassi,
+DEP00212,12 Oct 2025,,Frais bancaires,Marketing,11000,FCFA,CB,PAYE,A. Diabaté,
+DEP00486,19/11/2024,fournitures de bureau,Papeterie,ventes,13500,F CFA,VIREMENT,payé,M. Traoré,non
+DEP00878,2026-08-30,restauration,Traiteur événement,VENTES,403500,fcfa,Espèces,,,Oui
+DEP00302,2024-06-23,Informatique,Maintenance IT,Direction,100500,XOF,carte bancaire,,A. Diabaté,Non
+DEP00319,2026-07-30,MARKETING,Réseaux sociaux,Direction,62000,FCFA,carte bancaire,Payé,N. Kouassi,Non
+DEP00277,23 Nov 2024,restauration,Repas d'affaires,VENTES,11000,FCFA,carte bancaire,en attente,,
+DEP01081,15/09/2023,FORMATION,Séminaire,Direction,128500,XOF,Chèque,Payée,,oui
+DEP00024,10 Aug 2023,Markting,Réseaux sociaux,Production,71500,fcfa,Espèces,Annulé,S. Koffi,
+DEP00476,29/05/2025,IT,Hébergement cloud,Informatique,N/A,F CFA,Espèces,En attente,A. Diabaté,Oui
+DEP00236,07/27/2023,Formation,Certification,Ressources Humaines,93000,XOF,CB,Annulé,M. Traoré,
+DEP00772,06/09/2023,Fourniture bureau,Papeterie,Ventes,23500,XOF,carte bancaire,Payé,,
+DEP00771,28 Jun 2023,Marketing,Salon professionnel,finance,811500,FCFA,carte bancaire,En attente,M. Traoré,Non
+DEP00053,01/02/2025,loyer & charges,Eau,production,24500,F CFA,Virement,Payé,M. Traoré,
+DEP00164,12/03/2024,fournitures de bureau,Consommables,Ressources Humaines,12000,fcfa,,,A. Diabaté,Oui
+DEP00492,03/11/2023,,Frais bancaires,DIRECTION,7500,F CFA,carte bancaire,Annulé,S. Koffi,
+DEP00994,05/04/2026,informatique,Licence logiciel,Informatique,114500,fcfa,Espèces,En attente,,
+DEP00390,03/30/2026,Informatique,Maintenance IT,PRODUCTION,82000,F CFA,especes,payé,A. Diabaté,Non
+DEP00175,2026-07-27,Charges,Électricité,Marketing,117000,XOF,Virement,payé,,Non
+DEP01060,29 Oct 2024,Charges,Électricité,VENTES,57500,fcfa,cheque,Payé,N. Kouassi,
+DEP00986,06/02/2026,Informatique,Matériel informatique,Ventes,513000,FCFA,virement,Payée,,non
+DEP00095,2023-06-15,Charges,Eau,informatique,19000,XOF,Virement,Annulé,S. Koffi,oui
+DEP00989,16-01-2026,Charges,Électricité,Marketing,110500,fcfa,Carte bancaire,en attente,,oui
+DEP01106,10/01/2024,DIVERS,Assurance,INFORMATIQUE,71000,fcfa,Virement,Annulé,N. Kouassi,oui
+DEP00138,03 May 2024,marketing,Réseaux sociaux,Informatique,68000,F CFA,cheque,en attente,M. Traoré,
+DEP00682,10/07/2025,restauration,Repas d'affaires,ventes,,F CFA,virement,En attente,,
+DEP00464,2024-11-30,Loyer et charges,Loyer bureau,Informatique,959500,F CFA,CB,Payée,,non
+DEP00239,23 Nov 2024,Charges,Eau,FINANCE,9000,F CFA,CB,PAYE,,Oui
+DEP00240,18/11/2023,Fournitures,Consommables,informatique,13500,fcfa,especes,annulé,A. Diabaté,oui
+DEP01219,23-02-2025,MARKETING,Publicité en ligne,logistique,193500,F CFA,carte bancaire,,,Non
+DEP00695,02/26/2023,Charges,Loyer bureau,DIRECTION,0,fcfa,Carte bancaire,annulé,M. Traoré,
+DEP01045,12/03/2025,déplacements,Hôtel,Marketing,32500,fcfa,CB,Payée,N. Kouassi,
+DEP01131,08/25/2025,Loyer et charges,Électricité,LOGISTIQUE,94000,XOF,Carte bancaire,Annulé,,Non
+DEP01238,10/05/2025,Loyer & Charges,,Ventes,84000,XOF,virement,Payé,,Non
+DEP00643,2024-02-02,Fourniture bureau,Mobilier bureau,LOGISTIQUE,107000,FCFA,carte bancaire,PAYE,M. Traoré,Non
+DEP00517,21 Oct 2025,Fournitures,Consommables,Ressources Humaines,11000,XOF,carte bancaire,payé,A. Diabaté,Oui
+DEP00829,26 Jul 2023,marketing,,ressources humaines,,fcfa,Carte bancaire,,S. Koffi,
+DEP00690,2023-02-19,Markting,Réseaux sociaux, Direction,38000,F CFA,Carte bancaire,en attente,,
+DEP00510,14 Dec 2023,Fournitures,Cartouches encre,MARKETING,36500,F CFA,especes,payé,A. Diabaté,Non
+DEP00769,2023-01-25,marketing,Réseaux sociaux,Ventes,35000,fcfa,Virement,Annulé,A. Diabaté,non
+DEP00541,17-12-2025,Fournitures de bureau,Consommables,marketing,15500,FCFA,VIREMENT,Payé,,Oui
+DEP00059,24/05/2024,Fournitures,Cartouches encre,,36500,fcfa,,en attente,,
+DEP01248,08/12/2025,Fourniture bureau,Cartouches encre,Ventes,20000,fcfa,VIREMENT,Payé,S. Koffi,oui
+DEP00737,22-04-2026,Restauration,Cantine,direction,2500,fcfa,Espèces,en attente,M. Traoré,
+DEP00286,07-11-2023,Marketing,Publicité en ligne,Marketing,150000,FCFA,Virement,annulé,,
+DEP00117,28/06/2025,Marketing,Salon professionnel,Ventes,505000,FCFA,CB,En attente,A. Diabaté,
+DEP00360,11-03-2023,Divers,Frais de notaire, Direction,73000,FCFA,virement,En attente,M. Traoré,Oui
+DEP01183,21 Jan 2026,Fournitures de bureau,Cartouches encre,PRODUCTION,,fcfa,Chèque,,,
+DEP00210,02/25/2025,Formation,Certification,LOGISTIQUE,169000,FCFA,Chèque,Payée,S. Koffi,Oui
+DEP01202,19 Jan 2023,Loyer et charges,Loyer bureau,ventes,520000,F CFA,especes,Annulé,S. Koffi,
+DEP00668,04/16/2026,Loyer & Charges,Loyer bureau,direction,608500,F CFA,Carte bancaire,annulé,A. Diabaté,non
+DEP01208,25/10/2023,fournitures de bureau,Cartouches encre,Finance,17500,FCFA,Carte bancaire,En attente,M. Traoré,
+DEP00185,05/25/2023,Fournitures,Consommables,Production,16000,FCFA,carte bancaire,payé,S. Koffi,
+DEP00382,12 Aug 2026,Déplacements,Taxi/VTC,RESSOURCES HUMAINES,6000,XOF,Chèque,Payée,M. Traoré,Non
+DEP00721,10 Feb 2023,DIVERS,Frais bancaires,INFORMATIQUE,5500,FCFA,cheque,en attente,,Non
+DEP00096,11/03/2026,restauration,Cantine,informatique,1500,fcfa,Chèque,,,
+DEP01185,04/10/2025,Formation,Séminaire,DIRECTION,130000,FCFA,VIREMENT,En attente,M. Traoré,oui
+DEP00698,03/09/2024,Deplacements,Carburant,Direction ,35000,F CFA,CB,annulé,N. Kouassi,Non
+DEP00216,05/08/2023,Charges,Eau,INFORMATIQUE,,fcfa,CB,Payé,N. Kouassi,non
+DEP00088,11-01-2025,formation,Séminaire,ressources humaines,239000,F CFA,carte bancaire,Payé,,Oui
+DEP01040,2025-11-11,divers,Assurance,finance,169500,FCFA,,,S. Koffi,Oui
+DEP00331,07/03/2024,Fourniture bureau,Papeterie,Informatique,9000,F CFA,Chèque,Annulé,M. Traoré,oui
+DEP00163,06/16/2024,Fourniture bureau,Cartouches encre,direction,38500,FCFA,especes,Payée,N. Kouassi,Oui
+DEP01065,19-08-2025,Déplacements,Taxi/VTC,Logistique,7000,FCFA,VIREMENT,Payée,N. Kouassi,oui
+DEP00627,09/07/2025,FORMATION,Formation en ligne,marketing,35500,XOF,Espèces,PAYE,S. Koffi,Oui
+DEP01218,14/08/2026,Divers,Assurance,Informatique,103000,FCFA,carte bancaire,payé,,oui
+DEP00133,2025-06-02,Charges,Internet/Téléphonie,Production,61500,FCFA,VIREMENT,En attente,,
+DEP00142,2026-06-21,DIVERS,Non catégorisé,FINANCE,31000,fcfa,Virement,payé,A. Diabaté,non
+DEP00427,04 Nov 2025,Transport,Carburant,Logistique,26500,fcfa,especes,en attente,,oui
+DEP01032,2024-04-18,Loyer & Charges,Eau,production,18000,fcfa,cheque,Annulé,A. Diabaté,non
+DEP00884,2025-04-18,Resto,Repas d'affaires,ressources humaines,32000,fcfa,cheque,En attente,M. Traoré,
+DEP00071,2023-06-23,Fournitures,Consommables,RESSOURCES HUMAINES,20000,fcfa,especes,payé,,Oui
+DEP00806,11 Mar 2026,FORMATION,Formation en ligne,Finance,60000,XOF,CB,en attente,M. Traoré,non
+DEP00993,14-04-2024,Formation,Séminaire,FINANCE,227000,F CFA,Virement,Annulé,,oui
+DEP00670,22-09-2025,fournitures de bureau,Cartouches encre, Direction,28500,F CFA,cheque,annulé,,Oui
+DEP01172,2023-04-08,Marketing,Réseaux sociaux,VENTES,24000,F CFA,VIREMENT,Annulé,M. Traoré,Non
+DEP00543,2024-06-13,déplacements,Hôtel,VENTES,62000,F CFA,Chèque,Payé,,oui
+DEP00224,2023-01-28,fournitures de bureau,Papeterie,MARKETING,25000,F CFA,carte bancaire,payé,M. Traoré,
+DEP01213,12 Apr 2026,Fournitures de bureau,Cartouches encre,marketing,34500,FCFA,especes,en attente,M. Traoré,Oui
+DEP00169,15/01/2024,Resto,Repas d'affaires,logistique,9500,fcfa,carte bancaire,payé,M. Traoré,
+DEP01154,18 Feb 2023,loyer & charges,Eau,production,14500,fcfa,cheque,payé,,oui
+DEP00333,04 Jul 2024,RESTAURATION,Traiteur événement,production,382500,FCFA,,Payé,,
+DEP00989,16-01-2026,Charges,Électricité,Marketing,110500,fcfa,Carte bancaire,en attente,,oui
+DEP00028,06-05-2024,Charges,Internet/Téléphonie,RESSOURCES HUMAINES,80500,FCFA,VIREMENT,en attente,A. Diabaté,non
+DEP00731,23/11/2024,Formation,Formation en ligne,Ventes,33000,fcfa,Chèque,En attente,,
+DEP00764,2024-11-09,Fourniture bureau,Mobilier bureau,Ventes,288500,F CFA,especes,En attente,N. Kouassi,
+DEP00765,2023-06-21,restauration,Traiteur événement,VENTES,357000,FCFA,virement,Annulé,,
+DEP01229,16/08/2026,Déplacements,Carburant,Direction ,30000,XOF,Virement,PAYE,A. Diabaté,Non
+DEP00222,2024-03-21,formation,Formation en ligne,Logistique,30000,F CFA,CB,en attente,S. Koffi,oui
+DEP00261,24 Jul 2025,informatique,Licence logiciel,Logistique,122500,XOF,Carte bancaire,PAYE,,Oui
+DEP01142,21-01-2025,Loyer et charges,Électricité,Direction,125500,fcfa,VIREMENT,PAYE,,
+DEP00892,26/08/2026,marketing,,FINANCE,118000,F CFA,Carte bancaire,Annulé,A. Diabaté,Non
+DEP00285,07 Dec 2025,Deplacements,Carburant,logistique,22500,F CFA,Virement,En attente,N. Kouassi,Oui
+DEP00855,28-05-2026,Loyer & Charges,Eau,finance,20000,XOF,Carte bancaire,Payée,,Oui
+DEP00257,2023-06-28,Fournitures,Cartouches encre,ressources humaines,29000,XOF,Carte bancaire,Annulé,,oui
+DEP00032,24-01-2024,Restauration,Cantine,marketing,3000,fcfa,Virement,Payé,,non
+DEP00061,09/12/2023,formation,Formation en ligne,Informatique,50500,XOF,cheque,en attente,A. Diabaté,
+DEP01165,16 Jul 2025,Fournitures de bureau,Papeterie,informatique,20500,F CFA,,Payée,M. Traoré,
+DEP00611,02/07/2024,Formation,Certification,informatique,152000,fcfa,Carte bancaire,payé,N. Kouassi,Non
+DEP00943,17 Mar 2024,IT,Matériel informatique,Logistique,673500,fcfa,cheque,,N. Kouassi,non
+DEP00415,12/22/2024,Markting,Publicité en ligne,Ressources Humaines,210000,F CFA,carte bancaire,payé,A. Diabaté,
+DEP00849,2026-09-05,Informatique,Licence logiciel,ventes,999999999,FCFA,virement,payé,M. Traoré,oui
+DEP01153,09 Feb 2023,déplacements,Péage,Finance,3500,FCFA,CB,En attente,A. Diabaté,non
+DEP01239,27-07-2024,,Frais bancaires,ventes,14000,XOF,cheque,Payée,A. Diabaté,oui
+DEP00055,20/04/2023,MARKETING,Réseaux sociaux,FINANCE,26000,F CFA,virement,Annulé,A. Diabaté,
+DEP00328,11-07-2023,DIVERS,Frais de notaire,informatique,86000,F CFA,Carte bancaire,PAYE,N. Kouassi,Oui
+DEP00533,2023-10-06,Divers,Non catégorisé,marketing,13500,FCFA,CB,Payé,S. Koffi,
+DEP00688,07-03-2026,Loyer & Charges,Internet/Téléphonie,Marketing,29000,fcfa,carte bancaire,Payé,S. Koffi,
+DEP00043,28 Jan 2025,Divers,Frais bancaires,Ventes,13500,XOF,especes,PAYE,S. Koffi,non
+DEP00167,2024-10-12,divers,Assurance,Logistique,149000,FCFA,carte bancaire,PAYE,S. Koffi,Non
+DEP00863,09/30/2025,DIVERS,Assurance,production,150500,F CFA,Virement,payé,N. Kouassi,non
+DEP00955,03/18/2026,Fournitures de bureau,Cartouches encre, Direction,42000,FCFA,Virement,en attente,M. Traoré,Oui
+DEP00423,31 Jan 2023,Marketing,Salon professionnel,Logistique,268000,XOF,cheque,en attente,S. Koffi,Oui
+DEP00544,23-07-2023,formation,Certification,PRODUCTION,79000,fcfa,VIREMENT,annulé,,
+DEP00723,01/17/2025,divers,Frais de notaire,Direction,100000,XOF,carte bancaire,payé,,
+DEP00345,26/04/2026,Loyer et charges,Eau,INFORMATIQUE,16000,F CFA,Espèces,annulé,,
+DEP00876,18 Mar 2025,Info,Hébergement cloud,DIRECTION,66500,FCFA,cheque,Annulé,N. Kouassi,non
+DEP00381,07-07-2023,Déplacements,Hôtel,  production  ,,FCFA,Espèces,Payé,N. Kouassi,oui
+DEP00809,25 Jun 2024,Resto,Repas d'affaires,  Informatique  ,,fcfa,VIREMENT,Annulé,M. Traoré,
+DEP00100,19-02-2024,informatique,Maintenance IT,direction,103500,FCFA,CB,Payée,A. Diabaté,
+DEP00976,2026-07-30,Deplacements,Hôtel,Production,56500,FCFA,Chèque,en attente,N. Kouassi,
+DEP00600,10/02/2025,Fournitures de bureau,Consommables,PRODUCTION,8500,FCFA,,PAYE,M. Traoré,oui
+DEP01036,16/02/2023,Divers,Frais de notaire,informatique,inconnu,FCFA,,PAYE,,oui
+DEP01249,29/04/2025,Restauration,Repas d'affaires,  Direction   ,24000,XOF,CB,en attente,,non
+DEP01168,05 Mar 2025,Deplacements,Hôtel,Logistique,48000,FCFA,CB,En attente,S. Koffi,non
+DEP01012,03-01-2026,Loyer & Charges,Internet/Téléphonie,logistique,68000,XOF,VIREMENT,Payée,N. Kouassi,oui
+DEP00398,2023-12-24,fournitures de bureau,Mobilier bureau,Ventes,157000,F CFA,virement,en attente,N. Kouassi,Non
+DEP00848,10/12/2025,Fourniture bureau,Consommables,Direction ,7500,FCFA,especes,En attente,,oui
+DEP00079,29-01-2024,Markting,Impression flyers,ressources humaines,15500,F CFA,Espèces,En attente,,
+DEP00322,15-08-2024,informatique,Hébergement cloud,logistique,,FCFA,,En attente,N. Kouassi,Oui
+DEP00887,20-09-2024,fournitures de bureau,Mobilier bureau,ressources humaines,99000,XOF,Espèces,Payée,,
+DEP00916,2023-03-14,Loyer et charges,Eau,Marketing,16500,fcfa,cheque,Payé,,
+DEP00906,07/05/2024,,Assurance, Direction,128000,XOF,Carte bancaire,Payée,S. Koffi,
+DEP00447,01/02/2026,Fournitures,Cartouches encre,Direction ,24000,XOF,carte bancaire,annulé,N. Kouassi,Oui
+DEP00776,02/15/2026,Autre,Assurance,Marketing,191500,F CFA,,En attente,A. Diabaté,
+DEP00278,13/06/2026,Fournitures de bureau,Papeterie,ventes,13000,fcfa,Chèque,payé,,Non
+DEP00251,2023-09-09,divers,Assurance,Direction,215000,XOF,Espèces,En attente,A. Diabaté,oui
+DEP01053,03-07-2024,IT,Maintenance IT,Logistique,76500,fcfa,virement,Payée,N. Kouassi,Oui
+DEP00996,2024-02-19,DIVERS,Frais bancaires, Direction,8500,FCFA,Carte bancaire,PAYE,,Non
+DEP00084,23 Jul 2023,déplacements,Hôtel,finance,,FCFA,Virement,annulé,,Non
+DEP00402,01/27/2025,FORMATION,Formation en ligne,,46000,XOF,especes,Annulé,A. Diabaté,non
+DEP00073,03/04/2026,divers,Frais de notaire, Direction,53500,XOF,Carte bancaire,payé,A. Diabaté,oui
+DEP00556,27-06-2023,Loyer & Charges,Électricité,Ressources Humaines,85000,fcfa,Virement,Payé,,oui
+DEP00308,2023-06-24,Informatique,Matériel informatique,Ressources Humaines,378500,FCFA,cheque,Payé,N. Kouassi,
+DEP00417,17-01-2023,DIVERS,Frais bancaires,Direction ,8000,FCFA,CB,Annulé,N. Kouassi,
+DEP00998,04/11/2026,Charges,Électricité,Production,44000,FCFA,especes,annulé,S. Koffi,Non
+DEP00962,24/05/2025,Deplacements,Carburant,VENTES,,fcfa,VIREMENT,en attente,,Oui
+DEP00419,06/14/2024,DIVERS,Frais bancaires,Marketing,10500,FCFA,Espèces,En attente,,Oui
+DEP01072,2024-02-19,,Frais bancaires,marketing,8500,XOF,cheque,en attente,A. Diabaté,non
+DEP00115,15-07-2026,FORMATION,Certification,Finance,119000,FCFA,cheque,en attente,A. Diabaté,non
+DEP00614,27/08/2026,Informatique,Maintenance IT,production,85000,F CFA,Espèces,En attente,N. Kouassi,oui
+DEP01022,25-03-2023,MARKETING,Impression flyers,MARKETING,38500,fcfa,Virement,Annulé,S. Koffi,
+DEP01256,09-06-2023,Deplacements,Péage,direction,2500,FCFA,,PAYE,N. Kouassi,
+DEP00037,2024-02-28,RESTAURATION,Cantine,INFORMATIQUE,2500,XOF,Chèque,PAYE,,Non
+DEP00409,09 Jul 2024,Fournitures,Cartouches encre,,40000,fcfa,especes,annulé,S. Koffi,oui
+DEP01215,2023-09-22,Loyer et charges,Internet/Téléphonie,ressources humaines,29500,XOF,Espèces,Payé,N. Kouassi,Oui
+DEP00433,10-01-2024,Restauration,Cantine,LOGISTIQUE,5000,fcfa,CB,en attente,S. Koffi,Non
+DEP01228,02/11/2023,IT,Maintenance IT,Production,41000,fcfa,Chèque,Payé,S. Koffi,
+DEP01211,11/07/2024,Resto,Traiteur événement,direction,237500,fcfa,Chèque,annulé,,Oui
+DEP00155,06/12/2023,Fournitures de bureau,,production,18500,F CFA,Carte bancaire,Payée,S. Koffi,
+DEP00881,30-10-2024,DIVERS,Frais de notaire,Ventes,71500,fcfa,Carte bancaire,en attente,,
+DEP00747,09/06/2026,fournitures de bureau,Cartouches encre,LOGISTIQUE,31500,FCFA,virement,en attente,M. Traoré,
+DEP00493,30-01-2025,Restauration,Repas d'affaires,ressources humaines,16500,fcfa,carte bancaire,en attente,S. Koffi,
+DEP00346,17 Feb 2025,FORMATION,Formation en ligne,Ressources Humaines,31500,F CFA,CB,En attente,A. Diabaté,
+DEP00699,2023-01-17,Fourniture bureau,Consommables,Marketing,20500,fcfa,carte bancaire,annulé,M. Traoré,
+DEP00235,2023-01-21,Loyer et charges,Eau,ventes,15500,F CFA,cheque,annulé,,
+DEP00414,09 Jun 2026,Informatique,Maintenance IT,FINANCE,50000,FCFA,virement,en attente,M. Traoré,
+DEP00449,10/11/2024,Deplacements,Taxi/VTC,LOGISTIQUE,8500,fcfa,VIREMENT,Payée,M. Traoré,
+DEP00630,2026-05-23,Deplacements,Péage,finance,2000,FCFA,Carte bancaire,payé,,Oui
+DEP01282,23-02-2023,,Assurance,Informatique,139500,F CFA,cheque,En attente,M. Traoré,non
+DEP00021,29/04/2024,Charges,Internet/Téléphonie,finance,46000,fcfa,especes,payé,N. Kouassi,non
+DEP00531,2024-11-16,MARKETING,Publicité en ligne,Direction,160500,FCFA,virement,PAYE,A. Diabaté,oui
+DEP00741,20-09-2023,Informatique,Maintenance IT,ressources humaines,64000,F CFA,virement,annulé,,
+DEP01276,10/25/2025,RESTAURATION,Repas d'affaires,PRODUCTION,30500,fcfa,Virement,,A. Diabaté,Oui
+DEP01133,2023-01-29,Fournitures de bureau,Mobilier bureau,PRODUCTION,200500,XOF,,payé,M. Traoré,Non
+DEP00295,02 Dec 2024,Markting,Réseaux sociaux,DIRECTION,53500,F CFA,carte bancaire,en attente,,
+DEP00973,21-12-2025,Charges,Électricité,Ressources Humaines,74500,F CFA,Chèque,PAYE,A. Diabaté,
+DEP01212,2024-04-13,restauration,Cantine,direction,4500,FCFA,cheque,Annulé,N. Kouassi,Oui
+DEP01134,25/09/2025,RESTAURATION,Traiteur événement,Ventes,155500,XOF,CB,annulé,M. Traoré,
+DEP00215,01/01/2024,Transport,Billet avion,,,fcfa,carte bancaire,annulé,M. Traoré,oui
+DEP00438,04 May 2026,formation,Formation en ligne,Direction ,38000,FCFA,Carte bancaire,annulé,N. Kouassi,Oui
+DEP01064,06/16/2023,Fournitures,Mobilier bureau,ventes,247000,F CFA,CB,Payé,N. Kouassi,Non
+DEP01075,31 Mar 2024,Resto,Traiteur événement,Marketing,202500,XOF,Carte bancaire,annulé,,
+DEP00893,2023-04-19,Fourniture bureau,,  Informatique  ,141500,fcfa,carte bancaire,payé,,non
+DEP00508,21 Dec 2023,,Non catégorisé,VENTES,12000,XOF,Espèces,,,
+DEP00312,27 Sep 2023,marketing,Salon professionnel,  RESSOURCES HUMAINES  ,768500,FCFA,CB,En attente,M. Traoré,non
+DEP00850,18 Feb 2023,Loyer et charges,Électricité,Informatique,83500,F CFA,carte bancaire,annulé,,Non
+DEP00870,15-04-2025,Fournitures de bureau,Mobilier bureau,Ressources Humaines,279500,XOF,VIREMENT,PAYE,,
+DEP00176,2026-04-27,FORMATION,Certification,LOGISTIQUE,92500,FCFA,Virement,payé,S. Koffi,Non
+DEP00008,23 Dec 2023,Déplacements,Hôtel,marketing,90500,FCFA,VIREMENT,En attente,M. Traoré,oui
+DEP00465,20-02-2025,,Assurance,Ressources Humaines,84500,XOF,Espèces,PAYE,A. Diabaté,non
+DEP00808,2024-09-03,restauration,Traiteur événement,Informatique,398000,XOF,especes,PAYE,,
+DEP00289,04/15/2023,Loyer & Charges,Eau,RESSOURCES HUMAINES,13500,F CFA,Carte bancaire,payé,,oui
+DEP00797,16-04-2026,,Non catégorisé,  DIRECTION  ,34000,F CFA,VIREMENT,PAYE,M. Traoré,oui
+DEP00027,2024-03-16,marketing,Publicité en ligne,Direction ,65500,FCFA,CB,payé,,
+DEP00577,2026-07-11,Déplacements,Carburant,finance,,FCFA,carte bancaire,,M. Traoré,
+DEP00480,16-03-2023,Transport,Taxi/VTC,ressources humaines,7500,F CFA,carte bancaire,Payé,,
+DEP00846,2024-01-20,FORMATION,Séminaire,ventes,136000,FCFA,virement,En attente,,
+DEP00790,06/04/2024,Resto,Traiteur événement,Logistique,169000,XOF,virement,annulé,,
+DEP00293,2025-03-15,Formation,Certification,PRODUCTION,171500,F CFA,carte bancaire,payé,A. Diabaté,oui
+DEP01266,2025-11-22,informatique,Matériel informatique, Direction,394500,F CFA,CB,en attente,N. Kouassi,non
+DEP01204,2024-06-15,FORMATION,Certification,,103000,F CFA,Virement,en attente,M. Traoré,
+DEP00899,04/23/2026,Info,Maintenance IT,production,76500,XOF,Virement,Payée,N. Kouassi,non
+DEP00233,2024-11-14,,Non catégorisé,Production,16000,F CFA,CB,en attente,S. Koffi,Non
+DEP01267,2023-07-20,RESTAURATION,Repas d'affaires,Direction ,25500,FCFA,,PAYE,,oui
+DEP00641,2023-09-11,Loyer et charges,Loyer bureau,Ventes,778000,XOF,Chèque,Payé,A. Diabaté,oui
+DEP00534,2025-09-11,Déplacements,Taxi/VTC,Finance,4000,fcfa,CB,Payé,A. Diabaté,Non
+DEP01057,09/21/2023,FORMATION,Certification,production,140500,FCFA,Virement,payé,M. Traoré,
+DEP00241,02/10/2025,Fournitures de bureau,Cartouches encre,Logistique,43000,fcfa,especes,Annulé,N. Kouassi,oui
+DEP00179,08/12/2023,formation,Certification,ressources humaines,119000,F CFA,Espèces,Payé,M. Traoré,
+DEP00007,06/01/2024,Informatique,Hébergement cloud,VENTES,61500,XOF,CB,Annulé,,Non
+DEP01188,20/09/2023,Fourniture bureau,Consommables,ressources humaines,12000,FCFA,virement,en attente,A. Diabaté,Non
+DEP00407,2025-01-27,Charges,Électricité,Direction ,114000,F CFA,especes,Annulé,,non
+DEP00418,2024-11-28,Markting,Réseaux sociaux,marketing,24000,FCFA,CB,En attente,M. Traoré,
+DEP00597,2025-03-01,restauration,Traiteur événement,Ventes,323000,FCFA,especes,Annulé,,
+DEP01246,2025-01-28,Fourniture bureau,Papeterie,Informatique,13000,FCFA,CB,en attente,A. Diabaté,Oui
+DEP00340,31/08/2026,Info,Licence logiciel,ventes,,XOF,carte bancaire,En attente,,non
+DEP00629,03/13/2026,Autre,Frais de notaire,Marketing,84000,F CFA,cheque,annulé,M. Traoré,Oui
+DEP00062,02/11/2025,déplacements,Billet avion,direction,620000,fcfa,Chèque,Payée,,non
+DEP00313,07/25/2025,Restauration,Repas d'affaires,Ventes,19000,F CFA,CB,Annulé,S. Koffi,
+DEP00485,02/24/2026,Info,Maintenance IT,finance,53500,FCFA,Chèque,,A. Diabaté,Non
+DEP01281,14-07-2023,Fourniture bureau,Papeterie,informatique,16000,fcfa,Virement,annulé,,non
+DEP00281,07-02-2026,MARKETING,Impression flyers,Production,31000,XOF,Chèque,Payé,,Non
+DEP01219,23-02-2025,MARKETING,Publicité en ligne,logistique,193500,F CFA,carte bancaire,,,Non
+DEP01250,13-06-2025,Marketing,,MARKETING,42000,FCFA,especes,Payé,,oui
+DEP01139,01 Jul 2025,Autre,Non catégorisé,MARKETING,18000,FCFA,especes,payé,S. Koffi,non
+DEP00489,28/06/2024,Restauration,Cantine,finance,3500,XOF,cheque,En attente,S. Koffi,non
+DEP00344,24-04-2026,Charges,Loyer bureau,MARKETING,402500,XOF,Espèces,annulé,,oui
+DEP01061,2024-09-15,formation,Certification,finance,128000,FCFA,Chèque,Payée,A. Diabaté,
+DEP00265,14/02/2024,déplacements,Taxi/VTC,,5000,F CFA,,Annulé,S. Koffi,oui
+DEP00889,02 Sep 2023,informatique,Hébergement cloud,DIRECTION,37500,F CFA,Chèque,En attente,,
+DEP01122,02/10/2026,loyer & charges,,INFORMATIQUE,11000,F CFA,especes,annulé,A. Diabaté,
+DEP00784,2025-08-14,Markting,Impression flyers,Ressources Humaines,47000,XOF,CB,Payée,M. Traoré,
+DEP00798,24 Sep 2024,Autre,Non catégorisé,production,25500,fcfa,Carte bancaire,annulé,A. Diabaté,non
+DEP00151,2026-07-09,RESTAURATION,Cantine,PRODUCTION,4000,FCFA,virement,payé,A. Diabaté,Non
+DEP01008,2025-07-02,Resto,Repas d'affaires,production,25000,XOF,VIREMENT,Payée,N. Kouassi,
+DEP00654,01 Oct 2025,Loyer et charges,Loyer bureau,MARKETING,932500,F CFA,Carte bancaire,payé,M. Traoré,
+DEP01177,15/07/2024,formation,Séminaire,RESSOURCES HUMAINES,137500,XOF,Espèces,en attente,,
+DEP01124,11/03/2025,Loyer et charges,Eau,informatique,16000,FCFA,especes,payé,,
+DEP01150,06 May 2026,Loyer & Charges,Loyer bureau,Direction,691500,XOF,carte bancaire,PAYE,S. Koffi,
+DEP00719,01/22/2025,Resto,Repas d'affaires,production,18000,XOF,especes,Annulé,,oui
+DEP00119,03 Feb 2025,loyer & charges,Loyer bureau,Direction ,1071000,fcfa,virement,Annulé,A. Diabaté,
+DEP00448,10/22/2024,formation,Certification,Ventes,152500,fcfa,CB,PAYE,N. Kouassi,
+DEP01190,05 Jul 2026,Resto,Traiteur événement,Production,182500,XOF,Chèque,Payée,,
+DEP00474,02-12-2025,Fourniture bureau,,LOGISTIQUE,301000,FCFA,especes,annulé,,Non
+DEP00726,28 Jun 2023,Fournitures de bureau,Mobilier bureau,direction,182000,fcfa,especes,PAYE,N. Kouassi,
+DEP00462,10/02/2024,FORMATION,Séminaire,Marketing,95000,FCFA,CB,Payé,,non
+DEP00663,05/25/2026,Informatique,Hébergement cloud,Production,58000,XOF,Virement,Payé,,
+DEP00200,06-07-2023,divers,Frais de notaire,   Direction  ,51000,F CFA,especes,Annulé,,Non
+DEP01233,07/21/2025,Formation,Certification,marketing,68000,F CFA,Virement,Payé,,Oui
+DEP01171,07/19/2024,Fourniture bureau,Mobilier bureau,Production,177500,F CFA,Chèque,PAYE,A. Diabaté,oui
+DEP00152,04/05/2023,FORMATION,Séminaire,LOGISTIQUE,200000,F CFA,carte bancaire,payé,N. Kouassi,oui
+DEP00134,05/14/2024,IT,Maintenance IT,Finance,47500,FCFA,Virement,annulé,A. Diabaté,
+DEP00650,14 Sep 2023,fournitures de bureau,Mobilier bureau,INFORMATIQUE,239000,XOF,virement,Payé,N. Kouassi,non
+DEP00824,2025-01-28,restauration,,Logistique,425500,XOF,Espèces,,N. Kouassi,non
+DEP00211,2026-03-14,fournitures de bureau,Consommables,logistique,8000,F CFA,Espèces,Payée,S. Koffi,oui
+DEP00454,01/02/2026,Formation,Certification,LOGISTIQUE,65500,FCFA,,payé,,Oui
+DEP00232,20-02-2025,DIVERS,Assurance,Informatique,182500,F CFA,Chèque,En attente,A. Diabaté,non
+DEP00131,2024-10-24,MARKETING,,INFORMATIQUE,65500,F CFA,especes,en attente,M. Traoré,oui
+DEP00116,19/01/2023,loyer & charges,Loyer bureau,Ventes,1281000,F CFA,CB,Payé,,
+DEP01092,11-04-2026,Markting,Salon professionnel, Direction,293000,fcfa,VIREMENT,en attente,A. Diabaté,non
+DEP00894,05 Mar 2024,Resto,Traiteur événement,direction,198500,FCFA,Chèque,Annulé,,Oui
+DEP00471,29-06-2026,marketing,Réseaux sociaux,direction,48500,FCFA,CB,,A. Diabaté,Oui
+DEP01210,08 Jul 2026,Loyer et charges,Eau,marketing,24000,FCFA,Espèces,,S. Koffi,
+DEP00622,09 Apr 2026,Loyer et charges,Eau,INFORMATIQUE,7500,FCFA,,en attente,N. Kouassi,
+DEP01093,15/02/2023,Marketing,Publicité en ligne,Marketing,67500,FCFA,Virement,Payé,A. Diabaté,
+DEP01028,17-07-2023,loyer & charges,Internet/Téléphonie,Production,27500,XOF,carte bancaire,Payée,S. Koffi,Oui
+DEP00500,2024-08-13,Loyer & Charges,Eau,Logistique,8000,F CFA,virement,annulé,,Oui
+DEP00706,29/08/2026,Fournitures,Papeterie,Ressources Humaines,22000,FCFA,Espèces,Payée,M. Traoré,Oui
+DEP00191,13 Sep 2023,divers,Frais bancaires,,12500,XOF,Carte bancaire,En attente,,
+DEP00248,08/15/2026,fournitures de bureau,Consommables,Production,21000,FCFA,VIREMENT,Annulé,,Oui
+DEP00186,31-05-2024,déplacements,Carburant,logistique,15000,FCFA,Virement,PAYE,S. Koffi,oui
+DEP00800,06/05/2023,Transport,Hôtel,Direction ,48000,XOF,VIREMENT,Annulé,M. Traoré,non
+DEP00712,07/15/2025,Formation,Formation en ligne,DIRECTION,60500,fcfa,VIREMENT,Payé,A. Diabaté,oui
+DEP00456,30/05/2023,Déplacements,Carburant,Informatique,25000,fcfa,especes,Payé,N. Kouassi,
+DEP00547,2024-10-15,fournitures de bureau,Mobilier bureau,Finance,225000,FCFA,Carte bancaire,PAYE,S. Koffi,
+DEP00348,06/18/2023,Info,Hébergement cloud,informatique,,XOF,virement,payé,N. Kouassi,Oui
+DEP00017,2024-05-16,Formation,Formation en ligne,ressources humaines,35000,F CFA,carte bancaire,payé,,
+DEP00744,11 Jan 2025,IT,Licence logiciel,Direction,136500,fcfa,Chèque,En attente,M. Traoré,
+DEP00128,20-12-2025,Fournitures de bureau,,Ventes,19500,fcfa,Virement,en attente,,Non
+DEP01182,23/07/2025,Divers,Assurance,Marketing,119000,F CFA,CB,PAYE,,
+DEP00842,09-11-2023,déplacements,,Marketing,3000,FCFA,VIREMENT,Annulé,A. Diabaté,
+DEP00267,21 Oct 2024,restauration,Cantine,production,1500,FCFA,Espèces,annulé,M. Traoré,Oui
+DEP01189,02/28/2025,Formation,Certification,Direction,116000,F CFA,,En attente,N. Kouassi,Non
+DEP00394,07/08/2024,fournitures de bureau,Consommables,VENTES,13500,FCFA,virement,Payé,M. Traoré,Non
+DEP00436,2025-08-22,Restauration,Traiteur événement,marketing,373500,fcfa,VIREMENT,payé,A. Diabaté,oui
+DEP00825,2023-10-21,marketing,Impression flyers,Ventes,52500,fcfa,Chèque,PAYE,S. Koffi,non
+DEP00647,05/04/2023,Resto,Cantine,DIRECTION,5000,FCFA,Espèces,en attente,S. Koffi,
+DEP00018,20/08/2024,formation,Formation en ligne,INFORMATIQUE,49500,fcfa,Chèque,payé,,Non
+DEP00548,28 Feb 2025,fournitures de bureau,Consommables,finance,9000,fcfa,especes,Annulé,M. Traoré,
+DEP00222,2024-03-21,formation,Formation en ligne,Logistique,30000,F CFA,CB,en attente,S. Koffi,oui
+DEP00290,31 Mar 2024,RESTAURATION,Repas d'affaires,marketing,24500,fcfa,Espèces,payé,A. Diabaté,Oui
+DEP01042,2023-04-26,Fournitures,Consommables,MARKETING,20500,fcfa,CB,Annulé,,
+DEP00089,31-08-2026,Transport,Billet avion,Direction ,,XOF,Espèces,annulé,A. Diabaté,
+DEP00094,05 Sep 2025,formation,Séminaire,informatique,220000,FCFA,Virement,Payée,N. Kouassi,non
+DEP00836,11/03/2023,Fourniture bureau,Cartouches encre,DIRECTION,inconnu,fcfa,Carte bancaire,payé,N. Kouassi,
+DEP00181,02/02/2025,Markting,Réseaux sociaux,Ressources Humaines,27000,FCFA,Chèque,En attente,N. Kouassi,non
+DEP00965,30/08/2023,FORMATION,Séminaire,,178500,fcfa,CB,PAYE,M. Traoré,Non
+DEP01009,02/18/2026,Loyer & Charges,Internet/Téléphonie,Direction ,46000,FCFA,Espèces,payé,N. Kouassi,non
+DEP01062,24-02-2025,Restauration,Repas d'affaires,VENTES,24500,XOF,especes,annulé,M. Traoré,oui
+DEP00911,2025-05-11,,Assurance,informatique,207500,XOF,virement,En attente,,Non
+DEP01286,08/07/2023,Markting,Publicité en ligne,Direction ,102500,fcfa,especes,PAYE,S. Koffi,Non
+DEP00991,04-03-2023,Fournitures de bureau,Consommables,Production,18500,XOF,cheque,annulé,A. Diabaté,
+DEP00941,03-08-2023,informatique,Licence logiciel,direction,83000,F CFA,virement,Payé,A. Diabaté,Oui
+DEP00296,02 Nov 2024,FORMATION,Certification,,161500,F CFA,,en attente,,Oui
+DEP00297,08/16/2024,Markting,Impression flyers,finance,,fcfa,virement,annulé,M. Traoré,non
+DEP00066,2026-08-27,Resto,Cantine,marketing,5000,fcfa,Carte bancaire,payé,S. Koffi,oui
+DEP00129,24 Oct 2023,FORMATION,Formation en ligne,Direction ,49500,XOF,Chèque,Annulé,,non
+DEP00199,26-09-2024,Loyer & Charges,Eau,marketing,14000,XOF,Espèces,,M. Traoré,Oui
+DEP00022,03/18/2024,,Frais de notaire,VENTES,91000,XOF,cheque,En attente,M. Traoré,non
+DEP01116,2024-06-28,FORMATION,Formation en ligne,finance,34000,XOF,carte bancaire,Payé,N. Kouassi,
+DEP00389,2023-08-22,Charges,Eau,Informatique,22500,FCFA,CB,Payé,,oui
+DEP00047,05/04/2023,Fournitures,Mobilier bureau,MARKETING,119000,FCFA,Chèque,En attente,,
+DEP01018,05 Feb 2026,déplacements,Taxi/VTC,informatique,7500,FCFA,carte bancaire,Annulé,N. Kouassi,Non
+DEP01000,2024-03-21,FORMATION,Certification,informatique,161500,FCFA,virement,PAYE,,Oui
+DEP01216,23-10-2025,Resto,,INFORMATIQUE,0,XOF,Chèque,en attente,,
+DEP00035,08/02/2023,Autre,Assurance,PRODUCTION,201500,fcfa,,payé,S. Koffi,non
+DEP01258,09-07-2023,Charges,Électricité,Direction,110000,XOF,,,N. Kouassi,Oui
+DEP00521,27/07/2024,Marketing,Impression flyers,ressources humaines,18500,fcfa,cheque,Payée,S. Koffi,
+DEP00979,02-02-2023,Resto,Repas d'affaires,informatique,21000,XOF,Espèces,,,Non
+DEP00828,08 Nov 2025,restauration,Repas d'affaires,DIRECTION,13500,fcfa,CB,Annulé,N. Kouassi,oui
+DEP01194,14/09/2025,Déplacements,Taxi/VTC,production,3000,fcfa,CB,Payée,M. Traoré,non
+DEP01186,2024-01-11,Déplacements,Carburant,DIRECTION,22000,F CFA,cheque,PAYE,S. Koffi,non
+DEP00727,03-08-2026,informatique,Matériel informatique,DIRECTION,570500,FCFA,Espèces,Payé,,
+DEP00413,29 Jul 2024,MARKETING,Publicité en ligne,FINANCE,63500,FCFA,Virement,Annulé,M. Traoré,
+DEP00819,01/04/2024,Restauration,Cantine,VENTES,2000,FCFA,especes,Payée,,oui
+DEP00310,11/04/2026,Charges,Loyer bureau,direction,,fcfa,cheque,payé,M. Traoré,
+DEP00182,08/11/2026,fournitures de bureau,Papeterie, Direction,21000,XOF,Carte bancaire,Payée,N. Kouassi,Non
+DEP00350,07/27/2025,loyer & charges,Loyer bureau,Direction ,427000,FCFA,especes,en attente,M. Traoré,non
+DEP00388,25/03/2024,Formation,Formation en ligne,INFORMATIQUE,44000,XOF,Espèces,Payé,N. Kouassi,Oui
+DEP01144,09/04/2023,Resto,Traiteur événement,direction,219500,XOF,Espèces,Payée,,Non
+DEP00375,26/04/2024,Loyer & Charges,Internet/Téléphonie,informatique,46500,FCFA,Virement,payé,A. Diabaté,non
+DEP00930,15-04-2025,déplacements,Péage,PRODUCTION,3500,FCFA,VIREMENT,annulé,S. Koffi,Non
+DEP00153,2024-10-20,Formation,Séminaire,Marketing,94000,XOF,VIREMENT,Payé,,oui
+DEP01245,26/04/2024,Markting,Salon professionnel,finance,566000,FCFA,Espèces,En attente,,
+DEP00610,24/02/2023,Resto,Repas d'affaires,VENTES,11500,XOF,CB,En attente,,Oui
+DEP01118,14/07/2025,Fournitures,Cartouches encre,Logistique,23000,fcfa,Chèque,Payé,,Non
+DEP00985,21/02/2024,formation,Séminaire,Finance,178500,FCFA,especes,annulé,M. Traoré,non
+DEP00509,13 Nov 2025,Restauration,Cantine,RESSOURCES HUMAINES,2500,FCFA,cheque,Payé,,Oui
+DEP00961,2026-04-16,,Frais de notaire,MARKETING,99000,F CFA,virement,Payée,N. Kouassi,
+DEP00429,15/07/2025,Markting,Salon professionnel,logistique,357500,FCFA,Virement,payé,,Non
+DEP01141,14-08-2025,restauration,Cantine,MARKETING,4000,FCFA,cheque,Payé,A. Diabaté,
+DEP00270,02/18/2024,fournitures de bureau,Cartouches encre,Ressources Humaines,35000,F CFA,Virement,Payée,N. Kouassi,
+DEP00054,06/10/2024,Restauration,Repas d'affaires,DIRECTION,27000,fcfa,carte bancaire,en attente,S. Koffi,Non
+DEP00601,11/15/2025,Deplacements,Billet avion,Logistique,270500,FCFA,carte bancaire,en attente,A. Diabaté,oui
+DEP00885,27 Aug 2026,FORMATION,Séminaire,production,208500,XOF,cheque,Payée,M. Traoré,non
+DEP00068,06/27/2026,IT,Matériel informatique,MARKETING,573000,FCFA,Carte bancaire,Payée,,Non
+DEP00585,27 Sep 2025,Loyer et charges,Loyer bureau,Finance,,XOF,Virement,annulé,,
+DEP01180,2025-11-15,Transport,Péage,  Production  ,1500,F CFA,Carte bancaire,PAYE,M. Traoré,oui
+DEP01101,08-07-2023,Informatique,Licence logiciel,marketing,86500,fcfa,VIREMENT,Annulé,S. Koffi,Oui
+DEP00111,06/11/2023,,Frais bancaires,,12000,F CFA,especes,Payé,A. Diabaté,non
+DEP00687,07 Aug 2024,Autre,Frais de notaire,  Finance  ,31500,XOF,carte bancaire,payé,M. Traoré,
+DEP00511,12/10/2023,MARKETING,Publicité en ligne, Direction,86000,F CFA,CB,Annulé,,
+DEP00971,16 Oct 2024,IT,,marketing,31500,fcfa,VIREMENT,En attente,N. Kouassi,
+DEP00691,01 Jun 2025,Loyer et charges,Électricité,Finance,47500,XOF,carte bancaire,payé,A. Diabaté,non
+DEP00067,09 Dec 2024,Formation,Séminaire,INFORMATIQUE,210000,FCFA,Virement,Payé,A. Diabaté,Non
+DEP00766,11/01/2023,Fourniture bureau,Cartouches encre,informatique,16500,FCFA,especes,en attente,S. Koffi,
+DEP00895,13 Sep 2025,DIVERS,Frais bancaires,Ventes,5500,F CFA,especes,annulé,M. Traoré,
+DEP00960,2024-08-12,RESTAURATION,Cantine,PRODUCTION,4000,XOF,Virement,En attente,,oui
+DEP00201,08/06/2023,Deplacements,Péage,DIRECTION,1500,XOF,,Annulé,M. Traoré,Non
+DEP00428,08/08/2025,déplacements,Billet avion,MARKETING,543000,F CFA,carte bancaire,En attente,,non
+DEP01268,04/05/2025,Transport,Hôtel,informatique,37000,F CFA,especes,En attente,,
+DEP01176,18-04-2023,loyer & charges,Internet/Téléphonie,marketing,55000,F CFA,carte bancaire,Payée,,oui
+DEP00795,2023-09-16,Marketing,Réseaux sociaux,direction,28000,FCFA,virement,Annulé,N. Kouassi,oui
+DEP00457,2023-10-24,Transport,Hôtel,Ressources Humaines,50000,fcfa,Espèces,Payé,N. Kouassi,non
+DEP01068,10-04-2023,Déplacements,Taxi/VTC,DIRECTION,8500,XOF,cheque,en attente,,non
+DEP00117,28/06/2025,Marketing,Salon professionnel,Ventes,505000,FCFA,CB,En attente,A. Diabaté,
+DEP00814,13-12-2024,divers,Non catégorisé,FINANCE,15000,F CFA,Espèces,En attente,A. Diabaté,Oui
+DEP00561,30 Nov 2023,formation,Certification,Ressources Humaines,160500,F CFA,CB,PAYE,S. Koffi,oui
+DEP00214,2025-11-14,FORMATION,Séminaire,INFORMATIQUE,143500,XOF,VIREMENT,En attente,,Non
+DEP00202,11 Feb 2023,RESTAURATION,,PRODUCTION,,fcfa,Chèque,annulé,S. Koffi,
+DEP00112,30 Apr 2023,Informatique,Matériel informatique,,494000,fcfa,CB,En attente,S. Koffi,
+DEP01230,26/08/2026,Charges,Internet/Téléphonie,Production,72000,F CFA,CB,Payé,,oui
+DEP00708,31 Dec 2025,RESTAURATION,Repas d'affaires,LOGISTIQUE,26000,FCFA,cheque,Payée,,oui
+DEP00479,2025-05-27,Loyer & Charges,Internet/Téléphonie, Direction,38500,XOF,,Payée,M. Traoré,
+DEP01052,26-09-2025,Resto,Traiteur événement,FINANCE,298500,fcfa,Chèque,,,
+DEP00816,2023-12-08,MARKETING,Publicité en ligne,LOGISTIQUE,173000,fcfa,CB,payé,,
+DEP00374,05/23/2026,Formation,Certification,ressources humaines,96000,FCFA,carte bancaire,PAYE,A. Diabaté,Non
+DEP00504,28-01-2025,Charges,Loyer bureau,marketing,482500,F CFA,Virement,PAYE,M. Traoré,Oui
+DEP00626,06/05/2026,Formation,Certification,logistique,87500,F CFA,Virement,,,non
+DEP00860,25/12/2024,restauration,Repas d'affaires,PRODUCTION,22500,XOF,Espèces,Payée,N. Kouassi,
+DEP00263,15/08/2023,Charges,Électricité,Production,88500,fcfa,Carte bancaire,,N. Kouassi,Oui
+DEP00761,08/08/2024,Loyer et charges,Eau,direction,21500,XOF,Carte bancaire,Payé,,Non
+DEP00405,2023-07-27,formation,Formation en ligne,finance,23500,F CFA,CB,Annulé,,
+DEP00612,30-01-2026,Charges,Loyer bureau,logistique,1086500,FCFA,Carte bancaire,payé,,
+DEP00477,29 Jun 2023,Info,Licence logiciel,Ventes,138000,F CFA,Carte bancaire,Payée,,non
+DEP00392,01-04-2023,Loyer & Charges,Internet/Téléphonie,finance,43000,FCFA,VIREMENT,Payée,A. Diabaté,
+DEP00748,10/18/2025,Resto,Cantine,Direction ,2500,FCFA,,PAYE,N. Kouassi,oui
+DEP01083,01-03-2025,Fournitures de bureau,Cartouches encre,Logistique,16500,F CFA,,PAYE,A. Diabaté,Oui
+DEP00275,19-02-2026,Loyer et charges,Internet/Téléphonie,DIRECTION,46500,F CFA,especes,Payée,A. Diabaté,
+DEP00523,01/24/2024,Déplacements,,ventes,63000,fcfa,CB,annulé,S. Koffi,
+DEP00645,19-05-2024,FORMATION,Séminaire,Ressources Humaines,127500,F CFA,Carte bancaire,Payé,,
+DEP00653,01-02-2026,MARKETING,Salon professionnel,Production,294000,FCFA,VIREMENT,En attente,,oui
+DEP01096,21/11/2023,,Frais bancaires,Informatique,14000,FCFA,Chèque,en attente,N. Kouassi,oui
+DEP00187,09/01/2023,Fournitures de bureau,Cartouches encre,direction,42000,FCFA,cheque,Payé,,
+DEP00513,17-03-2024,RESTAURATION,Cantine,DIRECTION,1500,F CFA,Virement,Annulé,A. Diabaté,oui
+DEP00466,16 Sep 2024,Charges,Eau, Direction,13000,F CFA,Chèque,annulé,S. Koffi,Oui
+DEP00553,14/08/2023,informatique,,ressources humaines,74000,F CFA,Virement,PAYE,,Non
+DEP00336,08-08-2024,Informatique,Matériel informatique,Direction ,490500,XOF,cheque,Annulé,A. Diabaté,non
+DEP00861,23-08-2025,IT,Maintenance IT,  Direction   ,94000,F CFA,especes,en attente,S. Koffi,Non
+DEP01187,10-10-2024,Restauration,Cantine,INFORMATIQUE,3500,fcfa,CB,,A. Diabaté,Non
+DEP00604,14-05-2025,FORMATION,Certification,Finance,168500,FCFA,VIREMENT,En attente,N. Kouassi,oui
+DEP00430,09/02/2025,loyer & charges,Internet/Téléphonie,VENTES,34500,fcfa,VIREMENT,payé,,
+DEP00607,2024-03-15,informatique,Hébergement cloud,INFORMATIQUE,69000,FCFA,Espèces,annulé,,
+DEP00105,20-05-2024,MARKETING,,PRODUCTION,107500,FCFA,VIREMENT,Annulé,S. Koffi,non
+DEP01017,01/30/2023,Loyer et charges,Loyer bureau, Direction,516000,XOF,especes,,A. Diabaté,Non
+DEP00536,07/16/2024,IT,Maintenance IT,informatique,86500,fcfa,Carte bancaire,Payé,N. Kouassi,oui
+DEP00570,20 Jun 2023,restauration,Cantine,  VENTES  ,5500,XOF,especes,payé,,Oui
+DEP01195,22/03/2025,loyer & charges,Internet/Téléphonie, Direction,35500,XOF,Espèces,Payé,,
+DEP00589,06/05/2025,RESTAURATION,Cantine,DIRECTION,3500,fcfa,VIREMENT,Payé,,
+DEP00121,2024-02-03,Fourniture bureau,Mobilier bureau,ventes,181000,F CFA,Chèque,Payée,,oui
+DEP00880,02/27/2025,fournitures de bureau,Mobilier bureau,,147500,XOF,carte bancaire,Annulé,M. Traoré,
+DEP00649,26/05/2025,Resto,Cantine,RESSOURCES HUMAINES,3000,XOF,Virement,Annulé,A. Diabaté,
+DEP01091,27 Aug 2025,,Frais de notaire,Logistique,32000,fcfa,especes,Payée,,oui
+DEP00868,12/13/2023,divers,,Direction ,13000,FCFA,especes,Annulé,S. Koffi,Non
+DEP00763,16/12/2025,Fournitures,Consommables,Finance,12000,XOF,cheque,Payée,S. Koffi,Non
+DEP00707,10-02-2024,marketing,Salon professionnel,INFORMATIQUE,848500,XOF,cheque,annulé,A. Diabaté,Non
+DEP00026,14 Aug 2025,Charges,Électricité,logistique,71500,XOF,cheque,Payée,,non
+DEP00576,24-04-2025,formation,Formation en ligne,Marketing,23500,F CFA,Espèces,payé,N. Kouassi,Non
+DEP00651,15-09-2023,Info,Licence logiciel,Direction,71500,FCFA,Carte bancaire,Payée,N. Kouassi,non
+DEP00564,21-03-2026,Fournitures de bureau,Cartouches encre,FINANCE,27500,F CFA,VIREMENT,payé,M. Traoré,non
+DEP00512,28 Feb 2024,RESTAURATION,Traiteur événement,Production,156500,fcfa,carte bancaire,En attente,,oui
+DEP00005,02/18/2026,Transport,Billet avion,Logistique,551500,fcfa,CB,annulé,S. Koffi,Non
+DEP01178,06/05/2026,Fourniture bureau,Consommables,Direction ,14500,F CFA,especes,annulé,M. Traoré,
+DEP00874,30-04-2024,Fournitures,Mobilier bureau,FINANCE,315500,XOF,virement,payé,N. Kouassi,Non
+DEP00840,27-03-2024,Marketing,Publicité en ligne,Logistique,,XOF,virement,,A. Diabaté,Oui
+DEP00780,15-07-2024,Autre,Non catégorisé,Ressources Humaines,20500,FCFA,Espèces,annulé,M. Traoré,
+DEP00575,16/05/2024,Loyer et charges,Eau,Ventes,14500,fcfa,Espèces,payé,S. Koffi,Oui
+DEP00669,02/16/2025,informatique,Matériel informatique,VENTES,378000,fcfa,carte bancaire,annulé,A. Diabaté,Oui
+DEP00938,12 Oct 2023,formation,Certification,  LOGISTIQUE  ,163000,XOF,carte bancaire,,,non
+DEP00245,16 Aug 2026,Fourniture bureau,Mobilier bureau,direction,,F CFA,Carte bancaire,annulé,S. Koffi,oui
+DEP00983,08/03/2026,Formation,Certification,,172500,F CFA,Espèces,payé,N. Kouassi,Oui
+DEP00539,10/28/2024,MARKETING,Salon professionnel,  Ressources Humaines  ,inconnu,fcfa,VIREMENT,Payée,N. Kouassi,Oui
+DEP00315,04/24/2025,Autre,Frais bancaires,Marketing,8000,F CFA,carte bancaire,Annulé,S. Koffi,Non
+DEP00702,12/15/2025,MARKETING,Réseaux sociaux,Production,39500,fcfa,VIREMENT,En attente,N. Kouassi,Non
+DEP01202,19 Jan 2023,Loyer et charges,Loyer bureau,ventes,520000,F CFA,especes,Annulé,S. Koffi,
+DEP00770,10/30/2025,Markting,Réseaux sociaux,Ressources Humaines,63000,FCFA,VIREMENT,Payée,A. Diabaté,
+DEP00692,17-08-2026,Formation,Certification,ventes,162500,FCFA,cheque,En attente,,Oui
+DEP00777,2023-05-29,Transport,Billet avion,PRODUCTION,393000,XOF,especes,En attente,N. Kouassi,Non
+DEP00832,2026-02-05,Informatique,Licence logiciel,marketing,74000,F CFA,carte bancaire,Payée,,
+DEP00172,30-03-2026,FORMATION,Séminaire,,123500,XOF,especes,Payé,S. Koffi,non
+DEP01198,2024-08-26,Fourniture bureau,Cartouches encre,PRODUCTION,40000,F CFA,carte bancaire,payé,A. Diabaté,
+DEP00445,22 May 2023,Fourniture bureau,Papeterie,DIRECTION,22500,FCFA,cheque,annulé,N. Kouassi,Oui
+DEP00803,01 Jun 2024,marketing,Réseaux sociaux,MARKETING,62500,XOF,VIREMENT,Payé,N. Kouassi,non
+DEP00975,07 May 2025,loyer & charges,Loyer bureau,PRODUCTION,631000,fcfa,especes,En attente,N. Kouassi,Oui
+DEP00562,05/22/2024,Restauration,Traiteur événement,logistique,219500,XOF,especes,en attente,S. Koffi,
+DEP01147,01/13/2023,Resto,Repas d'affaires,Logistique,30500,F CFA,virement,annulé,S. Koffi,oui
+DEP00584,07-04-2024,Restauration,Repas d'affaires,informatique,29500,XOF,CB,Annulé,A. Diabaté,Oui
+DEP01289,26-10-2024,Deplacements,Billet avion,ventes,577000,fcfa,virement,Payée,,non
+DEP01234,23/08/2024,Informatique,Matériel informatique,DIRECTION,717000,fcfa,Espèces,Annulé,N. Kouassi,non
+DEP00009,11/02/2025,Fournitures,Mobilier bureau,Direction,178000,fcfa,,payé,M. Traoré,non
+DEP01207,21/06/2025,Formation,Formation en ligne,PRODUCTION,59000,fcfa,VIREMENT,,S. Koffi,oui
+DEP01241,06/26/2024,fournitures de bureau,Cartouches encre,Marketing,20000,FCFA,VIREMENT,Payée,S. Koffi,
+DEP01278,21/03/2023,FORMATION,Formation en ligne,LOGISTIQUE,30500,F CFA,carte bancaire,annulé,N. Kouassi,
+DEP01232,2025-10-25,Fourniture bureau,Consommables,Finance,11500,F CFA,especes,En attente,,non
+DEP01097,05/15/2023,Loyer & Charges,Eau,MARKETING,15500,F CFA,,En attente,M. Traoré,non
+DEP00999,19-01-2024,formation,Formation en ligne,ventes,62000,F CFA,Chèque,Payée,A. Diabaté,oui
+DEP01203,18 May 2025,Transport,Taxi/VTC,RESSOURCES HUMAINES,8500,XOF,especes,en attente,N. Kouassi,oui
+DEP00656,2023-04-10,Déplacements,Billet avion,finance,454000,XOF,Espèces,Payée,A. Diabaté,non
+DEP01135,21/10/2023,Info,Maintenance IT,INFORMATIQUE,37500,F CFA,,PAYE,,oui
+DEP00939,06/12/2024,Fournitures,Cartouches encre,Production,29500,XOF,VIREMENT,Annulé,,Oui
+DEP00207,15/10/2024,FORMATION,Séminaire,LOGISTIQUE,0,FCFA,carte bancaire,En attente,N. Kouassi,Oui
+DEP00579,21-10-2023,Restauration,Repas d'affaires,Finance,32000,FCFA,especes,annulé,N. Kouassi,oui
+DEP00122,2025-07-20,DIVERS,Non catégorisé,FINANCE,13000,FCFA,carte bancaire,,A. Diabaté,oui
+DEP01006,2024-03-08,DIVERS,,INFORMATIQUE,10000,FCFA,virement,PAYE,N. Kouassi,Non
+DEP00332,06-03-2026,IT,Matériel informatique,INFORMATIQUE,423500,XOF,CB,annulé,M. Traoré,oui
+DEP00040,25-08-2026,divers,Non catégorisé,Production,inconnu,F CFA,Espèces,En attente,M. Traoré,non
+DEP00463,01-06-2025,Divers,Frais de notaire,  LOGISTIQUE  ,47500,XOF,Chèque,Payé,,Oui
+DEP00034,03/24/2024,loyer & charges,Loyer bureau,Ressources Humaines,622500,fcfa,,Payé,,Non
+DEP01271,2026-02-19,déplacements,Taxi/VTC,direction,4500,fcfa,especes,Payé,,non
+DEP00724,13-05-2026,MARKETING,Impression flyers,Direction,,fcfa,VIREMENT,en attente,,Oui
+DEP00063,2023-04-10,Markting,Impression flyers,Informatique,20500,fcfa,virement,PAYE,N. Kouassi,non
+DEP00400,01 Oct 2025,Formation,Formation en ligne,LOGISTIQUE,43000,FCFA,Virement,PAYE,S. Koffi,non
+DEP00923,04/17/2026,Loyer & Charges,Loyer bureau,INFORMATIQUE,1243000,fcfa,VIREMENT,annulé,S. Koffi,Non
+DEP00618,2024-09-10,IT,Maintenance IT,Direction,59500,FCFA,carte bancaire,Payé,M. Traoré,oui
+DEP00568,13-05-2024,fournitures de bureau,Consommables,Ressources Humaines,15000,FCFA,,payé,A. Diabaté,oui
+DEP00136,2023-07-30,informatique,Licence logiciel,direction,58500,FCFA,especes,payé,,non
+DEP00093,07/30/2024,Info,Licence logiciel,FINANCE,143000,FCFA,carte bancaire,En attente,M. Traoré,non
+DEP00857,25/11/2023,marketing,Réseaux sociaux,RESSOURCES HUMAINES,29500,fcfa,Virement,PAYE,,Non
+DEP00802,20-02-2024,Déplacements,Taxi/VTC,informatique,6500,fcfa,Virement,Payé,,Oui
+DEP01269,03-07-2026,déplacements,Carburant,production,29500,F CFA,Espèces,annulé,A. Diabaté,Oui
+DEP01242,12/28/2024,Deplacements,Hôtel,RESSOURCES HUMAINES,75500,fcfa,cheque,en attente,,non
+DEP01030,2023-10-31,Marketing,Réseaux sociaux,Production,62000,fcfa,Carte bancaire,en attente,,non
+DEP00725,13-06-2026,déplacements,Carburant,INFORMATIQUE,34000,XOF,Carte bancaire,Payé,S. Koffi,Oui
+DEP00299,18-01-2025,MARKETING,Impression flyers,logistique,49500,XOF,virement,Payée,A. Diabaté,oui
+DEP00097,04-06-2025,Fourniture bureau,Papeterie,Direction ,21000,XOF,virement,annulé,M. Traoré,non
+DEP00701,18/03/2026,Transport,Taxi/VTC,logistique,4000,F CFA,Espèces,PAYE,,oui
+DEP00995,01 Dec 2024,Autre,Frais de notaire,marketing,,XOF,carte bancaire,PAYE,M. Traoré,Oui
+DEP00666,22 Aug 2025,Loyer et charges,Internet/Téléphonie,INFORMATIQUE,76000,XOF,virement,PAYE,M. Traoré,Non
+DEP00538,08 Jul 2024,Resto,Traiteur événement,RESSOURCES HUMAINES,315000,FCFA,Virement,payé,A. Diabaté,non
+DEP00709,01/29/2025,formation,Séminaire,FINANCE,186500,fcfa,carte bancaire,en attente,N. Kouassi,
+DEP00303,07-10-2024,Transport,Taxi/VTC,ventes,4500,XOF,cheque,Annulé,N. Kouassi,
+DEP00109,12/02/2023,FORMATION,Formation en ligne, Direction,25500,F CFA,Virement,en attente,M. Traoré,Oui
+DEP01181,22 Mar 2026,informatique,Maintenance IT,Direction,91000,XOF,CB,En attente,,
+DEP01031,2026-04-29,Loyer & Charges,Loyer bureau,ressources humaines,473000,fcfa,Chèque,payé,M. Traoré,
+DEP00722,05/14/2026,Formation,Formation en ligne,VENTES,23000,F CFA,Virement,En attente,M. Traoré,Oui
+DEP00700,09-12-2025,Resto,Traiteur événement,direction,192500,fcfa,Chèque,en attente,,Non
+DEP01090,2023-02-02,MARKETING,,direction,165000,F CFA,Espèces,Payé,,non
+DEP00714,10 Jun 2025,Deplacements,Taxi/VTC,Marketing,7500,FCFA,VIREMENT,en attente,A. Diabaté,Non
+DEP00758,09 Nov 2023,Formation,Certification,informatique,130500,XOF,Chèque,annulé,A. Diabaté,Oui
+DEP00300,10 Apr 2023,informatique,Maintenance IT,DIRECTION,46000,FCFA,cheque,,A. Diabaté,
+DEP00148,09-03-2025,divers,Assurance,PRODUCTION,157000,fcfa,cheque,Annulé,,non
+DEP00147,2023-04-03,Autre,Frais bancaires,Marketing,5500,FCFA,carte bancaire,Payé,M. Traoré,oui
+DEP00320,2024-10-21,déplacements,Péage,Marketing,3500,F CFA,Virement,PAYE,,non
+DEP01127,18/11/2025,Resto,Cantine,,3000,XOF,Espèces,en attente,S. Koffi,
+DEP00351,03/05/2024,Charges,Électricité,FINANCE,123000,XOF,especes,PAYE,,
+DEP00386,2023-05-02,fournitures de bureau,Mobilier bureau,logistique,148500,fcfa,Carte bancaire,en attente,N. Kouassi,oui
+DEP00385,23-12-2024,Autre,Frais bancaires,Ressources Humaines,5000,FCFA,especes,en attente,A. Diabaté,
+DEP01108,2024-01-06,Formation,Formation en ligne,Direction,42000,FCFA,Carte bancaire,Payé,S. Koffi,non
+DEP00623,2023-12-05,Loyer & Charges,Eau,ventes,,XOF,Virement,Annulé,S. Koffi,Oui
+DEP00551,14 Jul 2026,FORMATION,,marketing,21000,fcfa,carte bancaire,Payé,N. Kouassi,Non
+DEP00603,12 Mar 2025,Fourniture bureau,Papeterie,,23500,F CFA,VIREMENT,en attente,A. Diabaté,oui
+DEP00445,22 May 2023,Fourniture bureau,Papeterie,DIRECTION,22500,FCFA,cheque,annulé,N. Kouassi,Oui
+DEP00968,27/12/2024,Fournitures,,informatique,9000,F CFA,especes,PAYE,,non
+DEP00910,2026-06-13,marketing,,marketing,19000,XOF,Espèces,PAYE,N. Kouassi,
+DEP01038,03 Apr 2026,MARKETING,Impression flyers,marketing,0,F CFA,Chèque,PAYE,N. Kouassi,
+DEP00569,22-03-2024,RESTAURATION,Cantine,Ressources Humaines,3500,F CFA,CB,payé,,
+DEP00203,18/10/2025,loyer & charges,Eau,Direction ,9000,FCFA,Virement,payé,,Non
+DEP00354,2023-01-12,Resto,Cantine,Production,5000,fcfa,carte bancaire,En attente,A. Diabaté,Oui
+DEP00818,19 Oct 2024,RESTAURATION,Repas d'affaires,Informatique,25500,fcfa,virement,PAYE,,Non
+DEP00317,10/30/2025,fournitures de bureau,Mobilier bureau,marketing,283000,XOF,Chèque,PAYE,,
+DEP01013,18 Feb 2026,Loyer & Charges,Loyer bureau,Ressources Humaines,1077500,FCFA,Chèque,En attente,,
+DEP00443,2023-02-03,Charges,Internet/Téléphonie,finance,,F CFA,VIREMENT,En attente,A. Diabaté,Oui
+DEP00323,03/14/2024,marketing,Publicité en ligne,Marketing,143000,FCFA,CB,annulé,A. Diabaté,
+DEP00434,08/06/2023,Marketing,Réseaux sociaux,production,72000,FCFA,especes,annulé,M. Traoré,non
+DEP00605,31 Aug 2026,Divers,Frais bancaires,informatique,12500,fcfa,,PAYE,M. Traoré,Oui
+DEP01109,07/02/2024,Loyer et charges,Électricité,,107000,fcfa,VIREMENT,Payée,N. Kouassi,
+DEP00811,03/09/2024,Restauration,Traiteur événement,Finance,334000,FCFA,cheque,En attente,S. Koffi,Oui
+DEP00412,04/02/2023,MARKETING,Publicité en ligne,INFORMATIQUE,209000,F CFA,Virement,Payée,S. Koffi,non
+DEP00230,06/04/2023,Déplacements,Hôtel,Direction ,58000,fcfa,,Payé,S. Koffi,Non
+DEP01039,01/31/2025,formation,Formation en ligne,Direction ,58500,FCFA,cheque,Annulé,A. Diabaté,
+DEP00190,15 Dec 2025,Info,Maintenance IT,Finance,101000,fcfa,Chèque,Payée,M. Traoré,Oui
+DEP01007,20 Nov 2025,FORMATION,Certification,production,59500,F CFA,Chèque,payé,A. Diabaté,Non
+DEP00446,27 Dec 2025,marketing,Publicité en ligne,production,116000,fcfa,Chèque,payé,S. Koffi,Non
+DEP00593,03/26/2024,Markting,Impression flyers,direction,33000,FCFA,Chèque,Payée,M. Traoré,non
+DEP01104,19-12-2025,Loyer et charges,Électricité,marketing,122500,XOF,Espèces,PAYE,S. Koffi,Non
+DEP00244,2024-04-11,Marketing,Salon professionnel,production,549500,XOF,cheque,Payée,S. Koffi,Oui
+DEP01294,17-08-2023,Loyer & Charges,Internet/Téléphonie, Direction,59000,XOF,,Payé,A. Diabaté,
+DEP00475,13/02/2025,DIVERS,Non catégorisé,  MARKETING  ,31000,fcfa,VIREMENT,Payée,A. Diabaté,oui
+DEP00420,2026-01-11,DIVERS,Frais de notaire,Logistique,90500,FCFA,carte bancaire,,N. Kouassi,non
+DEP00716,06/02/2025,Fourniture bureau,Mobilier bureau,,118500,F CFA,CB,PAYE,,oui
+DEP00071,2023-06-23,Fournitures,Consommables,RESSOURCES HUMAINES,20000,fcfa,especes,payé,,Oui
+DEP00565,05/09/2026,marketing,Salon professionnel,production,515500,fcfa,Espèces,Annulé,M. Traoré,
+DEP00980,09 Mar 2023,Fourniture bureau,Papeterie,DIRECTION,22500,FCFA,cheque,annulé,A. Diabaté,
+DEP01043,08/02/2026,Markting,Impression flyers,logistique,22500,FCFA,cheque,Payée,,
+DEP00621,05/25/2023,RESTAURATION,Cantine,ressources humaines,3500,F CFA,especes,En attente,,Oui
+DEP00052,2024-03-25,fournitures de bureau,Papeterie,Marketing,,fcfa,Carte bancaire,annulé,,
+DEP00483,05/06/2024,Restauration,Traiteur événement,informatique,210500,XOF,CB,payé,N. Kouassi,Non
+DEP00546,2024-10-14,Divers,Frais de notaire,informatique,99000,FCFA,carte bancaire,Annulé,M. Traoré,
+DEP00080,16 Apr 2026,loyer & charges,,Direction,65500,XOF,Virement,en attente,S. Koffi,Non
+DEP01298,23 Jun 2025,,Frais bancaires,VENTES,6000,F CFA,especes,En attente,N. Kouassi,
+DEP00272,02/08/2024,restauration,Traiteur événement,direction,139000,FCFA,virement,en attente,,Oui
+DEP00581,24/07/2025,Charges,Eau,logistique,15000,XOF,virement,PAYE,M. Traoré,
+DEP00632,19 May 2025,formation,Formation en ligne,PRODUCTION,22500,XOF,carte bancaire,en attente,M. Traoré,non
+DEP00010,12-06-2024,Fournitures de bureau,,Ressources Humaines,244000,fcfa,Espèces,Payée,M. Traoré,Oui
+DEP00922,10/18/2023,Divers,Frais bancaires,  ressources humaines  ,8500,FCFA,especes,En attente,M. Traoré,non
+DEP00781,30 Dec 2023,Déplacements,,ventes,3000,FCFA,Chèque,En attente,S. Koffi,
+DEP00011,12/04/2023,RESTAURATION,Repas d'affaires,VENTES,,F CFA,Chèque,Payé,A. Diabaté,Non
+DEP00298,05/21/2025,fournitures de bureau,Consommables,  DIRECTION  ,20000,FCFA,CB,Annulé,S. Koffi,Oui
+DEP00247,05/25/2025,Markting,Publicité en ligne,Informatique,166500,FCFA,virement,En attente,A. Diabaté,
+DEP00940,25 Dec 2024,loyer & charges,Loyer bureau,Direction ,1044000,F CFA,VIREMENT,annulé,M. Traoré,
+DEP00661,29-01-2024,IT,Maintenance IT, Direction,72500,F CFA,Virement,Payé,N. Kouassi,
+DEP00971,16 Oct 2024,IT,,marketing,31500,fcfa,VIREMENT,En attente,N. Kouassi,
+DEP01056,2024-08-09,Deplacements,Hôtel,,83000,XOF,virement,En attente,S. Koffi,non
+DEP00450,03/21/2026,Restauration,Traiteur événement,,358000,F CFA,Carte bancaire,En attente,,Non
+DEP00305,24 Aug 2023,Markting,Réseaux sociaux,ventes,71000,XOF,VIREMENT,PAYE,,
+DEP00329,08 Jul 2024,Markting,Salon professionnel,MARKETING,806500,FCFA,carte bancaire,Annulé,N. Kouassi,Non
+DEP00231,02/06/2026,marketing,Publicité en ligne,ventes,62000,F CFA,Virement,Annulé,A. Diabaté,Oui
+DEP00796,2023-11-25,Autre,Frais bancaires,RESSOURCES HUMAINES,9000,XOF,carte bancaire,Payé,,Oui
+DEP00149,10/26/2025,Fournitures de bureau,Papeterie,Ressources Humaines,24500,XOF,Espèces,PAYE,,oui
+DEP00591,16-12-2024,formation,Formation en ligne,RESSOURCES HUMAINES,30000,fcfa,Carte bancaire,annulé,S. Koffi,oui
+DEP01252,25/03/2024,restauration,Repas d'affaires,Ventes,28000,FCFA,cheque,en attente,N. Kouassi,
+DEP00076,22/04/2026,FORMATION,Certification,RESSOURCES HUMAINES,147000,fcfa,Espèces,en attente,A. Diabaté,
+DEP00280,2023-09-14,déplacements,Billet avion,direction,513000,F CFA,carte bancaire,en attente,S. Koffi,non
+DEP00679,08-12-2023,formation,Formation en ligne,Informatique,57500,F CFA,Virement,Payée,M. Traoré,
+DEP01206,09 Aug 2024,,Assurance,RESSOURCES HUMAINES,114000,fcfa,especes,en attente,S. Koffi,oui
+DEP00530,2023-05-22,Fourniture bureau,Consommables,Direction,19000,fcfa,virement,payé,M. Traoré,
+DEP00507,30-05-2024,Informatique,Hébergement cloud,ventes,56000,F CFA,virement,annulé,A. Diabaté,Non
+DEP00225,24 May 2026,Transport,Péage,RESSOURCES HUMAINES,2000,F CFA,Espèces,PAYE,M. Traoré,oui
+DEP01237,21-11-2023,fournitures de bureau,Papeterie,marketing,17000,XOF,CB,Payé,N. Kouassi,
+DEP00246,14 Apr 2024,DIVERS,Frais de notaire,FINANCE,87500,F CFA,virement,payé,M. Traoré,
+DEP00126,16/02/2026,Loyer & Charges,Internet/Téléphonie,Direction,29500,FCFA,Espèces,PAYE,N. Kouassi,Non
+DEP01231,05/18/2026,Autre,Non catégorisé,Direction,29500,F CFA,Carte bancaire,en attente,N. Kouassi,
+DEP01026,2025-08-06,Divers,Non catégorisé,Marketing,23000,FCFA,especes,payé,S. Koffi,Non
+DEP00368,09 Mar 2026,Autre,Non catégorisé,Logistique,15500,fcfa,VIREMENT,Annulé,M. Traoré,
+DEP00631,07/22/2026,restauration,Traiteur événement,MARKETING,272000,XOF,CB,payé,,Non
+DEP00537,08-02-2023,formation,Certification,FINANCE,153000,XOF,CB,en attente,N. Kouassi,oui
+DEP00934,18-05-2026,fournitures de bureau,Cartouches encre,DIRECTION,,fcfa,Chèque,En attente,N. Kouassi,
+DEP00522,02-05-2023,Autre,Non catégorisé,PRODUCTION,32500,F CFA,Espèces,payé,M. Traoré,Non
+DEP00453,08/31/2023,Loyer et charges,Loyer bureau,production,1049000,fcfa,CB,PAYE,M. Traoré,oui
+DEP01290,2025-10-07,Loyer & Charges,,,68000,F CFA,Carte bancaire,Payé,N. Kouassi,Oui
+DEP00826,23/06/2024,Info,Matériel informatique,  Direction   ,692500,F CFA,carte bancaire,payé,,Non
+DEP00743,2024-08-04,divers,Assurance,  Marketing  ,136000,XOF,CB,Annulé,,
+DEP00467,10 Aug 2024,Déplacements,Carburant,INFORMATIQUE,,fcfa,,Payée,,
+DEP00045,27/10/2023,marketing,Impression flyers,informatique,44500,XOF,virement,En attente,,oui
+DEP00435,29/04/2023,loyer & charges,Internet/Téléphonie,DIRECTION,48000,FCFA,VIREMENT,PAYE,,Non
+DEP01158,01 Apr 2025,Marketing,Salon professionnel,FINANCE,483500,fcfa,virement,en attente,N. Kouassi,oui
+DEP00137,16-12-2023,DIVERS,Frais bancaires,Marketing,12000,fcfa,,payé,,
+DEP01279,25-11-2024,,Non catégorisé,Direction ,28500,fcfa,Virement,en attente,M. Traoré,oui
+DEP00118,2025-11-08,RESTAURATION,Traiteur événement,logistique,164000,fcfa,cheque,Payée,N. Kouassi,Non
+DEP00818,19 Oct 2024,RESTAURATION,Repas d'affaires,Informatique,25500,fcfa,virement,PAYE,,Non
+DEP00854,2025-04-29,Divers,Frais de notaire,Marketing,34500,F CFA,especes,Payée,,Non
+DEP01025,20-07-2024,restauration,Traiteur événement,Logistique,448000,XOF,cheque,annulé,,Non
+DEP00920,11/30/2025,Formation,Certification,Logistique,153000,FCFA,Virement,En attente,M. Traoré,Oui
+DEP00827,31-03-2023,FORMATION,Séminaire,logistique,130500,XOF,VIREMENT,En attente,,oui
+DEP00469,2024-06-17,FORMATION,Certification,direction,90500,F CFA,Carte bancaire,Payée,S. Koffi,Non
+DEP00110,2024-05-01,déplacements,Billet avion,production,491500,F CFA,virement,Payée,,oui
+DEP00269,04-10-2024,Marketing,Salon professionnel,Logistique,611000,FCFA,Chèque,PAYE,A. Diabaté,Oui
+DEP00481,2025-06-30,restauration,Cantine,FINANCE,5000,FCFA,especes,Payée,N. Kouassi,non
+DEP00646,11/19/2024,Loyer et charges,Eau,Ventes,9500,XOF,Espèces,Annulé,N. Kouassi,
+DEP00099,10 Sep 2025,Restauration,Repas d'affaires,Finance,32000,fcfa,VIREMENT,en attente,N. Kouassi,oui
+DEP00871,2024-03-27,MARKETING,Salon professionnel,Informatique,516000,F CFA,especes,payé,M. Traoré,oui
+DEP01078,2025-07-16,IT,Licence logiciel,  Direction   ,96000,F CFA,Chèque,annulé,M. Traoré,non
+DEP01170,15-07-2025,Charges,Internet/Téléphonie,Logistique,25000,FCFA,Carte bancaire,,,Non
+DEP01035,05/14/2025,FORMATION,Séminaire,marketing,149000,fcfa,virement,Payé,M. Traoré,
+DEP01120,10-08-2023,IT,Hébergement cloud,informatique,62500,FCFA,cheque,payé,M. Traoré,Non
+DEP00736,13/05/2024,Info,Maintenance IT,informatique,88500,FCFA,CB,PAYE,M. Traoré,non
+DEP00252,27/06/2026,Deplacements,Taxi/VTC,MARKETING,8000,FCFA,Carte bancaire,PAYE,M. Traoré,non
+DEP00365,11/23/2024,Info,Hébergement cloud,Ressources Humaines,70000,fcfa,Espèces,payé,,
+DEP01228,02/11/2023,IT,Maintenance IT,Production,41000,fcfa,Chèque,Payé,S. Koffi,
+DEP01222,2024-06-04,Fournitures,Papeterie,INFORMATIQUE,,fcfa,especes,Annulé,N. Kouassi,non
+DEP00957,28 Jan 2025,Autre,Frais de notaire,Direction ,,fcfa,virement,PAYE,M. Traoré,non
+DEP01071,01/09/2024,FORMATION,Certification,ventes,70000,XOF,cheque,en attente,S. Koffi,Oui
+DEP00877,2025-12-16,déplacements,Carburant,Marketing,30000,XOF,CB,en attente,A. Diabaté,
+DEP01051,20-06-2025,RESTAURATION,Cantine,LOGISTIQUE,4500,fcfa,Carte bancaire,Annulé,,Non
+DEP01276,10/25/2025,RESTAURATION,Repas d'affaires,PRODUCTION,30500,fcfa,Virement,,A. Diabaté,Oui
+DEP00948,13 Jun 2025,,Assurance,LOGISTIQUE,128500,XOF,Carte bancaire,Payée,N. Kouassi,oui
+DEP00615,18/01/2025,DIVERS,Assurance,Direction,107500,FCFA,Espèces,Payé,A. Diabaté,oui
+DEP01003,12 Oct 2023,IT,Hébergement cloud,Marketing,65500,F CFA,especes,PAYE,,
+DEP00901,2025-11-13,loyer & charges,Eau,informatique,12000,F CFA,VIREMENT,Annulé,A. Diabaté,
+DEP00563,2024-12-26,Formation,Certification,finance,151000,FCFA,especes,En attente,A. Diabaté,oui
+DEP00635,2026-03-23,Fournitures de bureau,Consommables,LOGISTIQUE,8500,FCFA,CB,annulé,A. Diabaté,Oui
+DEP00369,11/12/2023,Informatique,Hébergement cloud,Logistique,,F CFA,Espèces,annulé,M. Traoré,Oui
+DEP00919,29/05/2026,IT,Maintenance IT,Ressources Humaines,68000,fcfa,VIREMENT,,N. Kouassi,
+DEP00815,22-08-2024,FORMATION,Séminaire,marketing,217000,FCFA,Virement,,,Non
+DEP01259,11 Jan 2026,loyer & charges,Internet/Téléphonie,informatique,54000,F CFA,Carte bancaire,payé,,Oui
+DEP00946,2025-06-11,Info,Matériel informatique,Ressources Humaines,521000,F CFA,cheque,PAYE,M. Traoré,
+DEP00408,13-12-2023,Loyer et charges,Loyer bureau,Marketing,1139500,F CFA,virement,En attente,M. Traoré,Oui
+DEP00823,19-07-2024,Fournitures de bureau,,finance,13000,fcfa,Virement,annulé,N. Kouassi,
+DEP00801,04/11/2024,formation,Séminaire,PRODUCTION,245500,XOF,especes,,N. Kouassi,Non
+DEP00750,2026-06-27,Formation,Formation en ligne,Finance,53000,fcfa,Chèque,Annulé,M. Traoré,Oui
+DEP00205,26 Mar 2023,Resto,Cantine,Ressources Humaines,3000,XOF,virement,Annulé,A. Diabaté,Oui
+DEP01014,20 Aug 2025,restauration,Cantine,RESSOURCES HUMAINES,5500,fcfa,carte bancaire,Annulé,S. Koffi,
+DEP00023,2023-11-28,Marketing,Réseaux sociaux,ressources humaines,36500,fcfa,Espèces,payé,,oui
+DEP00773,2024-05-20,Fournitures,Consommables, Direction,20500,XOF,carte bancaire,Annulé,N. Kouassi,non
